@@ -1,0 +1,1114 @@
+---
+ten: "QTR LUAN CHUYEN HS DAT CN-HO.mht"
+loai: "Khác"
+sac_thue: ["TaxAdmin"]
+tinh_trang: "con_hieu_luc"
+---
+
+# QTR LUAN CHUYEN HS DAT CN-HO.mht
+
+BỘ
+  TÀI CHÍNH
+TỔNG CỤC THUẾ
+CỘNG HOÀ XĂ HỘI CHỦ
+  NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+QUY TR̀NH
+Luân chuyển
+và xử lư hồ sơ xác định nghĩa vụ tài
+chính trong nội bộ
+cơ quan Thuế đối với các
+khoản thu từ đất của cá nhân, hộ gia
+đ́nh
+Ban hành kèm theo
+Q
+uyết định
+số
+2155
+/QĐ-TCT ngày
+14
+tháng
+12
+năm 201
+7
+của Tổng cục
+T
+rưởng Tổng cục Thuế)
+Phần I
+NHỮNG QUY ĐỊNH
+CHUNG
+1. Phạm vi điều chỉnh
+Quy tŕnh
+này
+hướng dẫn
+việc luân chuyển và xử lư
+hồ sơ
+xác
+định nghĩa vụ tài chính đối với các
+khoản thu
+liên quan đến đất của cá nhân, hộ gia
+đ́nh tại cơ quan Thuế
+(bao gồm các
+khoản thu tiền sử dụng đất và các
+khoản thuế, lệ phí khác liên quan đến sử
+dụng đất)
+từ
+bước nhận hồ sơ đến
+phát hành
+Thông báo
+về
+nghĩa
+vụ
+tài
+chính
+phải
+nộp
+và
+theo dơi thu nộp
+.
+2. Đối tượng áp dụng
+-
+Cơ quan thuế các cấp:
+Tổng cục Thuế,
+Cục Thuế và Chi cục Thuế.
+-
+Các bộ phận của
+cơ quan Thuế tham gia thực hiện quy tŕnh:
++ Pḥng Quản lư các khoản thu
+từ đất hoặc bộ phận quản lư các
+khoản thu từ đất theo phân công của Cục
+trưởng Cục Thuế
+;
+P
+ḥng Kê khai và Kế toán
+Thuế
+; Pḥng Quản lư thuế thu nhập cá nhân; Pḥng Tin
+học thuộc Cục Thuế hoặc bộ phận tin
+học thuộc Cục Thuế;
++ Bộ phận
+q
+uản lư
+các
+khoản thu từ đất, Bộ phận Đăng kư
+thuế, Bộ phận quản lư thuế sử dụng
+đất phi nông nghiệp thuộc các Đội chức
+năng của Chi cục Thuế;
++
+Các pḥng, đội
+khác
+có chức năng liên quan
+;
++ Lănh đạo Cục Thuế và Chi
+cục Thuế.
+3. Giải
+thích từ ngữ
+và viết tắt
+Trong quy tŕnh này, các từ
+ngữ dưới đây được hiểu như
+sau:
+- Cơ quan Đăng kư
+đất đai: Là các đơn vị được
+giao làm đầu mối nhận hồ sơ đăng kư
+đất đai, bao gồm Văn phòng Đăng
+ký đất đai, Chi nhánh Văn pḥng Đăng kư
+đất đai, Phòng Tài nguyên và Môi trường,
+Văn phòng Đăng ký quyền sử dụng
+đất (đối với những nơi chưa thành
+lập Văn phòng Đăng ký đất
+đai);
+-
+Bộ phận
+quản lư các khoản thu
+từ đất:
+Là đội chức năng
+được phân công nhiệm vụ quản lư các
+khoản thu từ đất tại Chi cục Thuế;
+- Bộ phận quản lư thuế
+sử dụng đất phi nông nghiệp: Là bộ
+phận chức năng được phân công quản lư
+thuế sử dụng đất phi nông nghiệp;
+- Bộ phận đăng kư
+thuế: Là bộ phận chức năng được
+phân công nhiệm vụ quản lư đăng kư thuế;
+- Bộ phận chức năng
+giải quyết miễn giảm: Là bộ phận chức
+năng được phân công nhiệm vụ xử lư
+miễn, giảm thuế;
+- Phiếu chuyển: Là
+p
+hiếu chuyển thông tin
+xác
+định nghĩa vụ tài chính
+về đất đai
+theo quy định tại
+T
+hông tư 88/2016/TTLT-BTC-BTNMT
+ngày 22/06/2016
+giữa
+Bộ Tài chính và Bộ Tài nguyên và Môi trường quy
+định về hồ sơ và tŕnh tự
+, thủ tục
+tiếp
+nhận, luân chuyển hồ sơ xác định nghĩa
+vụ tài chính về đất đai của người
+sử dụng đất do cơ quan Đăng kư
+đất đai chuyển sang;
+-
+Thông báo nghĩa vụ tài chính
+: Là các
+thông báo về
+tiền sử
+dụng đất, tiền thuế, lệ phí liên quan
+phải nộp đối với hồ sơ xác
+định nghĩa vụ tài chính về đất đai
+của người sử dụng đất;
+-
+Giấy
+tờ định danh cá nhân: Là các giấy tờ tùy thân
+của công dân Việt Nam hoặc công dân nước ngoài
+đến Việt Nam được cơ quan Nhà
+nước có thẩm quyền cấp, bao gồm: Thẻ
+căn cước công dân hoặc Giấy chứng minh nhân
+dân c̣n hiệu lực (đối với cá nhân là
+người có quốc tịch Việt Nam); Hộ chiếu
+c̣n hiệu lực (đối với cá nhân là người
+có quốc tịch nước ngoài và người Việt
+Nam
+ở nước ngoài);
+- Người nộp thuế: Là cá
+nhân, hộ gia đ́nh sử dụng đất, chủ
+sở hữu tài sản gắn liền với đất
+theo quy định của Luật đất đai;
+- Sử dụng mă số thuế đặc
+trưng:
+L
+à việc
+sử dụng
+mă số thuế
+đặc
+trưng của cơ quan thuế
+để
+theo dơi hồ sơ và nghĩa vụ tài chính trên ứng
+dụng đối với những trường hợp
+đại diện hộ
+gia đ́nh, cá nhân
+không
+thể
+có
+giấy
+tờ định danh cá nhân để
+cấp
+mă số thuế
+theo quy định
+;
+- Ứng dụng
+Quản
+lư Trước bạ, nhà đất (viết tắt là Ứng
+dụng QLTB-NĐ)
+:
+Là ứ
+ng dụng quản lư các
+khoản thu từ đất của cá nhân, hộ gia
+đ́nh và quản lư thu lệ phí trước bạ
+tài
+sản;
+- MST: Mă số thuế;
+- NNT: Người nộp thuế;
+- CQT: Cơ quan thuế;
+- TMS: Hệ thống quản lư
+thuế tập trung;
+- Thuế SDĐ PNN: Thuế sử
+dụng đất phi nông nghiệp.
+Phần II
+NHỮNG QUY ĐỊNH CỤ THỂ
+I. TIẾP NHẬN, PHÂN CÔNG XỬ LƯ, KIỂM TRA, TRA CỨU/CẤP
+MST ĐỐI VỚI HỒ SƠ XÁC ĐỊNH NGHĨA VỤ
+TÀI CHÍNH
+1.
+Tiếp nhận và phân công xử
+lư hồ sơ
+1.1. Tiếp nhận hồ sơ
+a)
+Hồ sơ giấy:
+Cán bộ tiếp nhận thuộc Bộ phận
+quản lư các khoản thu từ đất thực hiện:
+- Tiếp nhận hồ sơ từ cơ quan
+Đăng kư đất đai chuyển sang, ghi Sổ giao
+nhận hồ sơ về nghĩa vụ tài chính về
+đất đai theo Mẫu số 05/LCHS ban hành kèm theo Thông
+tư liên tịch số 88/2016/TTLT/BTC-BTNMT và nhập thông tin
+chung về hồ sơ vào ứng dụng QLTB-NĐ.
+- Tiếp nhận hồ sơ từ NNT nộp
+trực tiếp tại CQT, kiểm tra hồ sơ theo điểm
+2 mục này. Đối với hồ sơ thiếu thông
+tin: không tiếp nhận hồ sơ, hướng dẫn
+NNT bổ sung thông tin đầy đủ. Đối với
+hồ sơ đầy đủ thông tin, thực hiện ghi
+Sổ nhận hồ sơ, nhập thông tin chung về hồ
+sơ vào ứng dụng QLTB-NĐ, in phiếu hẹn trả
+cho NNT theo mẫu phiếu hẹn trả kết quả giải
+quyết hồ sơ thuế của qui tŕnh Tiếp nhận
+và giải quyết thủ tục hành chính thuế của
+người nộp thuế theo cơ chế một cửa
+tại cơ quan Thuế, ban hành kèm theo quyết định
+số 2351/QĐ-TCT ngày 11/12/2015 của Tổng cục
+trưởng Tổng cục Thuế.
+- Chuyển phụ trách Bộ phận quản lư
+các khoản thu từ đất để phân công xử lư
+hồ sơ.
+b) Hồ sơ điện tử:
+Hồ sơ điện tử nhận từ
+cơ quan Đăng kư đất đai truyền sang được
+tự động ghi sổ nhận hồ sơ và lưu
+trên ứng dụng QLTB-NĐ.
+1.2. Phân công xử lư
+Liên tục trong ngày, phụ trách Bộ phận quản
+lư các khoản thu từ đất sử dụng chức
+năng trên ứng dụng QLTB-NĐ để thực hiện
+phân công cán bộ xử lư hồ sơ.
+Trường hợp phân công xử lư ngoài ứng
+dụng, phải cập nhật ngay kết quả phân công
+vào ứng dụng để cán bộ có căn cứ thực
+hiện các công việc tiếp theo.
+2. Kiểm tra
+thông tin hồ sơ
+Căn cứ hồ sơ được
+phân công, cán bộ xử lư hồ sơ thực hiện kiểm
+tra tính đầy đủ của các thông tin để xác
+định nghĩa vụ tài chính, bao gồm:
+- Thông tin trên
+Phiếu chuyển và hồ sơ đính kèm theo Thông tư
+liên tịch số 88/2016/TTLT/BTC-BTNMT.
+- Thông tin định
+danh cá nhân của NNT.
+- Thông tin xác nhận
+của UBND xă/phường trên tờ khai thuế sử dụng
+đất phi nông nghiệp của người bán trong
+trường hợp là hồ sơ chuyển nhượng bất
+động sản.
+- Các thông tin cần
+thiết cho việc xác định miễn giảm (nếu
+có).
+Căn cứ kết
+quả kiểm tra hồ sơ:
+a) Trường hợp hồ sơ đầy
+đủ thông tin, cán bộ xử lư hồ sơ tiếp tục
+thực hiện theo điểm 3, mục này.
+b)
+Trường
+hợp hồ sơ thiếu một trong các thông tin sau: Thông
+tin làm căn cứ xác định nghĩa vụ tài chính trên
+Phiếu chuyển; giấy tờ định danh cá nhân của
+NNT(trừ trường hợp không thể có); thông tin xác nhận
+của UBND xă/phường trên tờ khai thuế sử dụng
+đất phi nông nghiệp của người bán trong
+trường hợp hồ sơ chuyển nhượng bất
+động sản:
+- Cán bộ xử
+lư hồ sơ thực hiện lập danh sách các hồ
+sơ thiếu thông tin (theo mẫu số 05/LCHS ban hành kèm
+theo Thông tư liên tịch số 88/2016/TTLT/BTC-BTNMT); ghi rơ
+thông tin c̣n thiếu vào cột ghi chú; báo cáo phụ trách Bộ
+phận quản lư các khoản thu từ đất phê duyệt.
+Sau khi danh sách được phê duyệt, cán bộ xử
+lư ghi sổ trả hồ sơ trên ứng dụng
+QLTB-NĐ và chuyển danh sách hồ sơ thiếu thông tin sang
+cơ quan Đăng kư đất đai để yêu cầu
+bổ sung đầy đủ thông tin. Thời gian thực
+hiện điểm 1 và điểm 2, mục I, phần II tối
+đa không quá nửa ngày (0,5 ngày) làm việc.
+Sau khi cơ quan
+Đăng kư đất đai bổ sung đầy đủ
+thông tin, cán bộ xử lư hồ sơ thực hiện cập
+nhật hồ sơ và ngày nhận hồ sơ đầy
+đủ vào Sổ nhận hồ sơ trên ứng dụng
+QLTB-NĐ để làm căn xứ xác định thời
+gian xử lư hồ sơ và tiếp tục thực hiện
+theo điểm 3, mục này.
+3. Tra cứu/cấp Mă số thuế
+Cán bộ xử lư hồ
+sơ căn cứ thông tin định danh cá nhân trên hồ
+sơ để tra cứu MST của NNT trên website ngành thuế
+www.gdt.gov.vn
+hoặc ứng dụng
+TMS.
+- Trường hợp NNT
+đă có MST: Thực hiện giải quyết hồ sơ
+xác định nghĩa vụ tài chính theo mục II phần
+này.
+- Trường
+hợp NNT chưa có MST nhưng có đủ giấy tờ
+định danh cá nhân là duy nhất để cấp MST: Cán
+bộ xử lư hồ sơ thực hiện lập Phiếu
+đề nghị cấp MST (theo mẫu số PC-MST ban hành
+kèm theo qui tŕnh này) tŕnh Phụ trách Bộ phận quản lư
+các khoản thu từ đất kư chuyển
+Bộ phận đăng kư thuế
+để
+cấp MST cho NNT trong nửa ngày (0,5 ngày) làm
+việc kể từ khi nhận đủ hồ sơ.
+Sau khi nhận
+được đề nghị cấp MST,
+bộ phận đăng kư thuế
+thực hiện cấp MST cho NNT theo qui định; ghi MST
+vào phần kết quả cấp mă của Phiếu đề
+nghị cấp MST và chuyển trả MST của NNT đă cấp
+cho Bộ phận quản lư các khoản thu từ đất
+trong nửa ngày (0,5 ngày) làm việc
+kể từ khi nhận Phiếu đề nghị
+cấp MST của Bộ phận Quản lư các khoản thu từ
+đất.
+- Trường hợp NNT
+chưa có MST nhưng không thể có giấy tờ định
+danh cá nhân làm căn cứ để cấp MST: Cán bộ xử
+lư hồ sơ báo cáo Phụ trách Bộ phận quản lư
+các khoản thu từ đất, tŕnh Lănh đạo Chi cục
+phê duyệt sử dụng MST đặc trưng để
+quản lư trên hệ thống.
+Thời gian thực hiện
+việc cấp MST không quá một ngày (1 ngày) làm việc.
+Trong trường hợp
+Chi cục Thuế phân công cho Bộ phận quản lư các
+khoản thu từ đất thực hiện việc cấp
+MST cho NNT, Chi cục trưởng Chi cục Thuế phải
+ra quyết định bằng văn bản, ghi rơ phạm
+vi, trách nhiệm của bộ phận thực hiện cấp
+MST,
+yêu cầu
+bộ phận được phân công cấp
+MST thực hiện theo quy định của quy tŕnh
+đăng kư thuế
+.
+II.
+GIẢI QUYẾT HỒ SƠ XÁC ĐỊNH NGHĨA VỤ
+TÀI CHÍNH
+Cán bộ xử lư hồ sơ thực hiện
+từ điểm 1 đến điểm 4 mục này, thời
+gian thực hiện không quá hai ngày (2 ngày) làm việc đối
+với hồ sơ giấy và một ngày (1 ngày) làm việc
+đối với hồ sơ điện tử, cụ thể:
+1. Xác định nghĩa vụ tài chính trên hồ
+sơ
+Cán bộ xử lư hồ sơ
+thực hiện:
+- Nhập các thông tin xác định
+nghĩa vụ tài chính trên hồ sơ vào ứng dụng QLTB-NĐ
+(đối với hồ sơ giấy).
+- Thực hiện xác định
+các khoản nghĩa vụ tài chính phải nộp của
+NNT theo quy định.
+Trường hợp hồ sơ của NNT là hồ
+sơ chuyển nhượng bất động sản, cán
+bộ xử lư hồ sơ gửi Phiếu xác nhận
+nghĩa vụ thuế SDĐ PNN của người chuyển
+nhượng bất động sản đến thời
+điểm chuyển nhượng (theo mẫu PXN-TSDĐPNN
+ban hành kèm theo qui tŕnh này) kèm theo tờ khai thuế SDĐ PNN
+(nếu có) sang Bộ phận quản lư thuế SDĐ PNN.
+Bộ phận quản lư thuế SDĐ PNN thực hiện
+theo điểm 2 mục này.
++ Trường hợp hồ sơ xác định
+nghĩa vụ tài chính của NNT có các khoản miễn, giảm,
+các khoản được trừ tiền sử dụng
+đất vào số thuế phải nộp th́ tiếp tục
+thực hiện theo điểm 3 mục này.
++ Trường hợp hồ
+sơ xác định nghĩa vụ tài chính của NNT không có
+các khoản miễn, giảm, các khoản được trừ
+tiền sử dụng đất vào số thuế phải
+nộp th́ tiếp tục thực hiện theo điểm 4
+mục này.
+2. Xác định nghĩa vụ
+tài chính đối với khoản thuế sử dụng
+đất phi nông nghiệp của hồ sơ chuyển
+nhượng
+- Căn cứ thông tin trên hồ
+sơ chuyển nhượng và dữ liệu quản lư thuế
+SDĐ PNN, Bộ phận quản lư thuế SDĐ PNN có
+trách nhiệm kiểm tra và xác định t́nh trạng hoàn
+thành nghĩa vụ thuế SDĐ PNN đối với hồ
+sơ chuyển nhượng của người chuyển
+nhượng bất động sản đến thời
+điểm chuyển nhượng.
++ Trường hợp người
+chuyển nhượng bất động sản đă kê
+khai nghĩa vụ thuế SDĐ PNN nhưng chưa hoàn
+thành, Bộ phận quản lư thuế sử dụng đất
+phi nông nghiệp in Thông báo thuế SDĐ PNN c̣n phải nộp
+đến thời điểm chuyển nhượng, tŕnh
+Lănh đạo Chi cục Thuế kư, đóng dấu và chuyển
+cho Bộ phận quản lư các khoản thu về đất
+để gửi cho người chuyển nhượng bất
+động sản và cơ quan Đăng kư đất
+đai cùng với Thông báo nghĩa vụ tài chính trên hồ
+sơ.
++ Trường hợp người
+chuyển nhượng bất động sản chưa kê
+khai nghĩa vụ thuế SDĐ PNN, Bộ phận quản
+lư thuế sử dụng đất phi nông nghiệp căn
+cứ tờ khai thuế SDĐ PNN của người chuyển
+nhượng bất động sản gửi kèm hồ
+sơ chuyển nhượng, xác định nghĩa vụ
+thuế và in Thông báo thuế SDĐ PNN đến thời
+điểm chuyển nhượng, tŕnh Lănh đạo Chi cục
+Thuế kư, đóng dấu và chuyển cho bộ phận quản
+lư các khoản thu về đất để gửi cho
+người chuyển nhượng bất động sản
+và cơ quan Đăng kư đất đai cùng với Thông
+báo nghĩa vụ tài chính trên hồ sơ.
+Thời gian Bộ phận quản
+lư thuế SDĐ PNN xác định nghĩa vụ thuế,
+in thông báo, tŕnh kư và chuyển thông báo sang Bộ phận quản
+lư các khoản thu từ đất không quá một ngày (1 ngày)
+làm việc.
+3. Xác
+định các khoản NNT được giảm trừ
+Bộ
+phận quản lư các khoản thu từ đất thực
+hiện:
+a)
+Đối với hồ
+sơ có các khoản được trừ vào số tiền
+sử dụng đất phải nộp thuộc thẩm
+quyền quyết định của cơ quan các cấp
+(không thuộc thẩm quyền quyết định của
+cơ quan Thuế):
++ Nhập thông tin miễn, giảm
+và
+các khoản được trừ vào số
+tiền sử dụng đất
+vào ứng dụng QLTB - NĐ;
++ Kiểm tra xác định
+nghĩa vụ tài chính c̣n lại sau miễn giảm.
+Thời gian thực hiện tối đa không quá nửa
+ngày (0,5 ngày) làm việc.
+b) Đối với hồ
+sơ có các khoản miễn, giảm thuộc thẩm quyền
+của Cục trưởng, Chi cục trưởng Chi cục
+Thuế,
+cán bộ xử
+lư hồ sơ thực
+hiện:
+- Chuyển hồ sơ miễn
+giảm đến bộ phận chức năng giải
+quyết miễn giảm (Theo Quyết định số
+749/QĐ-TCT ngày 20/04/2015 của Tổng cục trưởng
+Tổng cục Thuế về việc ban hành quy tŕnh miễn
+giảm thuế).
+- Nhận kết quả xử
+lư miễn giảm từ bộ phận chức năng và
+nhập thông tin vào ứng dụng QLTB - NĐ;
+- Kiểm tra xác định
+nghĩa vụ tài chính c̣n lại sau miễn giảm.
+Thời gian xử lư miễn giảm
+tối đa không quá một ngày (1 ngày) làm việc.
+Lưu ư: Trường hợp hồ
+sơ miễn giảm thuộc đối tượng miễn
+thuế thu nhập cá nhân đối với chuyển
+nhượng bất động sản là nhà ở, đất
+ở duy nhất: Bộ phận giải quyết hồ
+sơ miễn, giảm thuế thực hiện kiểm tra
+trên ứng dụng quản lư thuế SDĐ PNN để
+giải quyết hồ sơ miễn giảm thuế theo quy
+định.
+Trong
+trường hợp Chi cục Thuế phân công cho Bộ phận
+quản lư các khoản thu từ đất xử lư hồ
+sơ miễn giảm, Chi cục trưởng Chi cục
+Thuế phải ra quyết định bằng văn bản,
+ghi rơ phạm vi, trách nhiệm của bộ phận xử
+lư hồ sơ miễn giảm,
+yêu cầu
+bộ
+phận được phân công thực hiện theo quy định
+của quy tŕnh miễn giảm thuế
+.
+4.
+Dự thảo thông báo
+Sau khi hoàn thành việc xử lư
+hồ sơ xác định nghĩa vụ tài chính, xác định
+thuế SDĐ PNN c̣n phải nộp (nếu có) đối
+với hồ sơ chuyển nhượng và các khoản miễn
+giảm,
+các khoản được
+trừ vào số tiền sử dụng đất
+(nếu có), cán bộ
+xử lư hồ sơ thực hiện:
+- Dự
+thảo Thông báo nghĩa vụ tài chính của người sử
+dụng đất hoặc Thông báo nghĩa vụ tài chính của
+người sử dụng đất thay thế (trong
+trường hợp đă gửi Thông báo nghĩa vụ tài
+chính cho NNT);
+- Thực hiện quét (scan) Thông
+báo nghĩa vụ thuế SDĐ PNN (nếu có), đính kèm vào
+hồ sơ xác định nghĩa vụ tài chính của
+người sử dụng đất trên ứng dụng
+QLTB-NĐ.
+- Tŕnh hồ sơ đă xử lư
+lên phụ trách Bộ phận quản lư các khoản thu từ
+đất, bao gồm Thông báo nghĩa vụ tài chính và Thông
+báo nghĩa vụ thuế SDĐ PNN (nếu có) của
+người sử dụng đất.
+5.
+Kiểm tra việc xử lư, xác định nghĩa vụ
+tài chính
+Phụ trách Bộ phận quản
+lư các khoản thu từ đất thực hiện kiểm
+tra các hồ sơ đă được cán bộ xử lư.
+- Đối với hồ sơ chưa đạt
+yêu cầu, phụ trách Bộ phận quản lư các khoản
+thu từ đất chuyển trả cán bộ để hoàn
+thiện (ghi rơ lư do chuyển trả và những nội dung
+cần tiếp tục xử lư).
+- Đối với hồ
+sơ đạt yêu cầu, phụ trách Bộ phận quản
+lư các khoản thu từ đất tŕnh Lănh đạo Chi cục
+Thuế để phê duyệt và kư Thông báo nghĩa vụ
+tài chính của người sử dụng đất.
+Thời
+gian thực hiện kiểm tra tối đa không quá nửa
+ngày (0,5 ngày) làm việc.
+6. Phê duyệt và phát hành Thông báo
+nghĩa vụ tài chính của người sử dụng
+đất
+Lănh đạo Chi cục
+Thuế thực hiện phê duyệt các hồ sơ đă
+được phụ trách Bộ phận quản lư các khoản
+thu từ đất kiểm tra.
+- Trường
+hợp hồ sơ chưa đạt yêu cầu: Lănh đạo
+Chi cục Thuế chuyển phụ trách Bộ phận quản
+lư các khoản thu từ đất giải tŕnh, làm rơ hoặc
+bổ sung thêm thông tin (ghi rơ lư do).
+-
+Trường hợp
+hồ sơ đạt yêu cầu:
++ Đối với hồ sơ điện tử:
+·
+Lănh đạo Chi cục Thuế kư số (đích
+danh) trên Thông báo nghĩa vụ tài chính;
+·
+Cán bộ được phân công thực hiện
+truyền thông tin về nghĩa vụ tài chính của NNT sang
+cơ quan Đăng kư đất đai (bao gồm Thông báo
+nghĩa vụ tài chính và Thông báo thuế SDĐ PNN (nếu có))
++ Đối với
+hồ sơ giấy:
+·
+Lănh đạo Chi cục Thuế thực hiện
+phê duyệt kết quả xử lư hồ sơ trên ứng
+dụng QLTB-NĐ; kư Thông báo nghĩa vụ tài chính và chuyển
+Bộ phận quản lư các khoản thu từ đất;
+·
+Bộ phận quản lư các khoản thu từ
+đất thực hiện gửi Thông báo nghĩa vụ
+tài chính và Thông báo thuế SDĐ PNN (nếu có) cho NNT, cơ
+quan Đăng kư đất đai và các đơn vị
+liên quan theo quy định qua Bưu điện hoặc giao
+trực tiếp cho NNT.
+·
+Trường hợp giao thông báo trực tiếp
+cho NNT, Bộ phận quản lư các khoản thu từ đất
+thực hiện ghi Sổ giao nhận hồ sơ xác định
+nghĩa vụ tài chính về đất đai của
+người sử dụng đất (mẫu số 03/LCHS
+ban hành kèm theo Thông tư 88/2016/TTLT-BTC-BTNMT).
+Thời gian Lănh đạo Chi cục Thuế thực
+hiện phê duyệt tối đa không quá nửa ngày (0,5
+ngày) làm việc.
+Lưu
+ư:
+Trường hợp Lănh đạo Chi cục Thuế
+không thực hiện phê duyệt kết quả xử lư hồ
+sơ trên ứng dụng QLTB-NĐ th́ bộ phận Quản
+lư các khoản thu từ đất cập nhật kết
+quả xử lư hồ sơ vào ứng dụng để
+làm căn cứ xác định thời điểm hoàn thành
+xử lư hồ sơ.
+Ghi
+chú: Bộ phận Quản lư các khoản thu từ đất
+hỗ trợ in hoặc truyền các bảng kê: Bảng kê
+đồng sở hữu tài sản; Bảng kê chi tiết
+các vị trí đất; Bảng kê chi tiết nhà đính kèm
+các Thông báo nghĩa vụ tài chính để cung cấp cho
+cơ quan Đăng kư đất đai phục vụ ghi
+thông tin đồng sở hữu trên giấy chứng nhận
+quyền sử dụng đất khi có yêu cầu.
+-
+Theo dơi và cập nhật ngày NNT nhận Thông báo thuế thu
+nhập cá nhân làm căn cứ xác định hạn nộp
+thuế:
++ Trường hợp
+CQT gửi thông báo cho NNT qua bưu điện bằng h́nh thức
+thư bảo đảm: Căn cứ thông tin trên phiếu
+giao nhận thư bảo đảm của bưu điện,
+Bộ phận quản lư các khoản thu từ đất cập
+nhật ngày NNT nhận thông báo thuế vào ứng dụng
+QLTB-NĐ;
++ Trường hợp
+CQT gửi thông báo trực tiếp cho NNT: Bộ phận quản
+lư các khoản thu từ đất cập nhật ngày bàn
+giao thông báo thuế cho NNT trên Sổ giao nhận hồ
+sơ xác định nghĩa vụ tài chính về đất
+đai của người sử dụng đất (mẫu
+số 03/LCHS ban hành kèm theo Thông tư 88/2016/TTLT-BTC-BTNMT) vào ứng
+dụng QLTB-NĐ;
++ Trường hợp
+CQT gửi thông tin điện tử về nghĩa vụ
+tài chính của NNT sang cơ quan Đăng kư đất
+đai: Bộ phận Quản lư các khoản thu từ đất
+chủ động đề nghị cơ quan Đăng
+kư đất đai phối hợp cung cấp thông tin về
+ngày NNT nhận thông báo thuế cho CQT và cập nhật vào ứng
+dụng QLTB-NĐ.
+7. Phối
+hợp bổ sung hoặc điều chỉnh nghĩa vụ
+thuế SDĐ PNN
+Đối với các hồ sơ
+cấp mới hoặc điều chỉnh bổ sung quyền
+sử dụng đất hoặc quyền sử dụng
+nhà gắn liền với đất, sau khi hoàn thành việc
+Thông báo nghĩa vụ tài chính cho NNT, Bộ phận quản
+lư các khoản thu từ đất cung cấp danh sách NNT, tờ
+khai thuế SDĐ PNN (nếu có) và các thông tin cần thiết
+cho Bộ phận quản lư thuế SDĐ PNN để thực
+hiện quản lư và theo dơi theo quy định hiện hành.
+8. Nhận và hạch toán chứng
+từ thực hiện nghĩa vụ tài chính của NNT
+Hàng
+ngày, cán bộ xử lư hồ sơ căn cứ chứng từ
+nộp từ Kho bạc truyền sang thực hiện hạch
+toán trừ nợ nghĩa vụ tài chính của NNT.
+Trường
+hợp người đại diện nộp thay cho các
+đồng sở hữu, cán bộ xử lư hồ sơ thực
+hiện phân bổ chứng từ nộp nghĩa vụ tài
+chính cho từng cá nhân đồng sở hữu để
+làm căn cứ xác định việc hoàn thành nghĩa vụ
+tài chính của các cá nhân đồng sở hữu.
+9. Gửi thông tin hoàn thành nghĩa
+vụ tài chính của NNT cho cơ quan
+Đăng kư
+đất đai (áp dụng đối với hồ
+sơ điện tử)
+Trường
+hợp có sự thống nhất về việc cơ quan
+Thuế gửi thông tin hoàn thành nghĩa vụ tài chính của
+NNT cho cơ quan Đăng kư đất đai, ngay trong ngày
+khi nhận được chứng từ nộp tiền của
+NNT, căn cứ vào danh sách hồ sơ đă hoàn thành
+nghĩa vụ tài chính (bao gồm cả nghĩa vụ thuế
+SDĐ PNN đối với hồ sơ chuyển nhượng
+nếu có) được hệ thống hỗ trợ,
+Lănh đạo Chi cục Thuế duyệt danh sách; kư số
+và truyền thông tin sang cơ quan Đăng kư đất
+đai.
+Đối
+với hồ sơ có nghĩa vụ thuế SDĐ PNN, cán
+bộ xử lư hồ sơ phải xác định việc
+hoàn thành nghĩa vụ thuế SDĐ PNN trước khi
+Lănh đạo Chi cục Thuế duyệt và kư gửi
+cơ quan Đăng kư đất đai, các bước thực
+hiện như sau:
++ Cán
+bộ Bộ phận quản lư các khoản thu từ đất
+kết xuất Danh sách NNT phải hoàn thành nghĩa vụ
+thuế SDĐ PNN trên ứng dụng QLTB-NĐ chuyển Bộ
+phận quản lư thuế sử dụng đất phi nông
+nghiệp;
++ Bộ
+phận quản lư thuế sử dụng đất phi nông
+nghiệp kiểm tra và xác định NNT đă hoàn thành
+nghĩa vụ thuế SDĐ PNN đối với hồ
+sơ chuyển nhượng, chuyển Bộ phận quản
+lư các khoản thu từ đất;
++ Bộ
+phận quản lư các khoản thu từ đất cập
+nhật thông tin hoàn thành nghĩa vụ thuế SDĐ PNN vào
+ứng dụng QLTB-NĐ.
+III.
+THEO DƠI NỢ THUẾ ĐỐI VỚI TRƯỜNG HỢP
+ĐƯỢC GHI NỢ, THANH TOÁN NỢ TIỀN SỬ DỤNG
+ĐẤT THEO QUY ĐỊNH CỦA PHÁP LUẬT VỀ TIỀN
+SỬ DỤNG ĐẤT VÀ GHI NỢ, THANH TOÁN NỢ LỆ
+PHÍ TRƯỚC BẠ THEO QUY ĐỊNH CỦA PHÁP LUẬT
+VỀ LỆ PHÍ TRƯỚC BẠ
+1.
+Ghi nợ tiền sử
+dụng đất, lệ phí trước bạ
+Căn cứ thông tin
+đề nghị ghi nợ tiền sử dụng đất,
+lệ phí trước bạ của NNT do cơ quan
+Đăng kư đất đai chuyển đến, Bộ
+phận quản lư các khoản thu từ đất thực
+hiện:
+- Xác
+định số tiền được ghi nợ;
+- Lập
+sổ theo dơi ghi nợ tiền sử dụng đất, lệ
+phí trước bạ.
+2.
+Thanh toán ghi nợ
+2.1. Thanh toán ghi nợ
+tiền sử dụng đất
+- Khi
+NNT đến Chi cục Thuế để kê khai thanh toán ghi
+nợ tiền sử dụng đất, Bộ phận quản
+lư các khoản thu từ đất căn cứ sổ theo
+dơi nợ để thực hiện thủ tục thanh toán
+ghi nợ tiền sử dụng đất cho NNT theo quy
+định của pháp luật.
+- Trường
+hợp NNT hoàn thành nghĩa vụ tài chính, Bộ phận quản
+lư các khoản thu từ đất thực hiện:
++
+Đối với hồ sơ giấy: Phối hợp với
+Bộ phận có liên quan xác nhận đă hoàn thành nghĩa vụ
+tài chính để cung cấp cho cơ quan Đăng kư
+đất đai.
++
+Đối với hồ sơ điện tử: thực
+hiện theo điểm 9, mục II Phần II tại quy
+tŕnh này.
+2.2. Thanh toán ghi nợ
+lệ phí trước bạ
+- Chi
+cục Thuế thực hiện thủ tục thanh toán ghi nợ
+lệ phí trước bạ cho NNT theo quy định của
+pháp luật.
+- Trường hợp NNT
+hoàn thành nghĩa vụ tài chính, Bộ phận quản lư các
+khoản thu từ đất thực hiện:
++
+Đối với hồ sơ giấy: Phối hợp với
+Bộ phận có liên quan xác nhận đă hoàn thành nghĩa vụ
+tài chính để để cung cấp cho cơ quan
+Đăng kư đất đai.
++
+Đối với hồ sơ điện tử: thực
+hiện theo điểm 9, mục I Phần II tại quy
+tŕnh này.
+IV.
+ĐỐI CHIẾU SỐ LIỆU VÀ XỬ LƯ SAI SÓT
+1. Đối chiếu số liệu
+1.1. Đối chiếu
+số liệu với cơ quan Đăng kư đất
+đai
+-
+Trước ngày 5 hàng tháng, cán bộ được phân công
+của Bộ phận quản lư các khoản thu từ đất
+in chi tiết tổng số Phiếu chuyển nhận từ
+cơ quan Đăng kư đất đai, chi tiết Thông
+báo nghĩa vụ tài chính tương ứng với từng
+Phiếu chuyển đă chuyển cơ quan Đăng kư
+đất đai, những Phiếu chuyển chưa xử
+lư, những Phiếu chuyển trả lại,… của tháng
+trước, tŕnh Lănh đạo Chi cục Thuế để
+chuyển sang cơ quan Đăng kư đất đai để
+đối chiếu.
+-
+Cơ quan thuế đối chiếu với số liệu
+cơ quan Đăng kư đất đai chuyển sang,
+trường hợp sai sót chuyển lại cơ quan Đăng
+kư đất đai để phối hợp giải quyết,
+cụ thể:
++
+Nếu việc sai sót do phía cơ quan Đăng kư đất
+đai th́ cơ quan Đăng kư đất đai thực
+hiện điều chỉnh và cung cấp thông tin sau điều
+chỉnh sang cơ quan Thuế.
++
+Nếu việc sai sót do phía cơ quan Thuế th́ cơ quan
+Thuế thực hiện điều chỉnh và thông báo lại
+cơ quan Đăng kư đất đai.
+1.2 Đối chiếu
+số nộp ngân sách nhà nước giữa Sổ theo dơi
+thu nộp với Báo cáo tổng hợp thu nội địa
+Trước
+5 ngày làm việc kể từ ngày hết hạn khoá sổ
+thuế tháng, cán bộ được phân công của Bộ
+phận quản lư các khoản thu từ đất thực
+hiện đối chiếu tổng số tiền nộp
+NSNN theo từng tiểu mục trên mẫu số S7/TN - Sổ
+theo dơi thu nộp trên ứng dụng QLTB-NĐ với các tiểu
+mục tương ứng trên Báo cáo tổng hợp thu nội
+địa (BC3-CT) trên hệ thống quản lư thuế tập
+trung (TMS) để đảm bảo khớp đúng số
+liệu hạch toán giữa hai ứng dụng.
+Trường
+hợp có sai sót, phải làm rơ nguyên nhân và điều chỉnh
+kịp thời trước khi khóa sổ thuế tháng theo quy
+định.
+2. Xử lư sai sót
+2.1
+Đối với sai sót do cơ quan Đăng kư đất
+đai
+a)
+Trường hợp cơ quan Thuế chưa phát hành Thông
+báo nghĩa vụ tài chính:
+- Nếu hồ sơ chưa
+tŕnh Lănh đạo Chi cục Thuế: Cán bộ xử lư hồ
+sơ báo cáo phụ trách Bộ phận quản lư các khoản
+thu từ đất và thực hiện chỉnh sửa
+thông tin, xác định lại nghĩa vụ tài chính cho NNT
+theo thông tin cơ quan Đăng kư đất đai bổ
+sung.
+- Nếu
+hồ sơ đă được tŕnh Lănh đạo Chi cục
+Thuế: phụ trách Bộ phận quản lư các khoản
+thu từ đất báo cáo Lănh đạo Chi cục Thuế
+để chỉnh sửa thông tin, xác định lại
+nghĩa vụ tài chính cho NNT theo thông tin cơ quan Đăng
+kư đất đai bổ sung.
+b)
+Trường hợp đă phát hành Thông báo nghĩa vụ tài
+chính:
+P
+hụ trách Bộ phận quản
+lư các khoản thu từ đất báo cáo Lănh đạo Chi
+cục Thuế để hủy thông báo cũ, thực hiện
+xác định lại nghĩa vụ tài chính, phát hành thông
+báo mới thay thế và gửi lại cho cơ quan
+Đăng kư đất đai, NNT thực hiện nghĩa
+vụ tài chính.
+2.2.
+Đối với sai sót do cơ quan Thuế
+a)
+Trường hợp chưa phát hành Thông báo nghĩa vụ
+tài chính:
+- Nếu
+hồ sơ chưa tŕnh Lănh đạo Chi cục Thuế: cán
+bộ xử lư hồ sơ báo cáo phụ trách Bộ phận
+quản lư các khoản thu từ đất và thực hiện
+chỉnh sửa thông tin, xác định lại nghĩa vụ
+tài chính cho NNT.
+- Nếu
+hồ sơ đă được tŕnh Lănh đạo Chi cục
+Thuế: phụ trách Bộ phận quản lư các khoản
+thu từ đất báo cáo Lănh đạo Chi cục Thuế
+để chỉnh sửa thông tin, xác định lại
+nghĩa vụ tài chính cho NNT.
+b) Trường hợp
+đă phát hành Thông báo nghĩa vụ tài chính và gửi cơ
+quan Đăng kư đất đai:
+Phụ
+trách Bộ phận quản lư các khoản thu từ đất
+báo cáo Lănh đạo Chi cục Thuế để hủy thông
+báo cũ, thực hiện xác định lại nghĩa vụ
+tài chính, phát hành thông báo mới thay thế và gửi lại
+cho cơ quan Đăng kư đất đai.
+V.
+LẬP, THEO DƠI SỔ SÁCH
+Bộ phận quản
+lư các khoản thu từ đất có trách nhiệm lập
+và theo dơi nghĩa vụ của các loại sổ sách cụ
+thể như sau:
+- Sổ phát sinh:
++ Mẫu số S1/PS: Sổ phát sinh
+tiền sử dụng đất;
++ Mẫu số S2/PS: Sổ phát sinh
+thuế thu nhập cá nhân;
++ Mẫu số S3/PS: Sổ phát sinh
+lệ phí trước bạ nhà đất.
+- Sổ ghi nợ:
++ Mẫu số S4/GN: Sổ theo dơi
+ghi nợ tiền sử dụng đất;
++ Mẫu số S5/GN: Sổ theo dơi
+ghi nợ lệ phí trước bạ nhà đất.
+- Mẫu số S6/MG: Sổ theo dơi
+t́nh h́nh miễn giảm thuế;
+- Mẫu số S7/TN: Sổ theo dơi
+thu nộp.
+- Mẫu số S8/ST: Sổ thuế.
+Các mẫu sổ và báo cáo được
+tạo lập trên
+ứng dụng QLTB-NĐ
+, cơ quan Thuế các cấp khai thác phục
+vụ công tác quản lư theo chức năng, nhiệm vụ.
+Cơ quan Thuế chỉ in bản giấy, kư đóng dấu
+và cung cấp khi có yêu cầu của cơ quan nhà nước
+có thẩm quyền.
+Các cơ quan Thuế sử dụng
+ứng
+dụng QLTB-NĐ
+chịu trách nhiệm về tính chính xác, đầy
+đủ, kịp thời của dữ liệu trên ứng
+dụng và trên các báo cáo được tạo lập, khai
+thác từ ứng dụng
+QLTB-NĐ
+.
+VI.
+LƯU TRỮ HỒ SƠ
+1.
+Lưu
+trữ bằng giấy
+Bộ
+phận quản lư các khoản thu từ đất có trách
+nhiệm lưu trữ hồ sơ xác định nghĩa
+vụ tài chính bao gồm: Hồ sơ do cơ quan
+Đăng kư đất đai chuyển sang, Quyết định
+miễn thuế, giảm thuế và các tài liệu phát sinh
+trong quá tŕnh giải quyết hồ sơ tại Chi cục
+Thuế theo từng NNT;
+Sau 01 (một)
+năm kể từ khi kết thúc năm xác định
+nghĩa vụ tài chính, Bộ phận quản lư các khoản
+thu từ đất thực hiện chuyển hồ sơ
+đến Đội Hành chính - Lưu trữ để thực
+hiện lưu trữ hồ sơ theo quy định.
+2. Lưu trữ tại cơ sở dữ
+liệu của ngành Thuế
+Cục Công nghệ thông tin
+-Tổng cục Thuế có trách nhiệm lưu trữ
+dữ liệu được xử lư trên ứng dụng QLTB-NĐ
+đảm bảo đầy đủ, an toàn, bảo
+mật và hỗ trợ khai thác dữ liệu cho các bộ
+phận liên quan khi cần thiết.
+Phần III
+TỔ CHỨC
+THỰC HIỆN
+1.
+Đối với Tổng cục Thuế
+- Vụ
+Quản lư thuế thu nhập cá nhân chịu trách nhiệm
+hướng dẫn, chỉ đạo về nghiệp vụ
+theo dơi các khoản thu về đất theo hướng dẫn
+tại quy tŕnh này.
+- Cục Công nghệ thông tin chịu trách
+nhiệm x
+ây dựng và triển khai ứng dụng
+công nghệ thông tin để hỗ trợ công tác quản
+lư
+các khoản
+thu
+liên quan đến
+đất
+tại cơ quan Thuế
+khoa học, thuận lợi và hiệu quả.
+Triển khai kết nối
+mạng giữa cơ quan Thuế với cơ quan Tài nguyên
+môi trường để chia sẻ thông tin, dữ liệu
+về quản lư đất đai.
+2. Đối với Cục Thuế
+-
+Tổ chức, phân công, chỉ đạo
+việc phối hợp giữa các pḥng thuộc
+Cục Thuế
+, phối hợp với cơ quan Tài nguyên môi
+trường
+thực hiện quy tŕnh này
+.
+-
+Hướng dẫn, chỉ đạo và kiểm tra các
+pḥng, các Chi cục Thuế thực hiện quy tŕnh này trên
+địa bàn quản lư.
+-
+Đề xuất, kiến nghị với
+Tổng cục Thuế,
+Ủy ban nhân dân
+và các cơ quan cùng cấp
+các biện pháp quản lư
+thu
+thuế
+, các biện pháp phối
+hợp giữa các cơ quan trên địa bàn
+có hiệu quả.
+-
+Đề xuất với Tổng cục
+Thuế sửa đổi, bổ sung cơ chế, chính
+sách, quy tŕnh quản lư
+các khoản thu liên quan đến đất
+và các chỉ tiêu trong
+Phiếu chuyển thông tin để xác định
+nghĩa vụ tài chính;
+Mẫu biểu
+báo cáo
+ban
+hành kèm theo quy tŕnh này để xử lư kịp thời những
+t́nh huống cụ thể trong quá tŕnh quản lư
+thu
+thuế
+tại Cục Thuế, Chi cục Thuế
+.
+3.
+Đối với Chi cục Thuế
+- Tổ
+chức, phân công
+thực hiện
+việc phối hợp
+giữa các đội thuộc Chi cục Thuế thực
+hiện quy tŕnh này.
+-
+Đề
+xuất, kiến nghị với Cục Thuế,
+Ủy ban nhân dân
+và các cơ quan cùng cấp các biện pháp quản lư thu
+thuế có hiệu quả
+.
+-
+Đề
+xuất với Cục Thuế để báo cáo với Tổng
+cục Thuế sửa đổi, bổ sung cơ chế,
+chính sách, quy tŕnh quản lư
+các khoản thu liên quan đến đất
+và các chỉ tiêu trong mẫu biểu đă ban hành kèm theo
+quy tŕnh này
+,
+Phiếu chuyển thông tin để xác định nghĩa
+vụ tài chính
+để xử lư kịp thời
+những t́nh huống cụ thể trong quá tŕnh quản lư
+thu
+thuế
+tại Chi cục Thuế
+./.
+DANH MỤC
+MẪU BIỂU
+Quy tŕnh
+luân chuyển và xử lư hồ sơ
+xác định nghĩa vụ tài chính trong nội bộ
+cơ quan Thuế đối với các
+khoản thu từ đất của cá nhân, hộ gia
+đ́nh
+S
+tt
+Kư hiệu
+Tên
+1
+Mẫu số S1/PS
+Sổ phát sinh tiền sử
+  dụng đất
+2
+Mẫu số S2/PS
+Sổ phát sinh thuế
+  TNCN
+3
+Mẫu số S3/PS
+Sổ phát sinh lệ phí
+  trước bạ nhà đất
+4
+Mẫu số S4/GN
+Sổ theo dơi ghi nợ
+  tiền sử dụng đất
+5
+Mẫu số S5/GN
+Sổ theo dơi ghi nợ lệ
+  phí trước bạ nhà đất
+6
+Mẫu số S6/MG
+Sổ theo dơi t́nh h́nh miễn
+  giảm thuế
+7
+Mẫu số S7/TN
+Sổ theo dơi thu nộp
+8
+Mẫu số S8/ST
+Sổ thuế
+9
+Mẫu PC-MST
+Phiếu đề nghị cấp mă số thuế
+10
+Mẫu PXN-TSDĐPNN
+Phiếu yêu cầu xác nhận nghĩa vụ thuế
+  sử dụng đất Phi nông nghiệp.
