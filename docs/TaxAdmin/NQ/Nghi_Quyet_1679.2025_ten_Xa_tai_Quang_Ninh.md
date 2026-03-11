@@ -1,0 +1,656 @@
+---
+so_hieu: "Nghi Quyet 1679.2025 ten Xa tai Quang Ninh"
+ten: "Nghi Quyet 1679.2025 ten Xa tai Quang Ninh"
+loai: "NQ"
+sac_thue: ["TaxAdmin"]
+tinh_trang: "con_hieu_luc"
+category: "DAT DAI"
+source: "EBOOK_THUE_2026"
+chm_path: "I.THUE/012. LINH VUC LIEN QUAN/016. Dat Dai/Nghi Quyet 1679.2025 ten Xa tai Quang Ninh.mht"
+---
+
+# Nghi Quyet 1679.2025 ten Xa tai Quang Ninh
+
+ỦY BAN
+  THƯỜNG VỤ QUỐC HỘI
+CỘNG H̉A XĂ
+  HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do -
+  Hạnh phúc
+Số: 1679/NQ-UBTVQH15
+NGHỊ
+QUYẾT
+Về việc sắp xếp
+các đơn vị hành chính cấp xă của tỉnh Quảng
+Ninh
+năm 2025
+ỦY BAN THƯỜNG
+VỤ QUỐC HỘI
+Căn
+cứ Hiến pháp nước Cộng ḥa xă hội chủ
+nghĩa Việt Nam
+đă được
+sửa đổi,
+bổ sung một
+số điều theo Nghị quyết số
+203
+/2025/QH15
+;
+Căn cứ Luật Tổ
+chức chính quyền địa phương số 72/2025/QH15
+;
+Căn cứ Nghị quyết
+số 76/2025/UBTVQH15 ngày 14 tháng 4 năm 2025 của
+Ủy ban Thường vụ Quốc hội về
+việc sắp xếp đơn vị hành chính năm 2025;
+Xét đề nghị
+của Chính phủ tại Tờ tŕnh số372/TTr-CP và
+Đề án số 373/ĐA-CP
+ngày 09 tháng 5 năm 2025, Báo cáo
+thẩm tra số 437/BC-UBPLTP15 ngày 03 tháng 6
+năm 2025 của Ủy ban Pháp luật và Tư pháp,
+QUYẾT NGHỊ:
+Điều
+1.
+Sắp xếp các
+đơn vị hành chính cấp xă
+của tỉnh
+Quảng Ninh
+Trên cơ sở Đề án số 373/ĐA-CP ngày 09
+tháng 05 năm 2025 của Chính phủ về sắp xếp
+đơn vị hành chính cấp xă của tỉnh Quảng
+Ninh năm 2025, Ủy ban Thường vụ Quốc
+hội quyết định sắp xếp để thành
+lập các đơn vị hành chính cấp xă của
+tỉnh Quảng Ninh như sau:
+1.
+Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân
+số của
+các xă Bằng Cả, Dân Chủ, Tân Dân và Quảng La
+thành xă mới có tên gọi là
+xă
+Quảng La
+.
+2.
+Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân
+số của các
+xă Vũ Oai,Ḥa B́nh, Thống Nhất và một phần
+diện tích tự nhiên, quy mô dân số của xă
+Đồng Lâm thành xă mới có tên gọi là
+xă Thống Nhất
+.
+3. Sắp xếpmột phần diện
+tích tự nhiên, quy mô dân số của xă Hải Lạng và
+một phần diện tích tự nhiên của xă Hải Ḥa thành
+xă mới có tên gọi là
+xă
+Hải Ḥa
+.
+4.
+Sắp xếp toàn
+bộ diện tích tự nhiên, quy mô dân số của
+thị trấn Tiên Yên, xă Phong Dụ, xă
+Tiên Lăng và một phần diện tích tự nhiên, quy mô dân
+số của các xă Yên Than, Đại Dực, Đông
+Ngũ,Vô Ngại thành xă mới có tên gọi là
+xă Tiên Yên
+.
+5.
+Sắp
+xếp toàn bộ diện tích tự nhiên, quy mô dân số
+của
+xă Hà
+Lâu, xă Điền Xá và phần c̣n lại của xă Yên Thansau
+khi sắp xếp theo quy định tại khoản 4
+Điều nàythành xă mới có tên gọi là
+xă Điền Xá
+.
+6.
+Sắp xếp toàn bộ diện tích tự nhiên, quy mô
+dân số của
+xă Đông Hải vàphần c̣n lại của xă Đại
+Dực,xă Đông Ngũ sau khi sắp xếp theo quy
+định tại
+khoản 4
+Điều này
+thành xă mới
+có tên gọi là
+xă
+Đông Ngũ
+.
+7.
+Sắp xếp toàn
+bộ diện tích tự nhiên, quy mô dân số của
+xă Đồng Rui, một phần
+diện
+tích tự nhiên, quy mô dân
+số của xă Hải Lạng và phần c̣n lại
+của xă Hải Ḥasau khi sắp xếp theo quy định
+tại khoản 3 Điều này thành xă mới có tên gọi
+là
+xă Hải Lạng
+.
+8.
+Sắp xếp toàn bộ diện tích tự nhiên, quy mô
+dân số của
+xă
+Đồng Sơn và xă Lương Minh
+thành xă mới có tên gọi là
+xă
+Lương Minh
+.
+9.
+Sắp xếp toàn
+bộ diện tích tự nhiên, quy mô dân số của các
+xă Thanh Lâm, Đạp Thanh và Kỳ
+Thượng thành xă mới có tên gọi là
+xă Kỳ Thượng
+.
+10.
+Sắp xếp toàn
+bộ diện tích tự nhiên, quy mô dân số của
+thị trấn Ba Chẽ, các xă Thanh
+Sơn, Nam Sơn, Đồn Đạc và phần c̣n
+lạicủa xă Hải Lạngsau khi sắp xếp theo quy
+định tại khoản 3 và khoản 7 Điều
+nàythành xă mới có tên gọi là
+xă
+Ba Chẽ
+.
+11.
+Sắp xếp toàn bộ diện tích
+tự nhiên, quy mô dân số của
+các xă Quảng
+An, Dực Yên, Quảng Lâm và
+Quảng Tân thành xă mới có tên gọi là
+xă Quảng Tân
+.
+12.
+Sắp xếp toàn
+bộ diện tích tự nhiên, quy mô dân số của
+thị
+trấn Đầm Hà và các xă Tân B́nh, Đại B́nh, Tân
+Lập, Đầm Hà thành xă mới có tên gọi là
+xă Đầm Hà
+.
+13.
+Sắp xếp toàn
+bộ diện tích tự nhiên, quy mô dân số của
+thị
+trấn Quảng Hà, các xă Quảng Minh, Quảng Chính,
+Quảng Phong và một phần diện tích tự
+nhiên, quy mô dân số của xă
+Quảng Long thành xă mới có tên gọi là
+xă Quảng Hà
+.
+14.
+Sắp xếp toàn
+bộ diện tích tự nhiên, quy mô dân số của
+xă Quảng
+Sơn, xă Đường Hoa và phần c̣n lại của xă
+Quảng Longsau khi sắp xếp theo quy định tại khoản
+13 Điều nàythành xă mới có tên gọi là
+xă Đường Hoa
+.
+15.
+Sắp xếp toàn
+bộ diện tích tự nhiên, quy mô dân số của
+các xă Quảng
+Thành, Quảng Thịnh và Quảng Đức thành xă mới
+có tên gọi là
+xă Quảng
+Đức
+.
+16.
+Sắp xếp toàn
+bộ diện tích tự nhiên, quy mô dân số của
+xă Đồng
+Văn và xă Hoành Mô thành xă mới có tên gọi là
+xă Hoành Mô
+.
+17.
+Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân
+số
+của
+xă
+Đồng Tâm và xă Lục Hồn thành xă mới có tên
+gọi là
+xă Lục Hồn
+.
+18.
+Sắp xếp toàn
+bộ diện tích tự nhiên, quy mô dân số của
+thị
+trấn B́nh Liêu, xă Húc Động và phần c̣n lại
+của xă Vô Ngạisau khi sắp xếp theo quy định
+tại khoản 4 Điều nàythành xă mới có tên gọi
+là
+xă B́nh Liêu
+.
+19.
+Sắp xếp toàn
+bộ diện tích tự nhiên, quy mô dân số của
+xă Bắc
+Sơn và xă Hải Sơn thành xă mới có tên gọi là
+xă Hải Sơn
+.
+20.
+Sắp xếp toàn
+bộ diện tích tự nhiên, quy mô dân số của
+xă Quảng
+Nghĩa và xă Hải Tiến thành xă mới có tên gọi là
+xă Hải Ninh
+.
+21. Sắp xếp toàn
+bộ diện tích tự nhiên, quy mô dân số
+của
+xă Vĩnh Trung
+và xă Vĩnh Thực thành xă mới có tên gọi là
+xă Vĩnh Thực
+.
+22.
+Sắp xếp toàn
+bộ diện tích tự nhiên, quy mô dân số của
+phường
+B́nh Dương, xă An Sinh, xă Việt Dân và một phần
+diện tích tự nhiên, quy mô dân số của phường
+Đức Chính thành phường mới có tên gọi là
+phường An Sinh
+.
+23.
+Sắp xếp toàn
+bộ diện tích tự nhiên, quy mô dân số của các
+phường
+Thủy An, Hưng Đạo, Hồng Phong, xă Nguyễn
+Huệ và phần c̣n lại của phường
+Đức Chínhsau khi sắp xếp theo quy định
+tại khoản 22 Điều nàythành phường mới
+có tên gọi là
+phường
+Đông Triều
+.
+24.
+Sắp xếp toàn
+bộ diện tích tự nhiên, quy mô dân số của
+phường
+Tràng An, phường B́nh Khê và xă Tràng Lương thành
+phường mới có tên gọi là
+phường B́nh Khê
+.
+25.
+Sắp xếp toàn
+bộ diện tích tự nhiên, quy mô dân số của các
+phường
+Xuân Sơn, Kim Sơn, Yên Thọ và Mạo Khê thành
+phường mới có tên gọi là
+phường Mạo Khê
+.
+26.
+Sắp xếp toàn
+bộ diện tích tự nhiên, quy mô dân số của
+phường
+Yên Đức, phường Hoàng Quế, xă Hồng Thái Tâyvà
+xă Hồng Thái Đông thành phường mới có tên gọi
+là
+phường Hoàng Quế
+.
+27.
+Sắp xếp toàn
+bộ diện tích tự nhiên, quy mô dân số của
+phường
+Phương Đông, phường Phương Nam và xă
+Thượ
+ng Yên Công
+thành
+phường mới có tên gọi là
+phường
+Yên Tử
+.
+28.
+Sắp xếp toàn
+bộ diện tích tự nhiên, quy mô dân số của
+các phường Bắc Sơn, Nam Khê, Vàng Danh và một
+phần diện tích tự nhiên, quy mô dân số của
+phường Trưng Vương
+thành
+phường mới có tên gọi là
+phường
+Vàng Danh
+.
+29.
+Sắp xếp toàn
+bộ diện tích tự nhiên, quy mô dân số của các
+phường Quang Trung, Thanh Sơn, Yên Thanh và
+phần c̣n
+lại của phường Trưng Vươngsau khi
+sắp xếp theo quy định tại khoản 28
+Điều nàythành phường mới có tên gọi là
+phường
+Uông Bí
+.
+30.
+Sắp xếp toàn
+bộ diện tích tự nhiên, quy mô dân số của
+phường Minh Thành và phường Đông Mai
+thành
+phường mới có tên gọi là
+phường
+Đông Mai
+.
+31.
+Sắp xếp toàn
+bộ diện tích tự nhiên và quy mô dân số của
+phường
+Cộng Ḥa, xă Sông Khoai và xă Hiệp Ḥa thành phường
+mới có tên gọi là
+phường
+Hiệp Ḥa
+.
+32.
+Sắp xếp toàn
+bộ diện tích tự nhiên, quy mô dân số của
+phường Yên Giang, phường Quảng Yên và xă Tiền
+An
+thành phường mới có tên gọi là
+phường
+Quảng Yên
+.
+33.
+Sắp xếp toàn
+bộ diện tích tự nhiên, quy mô dân số của
+phường Tân An, phường Hà An, xă Hoàng Tân và một
+phần diện tích tự nhiên của xă Liên Ḥa
+thành
+phường mới có tên gọi là
+phường
+Hà An
+.
+34.
+Sắp xếp toàn
+bộ diện tích tự nhiên, quy mô dân số của các
+phường Nam Ḥa, Yên Hải, Phong Cốc và xă Cẩm La
+thành
+phường mới có tên gọi là
+phường
+Phong Cốc
+.
+35.
+Sắp xếp toàn
+bộ diện tích tự nhiên, quy mô dân số của
+phường Phong Hải, xă Liên Vị, xă Tiền Phong và phần
+c̣n lại của xă Liên Ḥasau khi sắp xếp theo quy
+định tại khoản 33 Điều này
+thành
+phường mới có tên gọi là
+phường
+Liên Ḥa
+.
+36.
+Sắp xếp toàn
+bộ diện tích tự nhiên, quy mô dân số của
+phường
+Đại Yên, phường Tuần Châu và một phần
+diện tích tự nhiên, quy mô dân số của phường
+Hà Khẩu thành phường mới có tên gọi là
+phường Tuần Châu
+.
+37.
+Sắp
+xếp toàn bộ diện tích tự nhiên, quy mô dân số
+của
+phường Giếng
+Đáy, phường Việt Hưng và phần c̣n lại
+của phường Hà Khẩusau khi sắp xếp theo quy
+định tại khoản 36 Điều nàythành
+phường mới có tên gọi là
+phường Việt Hưng
+.
+38.
+Sắp xếp toàn
+bộ diện tích tự nhiên, quy mô dân số của
+phường
+Hùng Thắng và phường Băi Cháythành phường mới
+có tên gọi là
+phường
+Băi Cháy
+.
+39.
+Sắp
+xếp toàn bộ diện tích tự nhiên, quy mô dân số
+của
+phường Hà Phong và
+phường Hà Tu thành phường mới có tên gọi là
+phường Hà Tu
+.
+40.
+Sắp xếp toàn
+bộ diện tích tự nhiên, quy mô dân số của các
+phường Cao Thắng, Hà Trung và Hà Lầm
+thành
+phường mới có tên gọi là
+phường
+Hà Lầm
+.
+41.
+Sắp xếp toàn
+bộ diện tích tự nhiên, quy mô dân số của
+phường
+Hà Khánh và phường Cao Xanh thành phường mới có tên
+gọi là
+phường Cao Xanh
+.
+42.
+Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân
+số của các
+phường Bạch
+Đằng, Trần Hưng Đạo và Hồng Gai thành
+phường mới có tên gọi là
+phường Hồng Gai
+.
+43.
+Sắp xếp toàn
+bộ diện tích tự nhiên, quy mô dân số của
+phường
+Hồng Hà và phường Hồng Hải thành phường
+mới có tên gọi là
+phường
+Hạ Long
+.
+44.
+Sắp xếp toàn
+bộ diện tích tự nhiên, quy mô dân số của
+phường
+Hoành Bồ, xă Sơn Dương, xă Lê Lợi và phần c̣n
+lại củaxă Đồng Lâm sau khi sắp xếp theo quy
+định tại khoản 2 Điều này thành
+phường mới có tên gọi là
+phường Hoành Bồ
+.
+45.
+Sắp xếp toàn
+bộ diện tích tự nhiên, quy mô dân số của
+phường Mông Dương và xă Dương Huy
+thành
+phường mới có tên gọi là
+phường
+Mông
+Dương
+.
+46.
+Sắp xếp toàn
+bộ diện tích tự nhiên, quy mô dân số của
+các
+phường Cẩm Thạch, Cẩm Thủy và Quang Hanh thành
+phường mới có tên gọi là
+phường Quang Hanh
+.
+47.
+Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân
+số
+của các
+phường Cẩm Trung, Cẩm Thành, Cẩm B́nh, Cẩm
+Tây và Cẩm Đông thành phường mới có tên gọi
+là
+phường Cẩm Phả
+.
+48.
+Sắp xếp toàn
+bộ diện tích tự nhiên, quy mô dân số của
+các
+phường Cẩm Phú, Cẩm Thịnh, Cẩm Sơn và
+Cửa Ông thành phường mới có tên gọi là
+phường Cửa Ông
+.
+49.
+Sắp xếp toàn
+bộ diện tích tự nhiên, quy mô dân số của
+các
+phường Trần Phú, Hải Ḥa, B́nh Ngọc, Trà Cổ
+và xă Hải Xuân thành phường mới có tên gọi là
+phường Móng Cái 1
+.
+50.
+Sắp xếp toàn
+bộ diện tích tự nhiên, quy mô dân số của
+phường
+Ninh Dương, phường Ka Long và xă Vạn Ninh thành
+phường mới có tên gọi là
+phường Móng Cái 2
+.
+51.
+Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân
+số của
+phường Hải Yên
+và xă Hải Đông thành phường mới có tên gọi là
+phường Móng Cái 3
+.
+52.
+Sắp
+xếp
+toàn bộ diện tích
+tự nhiên, quy mô dân sốcủa
+thị trấn Cái Rồng và các xă
+Bản Sen, B́nh Dân, Đài Xuyên, Đoàn Kết, Đông Xá,
+Hạ Long, Minh Châu, Ngọc Vừng, Quan Lạn, Thắng
+Lợi,Vạn Yê
+n thành đặc
+khu có tên gọi là
+đặc
+khu Vân Đồn
+.
+53.
+Sắp
+xếp
+toàn bộ diện tích
+tự nhiên, quy mô dân số của
+thị
+trấn Cô Tô, xă Đồng Tiến và xă Thanh Lân
+thành đặc khu có tên
+gọi là
+đặc khu Cô Tô
+.
+54. Sau khi sắp
+xếp, tỉnh Quảng Ninh có 54 đơn vị hành chính cấp
+xă, gồm 22 xă, 30 phường và 02 đặc khu; trong
+đó có 21 xă, 30 phường, 02 đặc khu h́nh thành sau
+sắp xếp quy định tại Điều này và 01 xă
+không thực hiện sắp xếp là xă Cái Chiên.
+Điều
+2. Hiệu lực thi hành
+1. Nghị quyết này có hiệu
+lực thi hành từ ngày được thông qua.
+2. Các cơ quan theo thẩm
+quyền khẩn trương thực hiện các công tác
+chuẩn bị cần thiết, bảo đảm
+để
+chính quyền địa phương ở
+các đơn
+vị hành chính
+cấp
+xă
+h́nh thành sau
+sắp xếp quy định tại Điều 1 của
+Nghị quyết này chính thức hoạt động từ
+ngày 01 tháng 7 năm 2025.
+3. Chính quyền địa
+phương ở
+đơn
+vị hành chính
+cấp
+xă
+trước sắp xếp tiếp
+tục hoạt động cho đến khi chính quyền
+địa phương ở
+đơn
+vị hành
+chính
+cấp
+xă
+h́nhthành sau
+sắp xếp chính thức hoạt động.
+Điều
+3. Tổ chức thực hiện
+1.
+Chính phủ, Hội đồng nhân dân, Ủy ban nhân dân
+tỉnh Quảng Ninh,
+chính quyền
+địa phương các đơn vị hành chính liên quan
+đến việc thực hiện sắp xếp và các
+cơ quan, tổ chức khác có liên quan có trách nhiệm
+tổ chức thi hành Nghị quyết này; sắp xếp,
+ổn định bộ máy các cơ quan, tổ chức
+ở địa phương; ổn định đời
+sống của Nhân dân địa phương, bảo
+đảm yêu cầu phát triển kinh tế - xă hội,
+quốc pḥng và an ninh trên địa bàn.
+2.
+Giao Chính phủ, căn cứ vào
+Nghị quyết này và Đề án số 373/ĐA-CP ngày 09
+tháng 5 năm 2025 của Chính phủ, tổ chức việc
+xác định chính xác diện tích tự nhiên của các
+đơn vị hành chính cấp xă và công bố công khai
+trước ngày 30 tháng 9 năm 2025; đồng thời,
+khẩn trương triển khai công tác đo đạc,
+xác định phạm vi ranh giới của các đơn
+vị hành chính trên thực địa để lập
+hồ sơ về địa giới đơn vị hành
+chính theo quy định.
+3. Hội đồng Dân tộc, các
+Ủy ban của Quốc hội, Đoàn đại
+biểu Quốc hội và đại biểu Quốc
+hội tỉnh Quảng Ninh, trong phạm vi nhiệm
+vụ, quyền hạn của ḿnh, giám sát việc thực
+hiện Nghị quyết này.
+Nghị quyết
+này được Ủy ban Thường vụ Quốc
+hội nước Cộng ḥa xă hội chủ nghĩa
+Việt Nam khóa XV thông qua ngày 16 tháng
+6
+năm 2025.
+Nơi nhận:
+- Chính
+  phủ;
+- Ban Tổ
+  chức Trung ương;
+-
+Ủy ban TW
+  Mặt trận Tổ quốc Việt Nam;
+- Kiểm toán
+  nhà nước;
+- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc
+  CP;
+- Cục
+  Thống kê, Bộ Tài chính;
+- Tỉnh
+  ủy, HĐND, UBND, Đoàn ĐBQH
+,
+Ủy ban MTTQVN
+tỉnh Quảng Ninh
+;
+-
+Lưu: HC, PLTP.
+TM. ỦY BAN
+  THƯỜNG VỤ QUỐC HỘI
+CHỦ TỊCH
+Trần Thanh
+  Mẫn

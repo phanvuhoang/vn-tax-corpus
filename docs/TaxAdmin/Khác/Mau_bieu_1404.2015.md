@@ -1,0 +1,1853 @@
+---
+so_hieu: "Mau bieu 1404.2015"
+ten: "Mau bieu 1404.2015"
+loai: "Khác"
+sac_thue: ["TaxAdmin"]
+tinh_trang: "con_hieu_luc"
+category: "THANH TRA THUE"
+source: "EBOOK_THUE_2026"
+chm_path: "I.THUE/003. QUI TRINH/021. THANH TRA THUE/003. Mau bieu 1404.2015.mht"
+---
+
+# Mau bieu 1404.2015
+
+Phụ lục
+CÁC MẪU
+BIỂU BAN HÀNH KÈM THEO
+QUY
+TRÌNH THANH TRA THUẾ
+(Ban
+hành kèm theo Quyết định số
+1404/QĐ-TCT
+ngày
+28 tháng 7 năm 2015 của Tổng cục trưởng
+Tổng cục Thuế)
+STT
+Tên mẫu biểu
+Mẫu số
+1
+Quyết định phê duyệt kế
+  hoạch thanh tra
+01/QTTTr
+2
+Tập hợp tài liệu, phân
+  tích, xác định nội dung cuộc thanh tra
+02/QTTTr
+3
+Biên bản đối thoại, chất
+  vấn giữa đoàn thanh tra và ngưới nộp
+  thuế
+03/QTTTr
+4
+Quyết định về việc mở
+  niêm phong tài liệu
+04/QTTTr
+5
+Quyết định về việc huỷ
+  bỏ kiểm kê tài sản
+05/QTTTr
+6
+Biên bản xác nhận số liệu
+06/QTTTr
+7
+Phụ lục Biên bản thanh tra
+07/QTTTr
+8
+Báo cáo kết quả thanh tra
+08/QTTTr
+9
+Quyết định về việc ủy
+  quyền công bố kết luận thanh tra thuế
+09/QTTTr
+10
+Biên bản công bố kết luận
+  thanh tra
+10/QTTTr
+11
+Quyết định bổ sung nội dung
+  thanh tra
+11/QTTTr
+12
+Quyết định thay đổi trưởng
+  đoàn thanh tra
+12/QTTTr
+13
+Quyết định về việc bổ
+  sung (hoặc thay đổi) thành viên
+  đoàn thanh tra
+13/QTTTr
+14
+Văn bản chuyển hồ sơ
+14/QTTTr
+15
+Biên bản giao nhận hồ sơ vụ
+  việc có dấu hiệu tội phạm sang cơ
+  quan điều tra
+15/QTTTr
+16
+Báo cáo kết quả thanh tra
+  và theo dõi, đôn đốc sau thanh tra
+16/QTTTr
+17
+Báo
+  cáo kết quả thanh tra hoàn thuế
+17/QTTTr
+18
+Biên bản bàn giao hồ sơ
+  thanh tra.
+18/QTTTr
+Các
+biểu mẫu quy định tại Thông tư Thông
+tư số 156/2013/TT-BTC sử dụng vào quy
+trình thanh tra
+(Hiện
+thay đổi theo Thông tư 80/2021/TT-BTC
+STT
+Tên mẫu biểu
+Mẫu số
+1
+Quyết định thanh tra
+03/KTTT
+2
+Biên bản thanh tra
+04/KTTT
+3
+Biên bản công bố Quyết
+  định thanh tra
+05/KTTT
+4
+Kết luận thanh tra
+06/KTTT
+5
+Quyết định về việc niêm
+  phong tài liệu
+14/KTTT
+6
+Biên bản niêm phong tài liệu
+15/KTTT
+7
+Quyết định kiểm kê
+16/KTTT
+8
+Biên bản kiểm kê
+17/KTTT
+9
+Quyết định về việc gia hạn
+  thời gian thanh tra
+18/KTTT
+10
+Quyết định bãi bỏ Quyết
+  định thanh tra thuế
+19/KTTT
+11
+Quyết định xử lý về
+  thuế, xử phạt vi phạm hành chính qua
+  thanh tra việc chấp hành dự thảo luật
+  thuế
+20/KTTT
+12
+Báo cáo tiến độ thực
+  hiện nhiệm vụ thanh tra
+21/KTTT
+Mẫu số:
+01/QTTTr
+(Ban
+    hành kèm theo Quyết định số
+    1404/QĐ-TCT
+ngày
+    28
+tháng 7 năm 2015
+    của Tổng cục trưởng Tổng cục Thuế)
+TÊN
+  CƠ QUAN CẤP TRÊN
+TÊN CƠ QUAN THUẾ RA QUYẾT
+  ĐỊNH
+CỘNG HOÀ XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc
+  lập - Tự do - Hạnh phúc
+Số:.........../QĐ-..........
+......, ngày ..... tháng..... năm
+  ....
+QUYẾT ĐỊNH
+Về việc phê duyệt và giao
+kế hoạch thanh tra thuế năm.....
+CHỨC
+DANH THỦ TRƯỞNG CƠ QUAN THUẾ RA QUYẾT ĐỊNH
+Căn
+cứ Luật Quản lý thuế số 78/2006/QH11
+ngày 29/11/2006 và Luật số 21/2012/QH13 sửa
+đổi, bổ sung một số điều của Luật
+Quản lý thuế;
+Căn
+cứ Luật Th
+a
+nh tr
+a
+số 56/2010/QH12 ngày 15 tháng
+11 năm 2010 và các văn bản hướng dẫn
+thi hành;
+Căn
+cứ Quyết định số 115/2009/QĐ-TTg ngày
+28 tháng 9 năm 2009 của Thủ tướng
+Chính Phủ quy định chức năng, nhiệm vụ,
+quyền hạn và cơ cấu tổ chức của
+Tổng cục Thuế trực thuộc Bộ Tài
+chính;
+Căn
+cứ.......(Quyết định về chức năng, nhiệm
+vụ, quyền hạn và cơ cấu tổ chức
+của Cục thuế thuộc Tổng cục Thuế);
+Căn cứ Quyết
+định số 109/2009/QĐ-BTC ngày 14/01/2010 của
+Bộ trưởng Bộ Tài chính quy định
+chức năng, nhiệm vụ, quyền hạn và
+cơ cấu tổ chức của Thanh tra Tổng cục
+Thuế;
+Căn cứ Quyết
+định số ..../QĐ-TCT ngày ...
+tháng......năm......củ
+a
+Tổng cục trưởng Tổng cục Thuế về
+việc b
+a
+n hành Quy
+trình th
+a
+nh tra thuế;
+Xét đề nghị
+của .............
+QUYẾT ĐỊNH:
+Điều
+1.
+Phê
+duyệt và giao kế hoạch thanh tra thuế năm
+...... cho .........(1)
+số
+lượng ......... doanh nghiệp.
+Điều 2. ...............
+(1)
+căn cứ vào chức năng, nhiệm vụ,
+quyền hạn và số lượng doanh nghiệp
+được giao tại Điều 1 nêu trên
+để cân đối và bố trí nguồn
+nhân lực cho hoạt động thanh tra hoàn
+thành nhiệm vụ, kế hoạch được
+giao.
+Điều 3.
+.......................
+(2)
+chịu
+trách nhiệm thi hành quyết định
+này.
+Nơi nhận:
+-
+Như Điều
+  3;
+- Lưu: VT,……...
+CHỨC DANH NGƯỜI KÝ QUYẾT ĐỊNH
+(Ký và ghi rõ họ tên)
+(1)
+Tên
+cơ quan được
+giao kế hoạch thanh tra;
+(2)
+Chức
+danh người đứng đầu cơ quan được
+giao KH thanh tra;
+Mẫu số:
+02/QTTTr
+(Ban
+    hành kèm theo Quyết định số
+    1404/QĐ-TCT ngày 28 tháng 7 năm 2015 của Tổng
+    cục trưởng Tổng cục Thuế)
+TÊN CƠ QUAN THUẾ
+BỘ PHẬN THANH TRA
+–––––––––––
+TẬP HỢP TÀI LIỆU, PHÂN
+TÍCH, XÁC ĐỊNH NỘI DUNG
+CUỘC
+THANH TRA
+I. THÔNG TIN CHUNG:
+1. Người
+phân tích:
+Họ và
+Tên…………………………………………..;
+Chức vụ:…………………………...
+Bộ phận
+thanh
+tra:……………………………………………………………………….…
+2. Người nộp thuế:
+a) Tên người nộp thuế:….………………………………………….…………..
+b) Mã số thuế:…………………………………………………..………………………….
+c) Địa chỉ……..……………….……………………………….…………………………..
+d) Tên, địa chỉ, mã số thuế
+các chi nhánh, đơn vị thành viên (hạch
+toán độc lập và phụ thuộc)
+:…………….………………………….…………
+e) Niên độ kế toán được
+phân tích:……………….………………………………………
+f) Ngành nghề kinh doanh
+chính:………………….…………………………………
+II. TÌNH HÌNH CHẤP HÀNH PHÁP LUẬT
+THUẾ:
+1. Tình
+hình chấp hành và các vi phạm trong
+các năm gần nhất:
+2. Thông tin thu
+thập được ngoài cơ quan thuế:
+III. PHÂN TÍCH THEO CÁC YẾU TỐ RỦI
+RO:
+1. Phân
+tích các chỉ tiêu trên báo cáo
+tài chính:
+Nhận xét, đánh giá dựa
+trên tỷ lệ, mức độ biến động
+của các chỉ tiêu theo chiều ngang, cột dọc
+tại Báo cáo kết quả kinh doanh và Bảng
+cân đối kế toán.
+2
+. Phân tích mức độ tuân thủ
+nộp thuế
+(nếu có)
+:
+IV. ĐỀ XUẤT NỘI DUNG THANH TRA:
+NGƯỜI PHÂN TÍCH
+……….,
+  ngày…… tháng……. Năm…….
+LÃNH ĐẠO BỘ
+  PHẬN
+(ký và ghi rõ họ
+  tên)
+(ký và ghi rõ họ
+  tên)
+Mẫu số:
+03/QTTTr
+(Ban hành kèm theo
+      Quyết định số 1404/QĐ-TCT
+ngày 28 tháng
+      7
+năm 2015
+của Tổng cục
+      trưởng Tổng cục Thuế)
+TÊN CƠ QUAN THUẾ
+ĐOÀN THANH TRA
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT
+  NAM
+Độc
+  lập - Tự do - Hạnh phúc
+BIÊN
+BẢN
+đối
+thoại, chất vấn tại
+…………..
+Căn cứ quyết định số
+..…ngày……tháng….năm……về
+việc thanh tra… ….tại …… . Địa
+chỉ:………..Mã số thuế:………..
+Hôm
+nay, ngày ……. tháng …… năm
+……, tại …………, địa chỉ
+………., chúng tôi gồm:
+I. ĐOÀN THANH TRA:
+- Ông ( bà ):
+…………………….. Chức vụ……………..-
+Trưởng đoàn
+- Ông ( bà ):
+…………………….. Chức vụ……………..-
+Thành viên
+- Ông ( bà ): ……………………..
+Chức vụ……………..- Thành
+viên
+II. NGƯỜI NỘP THUẾ:
+-
+Ông
+( bà ): ……………………..:Chức
+vụ……..; Đại diện cho:……..
+- Ông ( bà ):
+……………………..:Chức Vụ……………
+- Ông ( bà ):
+……………………..:Chức vụ…………….
+Cùng
+lập biên bản về đối thoại, chất
+vấn giữa đoàn thanh tra với người nộp
+thuế với nội dung sau:
+1.
+Các nội
+dung trong đối thoại, chất vấn:
+- Nội dung
+1:………………………
+- Nội dung
+2:………………………
+2.
+Ý kiến
+của người nộp thuế:
+- Ý kiến
+1:………………………….
+- Ý kiến
+2:………………………….
+- Ý kiến
+3:………………………….
+3.
+Ý kiến
+của đoàn thanh tra:
+- Ý kiến
+1:…………………………..
+- Ý kiến
+2:…………………………..
+- Ý kiến
+3:…………………………..
+4. Những nội dung thống nhất
+giữa đoàn thanh tra và người nộp thuế;
+Những nội dung xác định rõ và
+trách nhiệm của tập thể, cá nhân:
+5. Những nội dung chưa thống
+nhất (nếu có):
+Biên bản này gồm có
+……. trang, được lập thành
+……… bản có nội dung và giá
+trị pháp lý như nhau. 01 bản được
+giao Người nộp thuế……
+ĐẠI DIỆN HỢP
+  PHÁP CỦA NGƯỜI NỘP THUẾ
+Ký tên, ghi rõ họ
+  tên; chức vụ và đóng dấu ( nếu
+  có)
+TRƯỞNG ĐOÀN
+  THANH TRA
+(Ký, ghi rõ họ
+  tên)
+Mẫu số:
+04/QTTTr
+(Ban hành kèm theo Quyết
+    định số 1404/QĐ-TCT ngày 28 tháng
+    7
+năm 2015
+của Tổng cục
+    trưởng Tổng cục Thuế)
+TÊN
+  CƠ QUAN THUẾ CẤP TRÊN
+CƠ
+  QUAN THUẾ RA QUYÊT ĐỊNH
+Số:……../QĐ-……
+CỘNG
+  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh
+  Phúc
+......,
+  ngày……tháng……năm…..
+QUYẾT ĐỊNH
+Về việc
+mở niêm phong tài liệu
+CHỨC DANH THỦ TRƯỞNG CƠ QUAN
+THUẾ RA QUYẾT ĐỊNH (1)
+Căn
+cứ Luật Th
+a
+nh tr
+a
+số 56/2010/QH12 ngày 15 tháng
+11 năm 2010 và các văn bản hướng dẫn
+thi hành;
+Căn
+cứ Luật Quản lý thuế số 78/2006/QH11
+ngày 29/11/2006 và Luật số 21/2012/QH13 sửa
+đổi, bổ sung một số điều của Luật
+Quản lý thuế và các văn bản hướng
+dẫn thi hành;
+Căn
+cứ Quyết định số ..../QĐ-TCT ngày ...
+tháng......năm......củ
+a
+Tổng cục trưởng Tổng cục Thuế về
+việc b
+a
+n hành Quy
+trình th
+a
+nh tra thuế;
+Căn cứ Quyết
+định số... ngày.... tháng.... năm.... củ
+a
+..............(1) về việc th
+a
+nh tr
+a
+tại............(2),
+QUYẾT ĐỊNH:
+Điều 1.
+Mở niêm phong
+tài liệu do........................(3) đ
+a
+ng quản lý theo quyết định
+niêm phong tài liệu số………
+ngày………..
+Điều 2.
+Gi
+a
+o
+cho..............................................(4) thực hiện việc
+mở niêm phong tài liệu được quy định
+tại Điều 1 quyết định này.
+Tài liệu s
+a
+u khi mở niêm phong được
+gi
+a
+o cho
+.............................(5) quản lý, bảo quản.
+Điều 3.
+(3), (4), và (5) chịu
+trách nhiệm thi hành Quyết định
+này./.
+Nơi nhận:
+-
+Như Điều
+  3;
+- Lưu: VT,……...
+CHỨC DANH NGƯỜI KÝ QUYẾT
+  ĐỊNH
+(Ký tên, đóng dấu)
+(1) Chức d
+a
+nh
+củ
+a
+thủ trưởng
+cơ qu
+a
+n thuế ra quyết
+định
+(2)
+Tên người nộp thuế
+(3) Tên đơn vị,
+cá nhân được gi
+a
+o
+bảo quản tài liệu trước khi mở
+niêm phong
+(4)
+Họ tên, chức vụ người được
+gi
+a
+o nhiệm vụ mở
+niêm phong
+(5) Thủ trưởng cơ qu
+a
+n, đơn vị có tài liệu
+niêm phong
+TÊN
+  CƠ QUAN THUẾ
+ĐOÀN THANH TRA
+CỘNG
+  HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự
+  do - Hạnh phúc
+BIÊN
+BẢN
+Mở
+niêm phong tài liệu
+––––––––––
+- Căn cứ Quyết định số........ngày........tháng..........năm
+............. của ................... về việc thanh tra
+.....................................tại………........................................................;
+- Căn cứ Quyết
+định mở niêm phong số …….ngày
+….. tháng….. năm của ……..về việc
+mở niêm phong tài liệu tại
+…………..
+Hôm nay, hồi ..... giờ.....
+ngày ..... tháng
+.....
+năm .........
+Tại:.............................................................................................................................
+Chúng tôi gồm:
+1. ......................................
+Chức
+vụ:....................................................;
+2. .....................................
+Chức
+vụ:.....................................................;
+Người có tài liệu bị
+niêm phong là:
+Ông (bà)/tổ chức:............................
+Mã số thuế:.......................................;
+Giấy CMND/ Hộ chiếu/ Chứng
+nhận đăng ký kinh doanh/ Chứng nhận
+đăng ký hoạt động số:
+.................... do .................... cấp
+ngày................................................
+Địa chỉ:
+...........................................................................................................
+Tiến hành lập biên bản
+mở niêm phong gồm các tài liệu:
+STT
+Tên tài liệu
+  niêm phong
+Số lượng
+Tình trạng
+  tài liệu niêm phong
+Ghi chú
+­
+Tài
+liệu sau khi mở niêm phong được giao cho
+............................ quản lý.
+Biên bản này gồm có
+..... trang, được lập thành .......... bản
+có nội dung và giá trị pháp lý
+như nhau.
+Mỗi tổ chức,
+cá nhân liên quan được giao 01 (một) bản.
+Sau khi đọc lại biên bản,
+những người có mặt đồng ý về
+nội dung biên bản, không có ý kiến
+gì khác và cùng ký xác nhận
+vào từng trang biên bản hoặc có ý
+kiến bổ sung khác (nếu có) như
+sau:......................................................................
+ĐẠI DIỆN HỢP
+  PHÁP CỦA NGƯỜI NỘP THUẾ
+(Ký, ghi rõ họ
+  tên)
+TRƯỞNG ĐOÀN THANH TRA
+(Ký, ghi rõ họ tên)
+Mẫu số:
+05/QTTTr
+(Ban
+    hành kèm theo Quyết định số
+    1404/QĐ-TCT ngày 28
+tháng 7 năm 2015 của Tổng cục trưởng
+    Tổng cục Thuế)
+TÊN CƠ QUAN THUẾ
+  CẤP TRÊN
+TÊN CƠ QUAN RA QUYẾT ĐỊNH
+Số:
+….
+/QĐ-….
+CỘNG HOÀ
+  XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc
+  lập - Tự do - Hạnh phúc
+......, ngày ..... tháng..... năm
+  .....
+QUYẾT ĐỊNH
+Về việc
+huỷ bỏ kiểm kê tài sản
+CHỨC DANH THỦ TRƯỞNG
+CƠ QUAN THUẾ RA QUYẾT ĐỊNH
+Căn cứ Luật
+Th
+a
+nh tr
+a
+số 56/2010/QH12 ngày 15 tháng 11 năm 2010 và
+các văn bản hướng dẫn thi hành;
+Căn
+cứ Luật Quản lý thuế số 78/2006/QH11
+ngày 29/11/2006 và Luật số 21/2012/QH13 sửa
+đổi, bổ sung một số điều của Luật
+Quản lý thuế và các văn bản hướng
+dẫn thi hành;
+Căn
+cứ Quyết định số ..../QĐ-TCT ngày ...
+tháng......năm......củ
+a
+Tổng cục trưởng Tổng cục Thuế về
+việc b
+a
+n hành Quy
+trình th
+a
+nh tra thuế;
+Căn cứ Quyết
+định số... ngày.... tháng.... năm.... củ
+a
+............. về việc th
+a
+nh tr
+a
+tại.............
+QUYẾT ĐỊNH:
+Điều 1.
+Huỷ bỏ
+kiểm kê tài sản tại Quyết định
+kiểm kê số….ngày…tháng…năm...
+Ông/bà/ tổ chức:
+................................................. ; Mã số thuế:
+.................
+Giấy CMND/ Hộ chiếu/
+Chứng nhận đăng ký kinh doanh/ Chứng nhận
+đăng ký hoạt động số:
+.............................. do..................... cấp
+ngày.....................
+Địa chỉ:
+.........................................................................................................
+Điều 2.
+Quyết định
+này có hiệu lực kể từ ngày
+ký. Ông/bà/tổ chức có tên tại
+Điều 1 và Đoàn thanh tra chịu trách
+nhiệm thi hành Quyết định này./.
+Nơi nhận
+:
+- Như Điều 2;
+- Lưu: VT; ……..
+CHỨC DANH NGƯỜI KÝ QUYẾT
+  ĐỊNH
+(Ký tên, đóng dấu)
+Mẫu số:
+06/QTTTr
+(Ban
+    hành kèm theo Quyết định số
+    1404/QĐ-TCT ngày 28 tháng 7 năm 2015 của Tổng
+    cục trưởng Tổng cục Thuế)
+TÊN CƠ QUAN THUẾ
+ĐOÀN THANH TRA
+–––––––––––
+CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT
+  NAM
+Độc lập - Tự do - Hạnh
+  phúc
+–––––––––––––––––––––––
+BIÊN BẢN
+Xác nhận số liệu thanh tra
+tại
+……………………..
+––––––––––––
+Căn cứ quyết
+định số….…ngày…tháng…..năm…..về
+việc…………tại ……….Địa
+chỉ:………….…Mã số thuế:………………..
+Hôm
+nay, ngày…….tháng ………năm
+……….., tại
+……………….., địa chỉ……….,
+chúng tôi gồm:
+Thành
+viên đoàn thanh tra:
+Ông
+(bà):……………………Chức
+danh……………………………….
+Đại
+diện người nộp thuế:
+Ông (bà)……………………..:Chức
+danh………………………………
+Căn cứ
+sổ sách kế toán, chứng từ tài liệu
+do ...............
+xuất
+trình, hai bên cùng nhau tiến hành xác
+nhận số liệu thanh tra về .................như
+sau:
+Nội
+dung:
+1...........................................................................................................................................................................................................................................................................
+2...........................................................................................................................................................................................................................................................................
+Thuyết
+minh nội dung thanh tra:
+- Giải trình số liệu
+liên quan đến nội dung thanh tra.
+- Nêu rõ căn cứ pháp
+lý, quy định cụ thể liên quan đến
+số liệu thanh tra.
+ĐẠI
+  DIỆN NGƯỜI NỘP THUẾ
+(Ký
+  và ghi rõ họ tên)
+THÀNH
+  VIÊN ĐOÀN THANH TRA
+(Ký
+  và ghi rõ họ tên)
+Mẫu số: 0
+7/QTTTr
+(Ban
+     hành kèm theo Quyết định số
+     1404/QĐ-TCT ngày 28
+tháng
+7
+năm 2015
+của Tổng cục
+     trưởng Tổng cục Thuế)
+TÊN
+  CƠ QUAN THUẾ
+ĐOÀN THANH TRA
+–––––––––––
+CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT
+  NAM
+Độc lập - Tự do - Hạnh phúc
+–––––––––––––––––––––––
+Phụ lục biên bản thanh tra
+Tại...............................................................................
+–––––––––––––––––––
+Căn cứ Quyết định số.............ngày..........tháng..........năm
+............. của ........... về việc thanh tra.............tại.......................................................
+Đoàn thanh tra đã tiến
+hành thanh tra tại.......................................................
+Thời kỳ thanh
+tra:.....................................................................................
+Ngày ...........
+tháng .........năm..............., Đoàn thanh tra
+và đại diện người nộp thuế
+đã tiến hành ký Biên bản thanh tra
+tại ............................................;
+Liên quan đến nội
+dung: ............................
+(nêu
+nội dung cụ thể cần lập Phụ lục)
+Hôm nay,
+ngày......../........./..........., tại.....................................,
+Đoàn thanh tra và Đại diện người
+nộp thuế ................................. tiến hành lập
+Phụ lục Biên bản thanh tra
+. Hai bên gồm có:
+1.
+ĐOÀN THANH TRA:
+- Ông
+(bà)..........................................
+-
+Trưởng đoàn
+- Ông
+(bà)..........................................
+-
+Thành viên
+- Ông
+(bà)..........................................
+-
+Thành viên
+2. NGƯỜI NỘP
+THUẾ:
+- Ông
+(bà)..........................................
+- Giám đốc.
+- Ông
+(bà)..........................................
+- Kế toán trưởng.
+I.
+NỘI DUNG TIẾN
+HÀNH LẬP PHỤ LỤC THANH TRA:
+1.
+Nội dung 1:
+……………………………………………………………………………………………
+……………………………………………………………………………….
+2.
+Nội dung 2:
+…………………………………………………………………………………………………………………………………………………………………………….
+II. KẾT
+LUẬN, KIẾN NGHỊ:
+1. Kết luận:
+Nếu có sai phạm
+phát hiện tăng thêm phải kết luận cụ
+thể vi phạm tại các quy định nào của
+các văn bản quy phạm pháp luật về
+thuế hiện hành. Xác định nguyên
+nhân vi phạm, tình tiết tăng nặng, giảm
+nhẹ (nếu phát hiện được).
+2. Kiến nghị:
+- Nếu có số
+thuế phải truy thu thêm thì phải yêu cầu
+người nộp thuế nộp đầy đủ, kịp
+thời vào Tài khoản thu ngân sách
+nhà nước khi có quyết định xử
+lý của cơ quan quản lý thuế.
+- Đối với
+các vi phạm về chế độ mở, ghi
+chép, hạch toán trên sổ sách kế
+toán và hoá đơn chứng từ phải
+yêu cầu người nộp thuế chấn chỉnh
+kịp thời.
+- Kiến nghị về
+mức xử phạt vi phạm hành chính về
+các hành vi vi phạm đã được
+phát hiện qua thanh tra đối với cơ quan (Bộ
+phận chức năng của cơ quan thuế) có thẩm
+quyền để ra quyết định xử phạt vi
+phạm hành chính đối với hành vi vi
+phạm của người nộp thuế.
+- Kiến nghị với
+các cơ quan (Bộ phận chức năng của
+cơ quan thuế) về các biện pháp,
+trách nhiệm đôn đốc, hướng dẫn
+đối với người nộp thuế.
+- Các yêu cầu,
+kiến nghị hoặc ghi nhận khác (nếu
+có).
+III.
+Ý KIẾN CỦA NGƯỜI NỘP THUẾ
+(nếu có).
+............................................................................................................................................................................
+............................................................................................................................................................................
+Phụ lục Biên bản
+được thông qua vào hồi.......... giờ
+cùng ngày.
+Phụ lục Biên bản
+gồm có......... trang, được lập thành
+................... bản có nội dung và giá trị
+pháp lý như nhau, và là một phần
+không tách rời theo Biên bản thanh tra lập
+ngày.............tháng...........năm ........../
+ĐẠI DIỆN HỢP PHÁP CỦA NGƯỜI
+  NỘP THUẾ
+ĐẠI DIỆN ĐOÀN THANH TRA
+(Ký và ghi rõ họ tên)
+Giám đốc ( hoặc .............)
+(Ký và ghi rõ họ tên)
+Kế toán trưởng
+(Ký và ghi rõ họ tên)
+Mẫu số:
+08/QTTTr
+(Ban
+    hành kèm theo Quyết định số
+    1404/QĐ-TCT ngày 28 tháng 7 năm 2015 của Tổng
+    cục trưởng Tổng cục Thuế)
+TÊN CƠ QUAN THUẾ
+ĐOÀN THANH TRA QUYẾT
+  ĐỊNH
+–––––––––––––––
+Số .....
+CỘNG HOÀ XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc
+  lập - Tự do - Hạnh phúc
+–––––––––––––––––––––––
+.....,ngày.....tháng......năm.......
+BÁO
+CÁO
+Kết
+quả thanh tra
+tại.................................................(1)
+––––––––––––
+Thực hiện Quyết
+định th
+a
+nh tr
+a
+số.... ngày .... tháng ...
+năm ......... củ
+a
+...............(2). Từ
+ngày....tháng.....năm.....đến
+ngày.....tháng......năm.......Đoàn th
+a
+nh tr
+a
+đã tiến hành th
+a
+nh
+tr
+a
+tại......(1).
+Căn cứ Biên bản
+thanh tra ký
+ngày.....tháng
+... năm ... giữa Trưởng đoàn thanh tra
+và đại diện người nộp thuế
+được thanh tra và các hồ sơ,
+tài liệu có liên qu
+a
+n.
+Đoàn th
+a
+nh tra
+báo
+cáo kết quả th
+a
+nh
+tr
+a
+:
+I. ĐẶC ĐIỂM
+TÌNH HÌNH CHUNG
+(Nêu khái
+quát đặc điểm, tình hình tổ chức
+hoạt động củ
+a
+đơn vị có liên qu
+a
+n
+đến nội dung th
+a
+nh
+tra)
+II. NỘI DUNG THANH TRA
+1.
+Nội dung:.........................
+2.
+Nội dung:.........................;
+3.
+……………………………….
+(Nêu
+rõ các nội dung thanh tra, thời kỳ thanh tra;
+Các đơn vị thành viên có tiến
+hành thanh tra; Kết luận cụ thể về nội
+dung đã được thanh tra tại đơn vị;
+nêu rõ các quy định pháp luật
+làm căn cứ xử lý sai phạm….)
+III. KIẾN
+NGHỊ XỬ LÝ
+- Kiến nghị xử lý truy thu:
+(nêu cụ thể: xử lý truy thu loại thuế
+nào? Năm xử lý truy thu; ….);
+-
+Kiến nghị xử phạt: (nêu cụ thể
+các hình thức xử phạt; quy định xử
+phạt; và cách tính phạt…);
+-
+Các đề nghị đối với người nộp
+thuế được thanh tra và cơ quan quản
+lý thuế trực tiếp.
+Trên
+đây là báo cáo kết quả th
+a
+nh tr
+a
+tại..........(1),
+Đoàn th
+a
+nh tr
+a
+báo cáo và Trình dự
+thảo Kết luận thanh tra,
+Quyết định
+xử lý về thuế, xử phạt vi phạm
+hành chính
+(nếu
+có)
+để......................(2)
+xem xét, ký duyệt./.
+TRƯỞNG ĐOÀN THANH
+  TRA
+(Ký và ghi
+  rõ họ tên)
+(1)
+Tên đơn vị được th
+a
+nh
+tr
+a
+(2)
+Chức d
+a
+nh củ
+a
+người r
+a
+quyết định th
+a
+nh tr
+a
+Mẫu số
+: 09/QTTTr
+(Ban
+      hành kèm theo Quyết định số
+      1404/QĐ-TCT ngày 28
+tháng 7 năm 2015 của Tổng cục
+      trưởng Tổng cục Thuế)
+TÊN CƠ QUAN
+  CẤP TRÊN
+TÊN
+  CƠ QUAN THUẾ RA QUYẾT ĐỊNH
+–––––––––––––––
+Số:……../QĐ-
+CỘNG HÒA XÃ HỘI CHỦ
+  NGHĨA VIỆT NAM
+Độc
+  lập – Tự do – Hạnh phúc.
+––––––––––––––––––––––––
+……,
+  ngày…..tháng…..năm….
+QUYẾT ĐỊNH
+Về việc ủy quyền
+công bố kết luận thanh tra thuế
+–––––––––––––––––
+CHỨC DANH CỦA LÃNH ĐẠO CƠ QUAN THUẾ
+RA QUYẾT ĐỊNH
+Căn cứ Luật Thanh tra số
+56/2010/QH12 ngày 15/11/2010 và các văn bản
+hướng dẫn thi hành;
+Căn
+cứ Luật Quản lý thuế số 78/2006/QH11
+ngày 29/11/2006, Luật số 21/2012/QH13 ngày 20/11/2012
+sửa đổi bổ sung một số điều của
+Luật Quản lý thuế và các văn bản
+hướng dẫn thi hành;
+Căn
+cứ Quyết định số…….ngày…./…./….của…….quy
+định chức năng, nhiệm vụ, quyền hạn
+và cơ cấu tổ chức của Tổng cục
+Thuế/ Cục Thuế/ Chi cục Thuế;
+Căn
+cứ Quyết định số 74/QĐ-TCT ngày
+27/1/2014 của Tổng cục Trưởng Tổng cục
+Thuế về việc ban hành Quy trình thanh tra thuế;
+Căn
+cứ Quyết định thanh tra số……/QĐ-….ngày…./…./…của…về
+việc thanh tra chấp hành pháp luật thuế tại…..(
+tên người nộp thuế
+).
+QUYẾT ĐỊNH:
+Điều
+1.
+Ủy quyền cho Trưởng
+đoàn Thanh tra thuế
+được thành lập theo Quyết định
+số…./QĐ-… ngày…./…./…. của……
+thực hiện việc:
+-
+Công bố công khai kết luận thanh tra
+-
+Lập biên bản công bố kết luận thanh
+tra thuế tại…..(
+tên
+người nộp thuế
+).
+Điều
+2.
+Trưởng đoàn
+thanh tra thuế chịu trách nhiệm trước
+….(
+người ký quyết
+định ủy quyền
+) và trước
+pháp luật về những nội dung được
+ủy quyền.
+T
+rong thời
+hạn 10 ngày, kể từ ngày ký kết luận
+thanh tra, Trưởng đoàn thanh tra được ủy
+quyền thực hiện việc công bố công
+khai kết luận thanh tra.
+Điều
+3
+. Quyết định
+này có hiệu lực thi hành kể từ
+ngày ký. Trưởng đoàn thanh tra Thuế
+theo Quyết định số…../QĐ-….ngày…/…./…chịu
+trách nhiệm thi hành Quyết định
+này./.
+Nơi nhận:
+-
+  Như điều 3;
+-
+  ……….;
+-
+  Lưu: Văn thư, bộ phận thanh tra.
+LÃNH ĐẠO CƠ QUAN
+  THUẾ
+(
+Người
+  ký quyết định thanh tra)
+(Ký, ghi rõ họ
+  tên, đóng dấu)
+Mẫu số:
+10/QTTTr
+(Ban
+    hành kèm theo Quyết định số
+    1404/QĐ-TCT ngày 28
+tháng 7
+năm
+    2015 của Tổng cục trưởng Tổng cục
+    Thuế)
+TÊN CƠ QUAN RA QUYẾT ĐỊNH
+  THANH TRA
+ĐOÀN THANH TRA
+CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT
+  NAM
+Độc lập - Tự do - Hạnh phúc
+BIÊN
+BẢN
+Công
+bố kết luận thanh tra
+–––––––––––
+Căn cứ
+Điều 82 Luật Quản lý thuế ngày
+29/11/2006;
+Căn cứ Quyết
+định số ................ ngày.......... tháng
+..........năm ............. của .............. về việc
+thanh tra
+tại
+............................................
+Căn cứ
+Biên bản thanh tra ký ngày ........ tháng
+......... năm ......... về việc thanh tra tại..................................
+Hôm nay, hồi
+..... giờ..... ngày ..... tháng
+.....
+năm .........
+Tại:......................................
+Chúng tôi
+gồm:
+I.
+ĐOÀN THANH TRA THUẾ:
+-
+Ông (bà).....................
+-
+Chức vụ.....................................- Trưởng
+đoàn;
+-
+Ông (bà).......................
+-
+Chức vụ......................................- Thành
+viên;
+-
+Ông (bà)......................
+-
+Chức vụ......................................- Thành
+viên;
+- Ông (bà).....................
+- Chức vụ......................................-
+....................
+II. NGƯỜI
+NỘP THUẾ (HOẶC ĐẠI DIỆN HỢP
+PHÁP CỦA NGƯỜI NỘP THUẾ):
+-
+Ông (bà):
+................................................................
+- Chức
+vụ: .................. đại diện cho
+..........................
+-
+Ông (bà):
+.................................................................
+- Chức vụ:..................................................................
+Người nộp thuế
+(hoặc đại diện hợp pháp Người nộp
+thuế ) đã được nghe Đoàn thanh
+tra công bố nội dung Kết luận thanh tra tại..........................................................
+Biên bản này gồm
+có ..... trang, được lập thành .......... bản
+có nội dung và giá trị pháp lý
+như nhau. 01 bản được giao Người nộp
+thuế.…
+Sau khi đọc lại
+biên bản, những người có mặt đồng
+ý về nội dung biên bản, không có
+ý kiến gì khác và cùng ký
+xác nhận vào từng tra của biên bản
+hoặc có ý kiến bổ sung khác (nếu
+có) như sau:
+…………………………
+ĐẠI
+  DIỆN HỢP PHÁP
+CỦA
+  NGƯỜI NỘP THUẾ
+Ký
+  tên, ghi rõ họ tên; chức vụ và
+  đóng dấu (nếu có)
+LÃNH
+  ĐẠO CƠ QUAN THUẾ
+(HOẶC
+  TRƯỞNG ĐOÀN THANH TRA nếu được uỷ
+  quyền)
+(Ký, ghi rõ họ
+  tên)
+Mẫu số:
+11/QTTTr
+(Ban
+    hành kèm theo Quyết định số
+    1404/QĐ-TCT ngày 28
+tháng 7 năm 2015 của Tổng cục trưởng
+    Tổng cục Thuế)
+TÊN CƠ QUAN CẤP TRÊN
+TÊN
+  CƠ QUAN THUẾ RA
+QUYẾT ĐỊNH
+Số……/QĐ-……
+CỘNG HOÀ XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập
+  - Tự do - Hạnh phúc
+....,
+  ngày.....tháng......năm.....
+QUYẾT ĐỊNH
+Về việc
+bổ sung nội dung thanh tra thuế tại .................
+–––––––––––––––––
+CHỨC DANH THỦ TRƯỞNG
+CƠ QUAN THUẾ RA QUYẾT ĐỊNH
+Căn cứ Luật
+Quản lý thuế số 78/2006/QH11 ngày 29/11/2006
+và Luật số 21/2012/QH13 sửa đổi, bổ
+sung một số điều của Luật Quản
+lý thuế và các văn bản hướng dẫn
+thi hành;
+Căn cứ Luật
+Thanh tra và các văn bản hướng dẫn
+thi hành;
+Căn cứ
+các Luật thuế, Pháp lệnh thuế,
+Pháp lệnh phí, lệ phí và các
+văn bản hướng dẫn thi hành;
+Căn cứ Quyết
+định số ........... ngày .............. của
+..................... quy
+định
+chức năng, nhiệm vụ, quyền hạn và
+cơ cấu tổ chức của Tổng cục Thuế/Cục
+thuế/Chi cục thuế;
+Căn cứ Quyết
+định số ............. ngày ...................
+phê duyệt Kế hoạch ......;
+Căn
+cứ Quyết định số ..../QĐ-TCT ngày ...
+tháng......năm......củ
+a
+Tổng cục trưởng Tổng cục Thuế về
+việc b
+a
+n hành Quy
+trình th
+a
+nh tra thuế;
+Hoặc:
+Căn cứ chỉ
+đạo của ................... ngày .............. về
+việc ............................;
+Xét đề
+nghị của
+.........................................................................................,
+QUYẾT
+ĐỊNH:
+Điều 1.
+Bổ sung nội
+dung thanh tra thuế tại ................................
+Mã số thuế:
+.............................. cụ thể như sau:
+Nội dung (bổ sung)
+.............................................................
+Điều
+2.
+Đoàn
+thanh tra theo Quyết định
+số ....... ngày ..... tháng .... năm ....... thực
+hiện thanh tra theo nội dung (bổ sung) của Quyết
+định này.
+Đoàn thanh tra có nhiệm vụ,
+quyền hạn quy định tại Điều 85 của
+Luật Quản lý thuế và Điều 53,
+Điều 54 của Luật Thanh tra.
+Điều 3.
+Quyết định
+này có hiệu lực kể từ ngày
+ký. Ông/bà/tổ chức được thanh
+tra có tên tại Điều 1 và Đoàn
+thanh tra chịu trách nhiệm thi hành Quyết
+định này./.
+Nơi nhận
+:
+-
+Như Điều
+  3;
+- Lưu: VT;............
+.
+CHỨC
+  DANH NGƯỜI KÝ QUYẾT ĐỊNH
+(Ký, ghi
+  rõ họ tên, đóng dấu)
+Mẫu số:
+12/QTTTr
+(Ban
+      hành kèm theo Quyết định số
+      1404/QĐ-TCT ngày 28
+tháng 7 năm 2015 của Tổng cục
+      trưởng Tổng cục Thuế)
+TÊN CƠ QUAN CẤP TRÊN
+TÊN CƠ QUAN THUẾ RA QUYẾT ĐỊNH
+Số......./QĐ-........
+CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT
+  NAM
+Độc lập - Tự do - Hạnh
+  phúc
+.......,
+  ngày.......tháng........năm........
+QUYẾT ĐỊNH
+Về việc th
+a
+y
+đổi Trưởng đoàn th
+a
+nh
+tr
+a
+CHỨC DANH THỦ
+TRƯỞNG CƠ QUAN THUẾ RA QUYẾT ĐỊNH
+Căn
+cứ Luật Th
+a
+nh tr
+a
+số 56/2010/QH12 ngày 15 tháng
+11 năm 2010 và các văn bản hướng dẫn
+thi hành;
+Căn cứ Luật Quản
+lý thuế số 78/2006/QH11 ngày 29/11/2006 và Luật
+số 21/2012/QH13 sửa đổi, bổ sung một số
+điều của Luật Quản lý thuế và
+các văn bản hướng dẫn thi hành;
+Căn
+cứ Quyết định số ........... ngày
+.............. của ..................... quy
+định chức năng, nhiệm vụ, quyền
+hạn và cơ cấu tổ chức của Tổng
+cục Thuế/Cục thuế/Chi cục thuế;
+Căn
+cứ Quyết định số ..../QĐ-TCT ngày ...
+tháng......năm......củ
+a
+Tổng cục trưởng Tổng cục Thuế về
+việc b
+a
+n hành Quy
+trình th
+a
+nh tra thuế;
+Căn cứ Quyết
+định th
+a
+nh tr
+a
+số..............ngày...........tháng
+....năm.....củ
+a
+.........
+về việc th
+a
+nh tr
+a
+tại ..........;
+Xét
+đề nghị củ
+a
+.....................................................................................,
+QUYẾT ĐỊNH:
+Điều 1.
+Cử ông
+(bà)...........,chức danh.............. làm Trưởng
+đoàn th
+a
+nh tr
+a
+th
+a
+y
+ông (bà).........., Trưởng đoàn th
+a
+nh theo Quyết định th
+a
+nh tr
+a
+số...ngày.....năm......củ
+a
+.... về việc th
+a
+nh
+tr
+a
+tại .............., kể
+từ ngày...tháng....năm........
+Điều 2.
+Ông
+(bà)............................. có trách nhiệm
+bàn gi
+a
+o công việc
+cho ông (bà).........trước
+ngày....tháng....năm......
+Điều
+3.
+Các ông (bà)
+(nêu
+tại điều 1 và 2)
+và Công
+ty....................., Bộ phận
+(có liên quan)
+chịu trách nhiệm thi
+hành quyết định này./.
+Nơi nhận:
+- Như Điều 3;
+- Lưu: VT,..........
+Mẫu số:
+13/QTTTr
+((Ban
+    hành kèm theo Quyết định số
+    1404/QĐ-TCT ngày 28 tháng 7 năm 2015 của Tổng
+    cục trưởng Tổng cục Thuế)
+TÊN CƠ QUAN CẤP
+  TRÊN
+TÊN CƠ QUAN THUẾ RA QUYẾT
+  ĐỊNH
+Số......./QĐ-........
+CỘNG HOÀ XÃ HỘI
+  CHỦ NGHĨA VIỆT NAM
+Độc lập
+  - Tự do - Hạnh phúc
+........,
+  ngày......tháng.......năm.......
+QUYẾT ĐỊNH
+Về việc bổ sung
+(hoặc thay đổi)
+thành viên
+Đoàn th
+a
+nh tr
+a
+CHỨC DANH THỦ
+TRƯỞNG CƠ QUAN THUẾ RA QUYẾT ĐỊNH
+Căn
+cứ Luật Th
+a
+nh tr
+a
+số 56/2010/QH12 ngày 15 tháng
+11 năm 2010 và các văn bản hướng dẫn
+thi hành;
+Căn cứ Luật Quản
+lý thuế số 78/2006/QH11 ngày 29/11/2006 và Luật
+số 21/2012/QH13 sửa đổi, bổ sung một số
+điều của Luật Quản lý thuế và
+các văn bản hướng dẫn thi hành;
+Căn
+cứ Quyết định số ........... ngày
+.............. của ..................... quy
+định chức năng, nhiệm vụ, quyền
+hạn và cơ cấu tổ chức của Tổng
+cục Thuế/Cục thuế/Chi cục thuế;
+Căn
+cứ Quyết định số ..../QĐ-TCT ngày ...
+tháng......năm......củ
+a
+Tổng cục trưởng Tổng cục Thuế về
+việc b
+a
+n hành Quy
+trình th
+a
+nh tra thuế;
+Căn cứ Quyết
+định th
+a
+nh tr
+a
+số..............ngày...........tháng
+....năm.....củ
+a
+.........
+về việc th
+a
+nh tr
+a
+tại ..........;
+Xét
+đề nghị củ
+a
+...........................................................,
+QUYẾT ĐỊNH:
+Điều 1.
+Bổ sung (
+hoặc Cử
+) các
+ông (bà) có tên s
+a
+u
+đây th
+a
+m gi
+a
+Đoàn th
+a
+nh
+tra tại Quyết định th
+a
+nh
+tra số.........ngày...tháng ...năm .....củ
+a
+.......... về việc th
+a
+nh tr
+a
+tại
+..............., kể từ
+ngày....tháng.....năm.......
+1. Ông
+(bà)................................, Chức vụ
+.................................
+2. Ông (bà)...... ..
+......................, Chức vụ..................................
+Điều 2.
+Các ông (bà) sau đây thôi
+không tham gia Đoàn thanh tra kể từ ngày
+…../…../…… (
+Trường
+hợp thay đổi thành viên đoàn thanh
+tra
+)
+1.
+Ông (bà) ……………………,
+Chức vụ
+2.
+Ông (bà) ……………………,
+Chức vụ
+Các ông (bà) có tên tại Điều
+này có trách nhiệm bàn giao công việc
+và tài liệu có liên quan đến nội
+dung thanh tra cho Trưởng đoàn thanh tra
+Điều
+2 (
+hoặc Điều 3
+).
+Trưởng đoàn th
+a
+nh tra, các ông (bà) có
+tên tại Điều 1(
+hoặc
+và Điều 2
+) và Công ty................, Bộ
+phận (có liên quan) chịu trách nhiệm thi
+hành quyết định này./.
+Nơi nhận:
+- Như Điều 2;
+- Lưu: VT,............
+CHỨC DANH NGƯỜI
+  KÝ QUYẾT ĐỊNH
+(Ký, ghi rõ
+  họ tên và đóng dấu)
+Mẫu số:
+14/QTTTr
+(Ban
+    hành kèm theo Quyết định số
+    1404/QĐ-TCT ngày 28
+tháng 7 năm 2015 của Tổng cục trưởng
+    Tổng cục Thuế)
+TÊN CƠ QUAN CẤP
+  TRÊN
+TÊN CƠ QUAN THUẾ RA VĂN BẢN
+Số: ....../CHS-..........(1)
+V/v chuyển hồ sơ, vụ việc có dấu
+  hiệu
+tội phạm sang
+  cơ quan Điều tra
+CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT
+  NAM
+Độc lập - Tự do - Hạnh
+  phúc
+.....,ngày.....tháng......năm.......
+Kính gửi:.............................(2)
+Thực
+hiện Quyết định số.........ngày........tháng.....năm........của........(3)
+về việc th
+a
+nh tr
+a
+.............................tại....................................(4)
+Nhận thấy....................................................................................................(5)
+Căn cứ quy
+định của Luật th
+a
+nh
+tr
+a
+số 56/2010/QH12
+ngày 15/11/2010 và Thông tư liên tịch số
+06/2013/TTLT- BCA - BQP –
+BTC - BNN&PTNT -VKSNDTC
+Bộ
+Công an,
+Bộ
+Quốc phòng,
+Bộ
+Tài chính, Bộ Nông nghiệp và Phát
+triển nông thôn, Viện kiểm sát nhân
+dân tối cao
+ngày 02/8/2013 hướng
+dẫn thi hành quy định của Bộ Luật Tố
+tụng hình sự về tiếp nhận, giải quyết
+tố giác, tin báo về tội phạm và kiến
+nghị khởi tố
+,...............(6) quyết định
+chuyển hồ sơ về............(7) sang.............(2)
+để giải quyết theo quy định củ
+a
+pháp luật.
+Nơi nhận :
+THỦ TRƯỞNG CƠ QUAN THUẾ
+-
+Như trên;
+(Ký, ghi rõ họ
+tên và đóng dấu)
+-
+Lưu:VT;...........
+(1)
+Chữ viết tắt tên cơ qu
+a
+n
+thuế ra văn bản
+(2)
+Tên cơ qu
+a
+n điều
+tr
+a
+có thẩm quyền
+(3) Chức d
+a
+nh
+củ
+a
+thủ trưởng
+cơ qu
+a
+n thuế ra quyết
+định th
+a
+nh tra
+(4)
+Tên đơn vị được th
+a
+nh
+tr
+a
+, kiểm tr
+a
+(5)
+Tóm tắt hành vi vi phạm
+(6)
+Tên cơ qu
+a
+n thuế ra
+văn bản
+(7)
+Hành vi vi phạm có dấu hiệu tội phạm
+Mẫu số:
+15/QTTTr
+(Ban
+    hành kèm theo Quyết định số
+    1404/QĐ-TCT
+ngày 28 tháng 7 năm 2015 của Tổng cục
+    trưởng Tổng cục Thuế)
+TÊN CƠ QUAN THUẾ
+TÊN ĐƠN VỊ GIAO HỒ
+  SƠ
+–––––––––––––––
+CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT
+  NAM
+Độc lập - Tự do - Hạnh
+  phúc
+BIÊN BẢN
+Gi
+a
+o, nhận hồ sơ, vụ việc
+có dấu hiệu tội phạm s
+a
+ng
+cơ qu
+a
+n điều tra
+––––––––––––––
+Hôm nay, vào
+lúc.....giờ.....ngày.....tháng....năm.......; tại............................(1).
+Chúng tôi gồm
+có:
+1. Đại diện
+.................................................................................................(2).
+Ông
+(Bà)............................
+Chức
+vụ:.....................
+Ông
+(Bà)............................
+Chức
+vụ:.....................
+2. Đại diện cơ qu
+a
+n điều tr
+a
+.......................................................................(3)
+Ông
+(Bà)............................
+Chức
+vụ:......................
+Ông (Bà)............................
+Chức
+vụ:.....................
+Đã tiến
+hành gi
+a
+o, nhận hồ
+sơ vụ việc có dấu hiệu tội phạm
+để tiến hành điều tr
+a
+theo quy định củ
+a
+pháp luật.
+Hồ sơ gồm
+có......................trang, gồm các tài liệu
+s
+a
+u:
+...............................................................................................................(4).
+Việc gi
+a
+o nhận hoàn thành vào
+lúc....giờ....ngày....tháng....năm.....
+Biên bản gi
+a
+o, nhận hồ sơ, tài liệu
+đã được đọc lại cho những
+người có tên nêu trên nghe và
+ký xác nhận; biên bản được lập
+thành 02 bản, mỗi bên giữ 01 bản.
+ĐẠI DIỆN BÊN NHẬN
+ĐẠI DIỆN BÊN GIAO
+(Ký và ghi rõ họ tên)
+(Ký
+và ghi rõ họ tên)
+(1)
+Đị
+a
+điểm gi
+a
+o nhận hồ sơ vụ việc
+có dấu hiệu tội phạm
+(2)
+Tên cơ qu
+a
+n gi
+a
+o hồ sơ vụ việc có dấu
+hiệu tội phạm s
+a
+ng
+cơ qu
+a
+n điều tr
+a
+(3)
+Tên cơ qu
+a
+n điều
+tr
+a
+(4)
+Tên loại tài liệu, số lượng
+tài liệu được gi
+a
+o
+nhận
+Mục lục hồ sơ
+(Kèm theo biên bản gi
+a
+o, nhận hồ sơ
+ngày...tháng...năm...)
+–––––––––––––
+STT
+Tên tài liệu
+Hình thức
+Số tr
+a
+ng
+Tình trạng tài liệu
+.......,ngày....tháng.....năm......
+NGƯỜI LẬP MỤC
+LỤC HỒ SƠ
+(Ký và ghi rõ họ
+tên)
