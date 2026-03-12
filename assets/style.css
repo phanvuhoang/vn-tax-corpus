@@ -1,11 +1,12 @@
-/* VN Tax Corpus v2 */
+/* VN Tax Corpus v3 — CSDL VB Thuế VN */
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
 :root{
   --P:#028a39;--PD:#016b2c;--PL:#e8f5ee;
   --txt:#1a1a1a;--muted:#666;--bdr:#e0e0e0;--bg:#f4f6f8;--W:#fff;
   --sh:0 2px 8px rgba(0,0,0,.09);
+  --font:'Segoe UI',Arial,sans-serif;
 }
-body{font-family:'Segoe UI',Arial,sans-serif;font-size:16px;color:var(--txt);background:var(--bg);line-height:1.7}
+body{font-family:var(--font);font-size:16px;color:var(--txt);background:var(--bg);line-height:1.7}
 
 /* Header */
 header{background:linear-gradient(135deg,var(--PD),var(--P));color:#fff;padding:18px 24px 14px}
@@ -17,8 +18,35 @@ header p{opacity:.88;font-size:.95rem}
 .stat{text-align:center;background:rgba(255,255,255,.15);padding:8px 18px;border-radius:8px}
 .stat strong{display:block;font-size:1.5rem;line-height:1.2}
 .stat span{font-size:.78rem;opacity:.85}
-.search-input{width:100%;padding:10px 16px;border-radius:8px;border:none;font-size:1rem;outline:none}
+.search-input{width:100%;padding:10px 16px;border-radius:8px;border:none;font-size:1rem;outline:none;margin-bottom:10px;font-family:var(--font)}
 .search-input:focus{box-shadow:0 0 0 3px rgba(255,255,255,.35)}
+
+/* Inline filter bar (below search) */
+.filter-bar{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.filter-bar .fd{position:relative}
+.filter-bar .fd-btn{
+  padding:6px 12px;border-radius:7px;border:1.5px solid rgba(255,255,255,.4);
+  background:rgba(255,255,255,.15);color:#fff;font-size:.87rem;cursor:pointer;
+  font-family:var(--font);white-space:nowrap;display:flex;align-items:center;gap:5px
+}
+.filter-bar .fd-btn:hover,.filter-bar .fd-btn.active{background:rgba(255,255,255,.3);border-color:rgba(255,255,255,.7)}
+.fd-badge{background:#fff;color:var(--P);border-radius:8px;padding:1px 6px;font-size:.75rem;font-weight:700}
+.fd-panel{
+  position:absolute;top:calc(100% + 6px);left:0;z-index:200;min-width:200px;
+  background:#fff;border:1px solid var(--bdr);border-radius:10px;
+  box-shadow:0 6px 24px rgba(0,0,0,.13);padding:10px 12px;display:none
+}
+.fd-panel.open{display:block}
+.fd-panel label{display:flex;align-items:center;gap:7px;padding:4px 0;font-size:.9rem;cursor:pointer;color:var(--txt)}
+.fd-panel label:hover{color:var(--P)}
+.fd-panel input[type=checkbox]{accent-color:var(--P);width:15px;height:15px}
+.fd-panel .clear-lnk{display:block;margin-top:6px;font-size:.8rem;color:var(--muted);text-decoration:none;text-align:right}
+.fd-panel .clear-lnk:hover{color:#c00}
+.fd-panel select{width:100%;padding:6px 8px;border-radius:6px;border:1px solid var(--bdr);font-size:.9rem;font-family:var(--font)}
+.fd-hl{display:flex;align-items:center;gap:7px;padding:5px 8px;border-radius:7px;border:1.5px solid rgba(255,255,255,.4);background:rgba(255,255,255,.15);color:#fff;font-size:.87rem;cursor:pointer}
+.fd-hl input{accent-color:#fff;width:15px;height:15px}
+.btn-reset-hdr{padding:6px 12px;border-radius:7px;border:1.5px solid rgba(255,255,255,.4);background:transparent;color:rgba(255,255,255,.8);font-size:.85rem;cursor:pointer;font-family:var(--font)}
+.btn-reset-hdr:hover{background:rgba(255,255,255,.2);color:#fff}
 
 /* Layout */
 .layout{display:flex;max-width:1300px;margin:0 auto;padding:16px;gap:18px;align-items:flex-start}
@@ -28,45 +56,28 @@ main{flex:1;min-width:0}
 .sidebar{width:240px;flex-shrink:0;background:var(--W);border:1px solid var(--bdr);border-radius:10px;padding:12px;position:sticky;top:12px;max-height:calc(100vh - 24px);overflow-y:auto}
 .sidebar-hd{font-size:.8rem;font-weight:700;text-transform:uppercase;letter-spacing:.6px;color:var(--P);padding:6px 0 4px;border-bottom:1px solid var(--bdr);margin-bottom:6px}
 
-/* Nav sections (L1) */
+/* Nav L1 */
 .nav-section{margin-bottom:4px}
-.nav-s-btn{width:100%;display:flex;justify-content:space-between;align-items:center;padding:8px 10px;border:none;border-radius:7px;background:var(--PL);color:var(--PD);font-size:.88rem;font-weight:700;cursor:pointer;text-align:left}
+.nav-s-btn{width:100%;display:flex;justify-content:space-between;align-items:center;padding:8px 10px;border:none;border-radius:7px;background:var(--PL);color:var(--PD);font-size:.88rem;font-weight:700;cursor:pointer;text-align:left;font-family:var(--font)}
 .nav-s-btn em{background:var(--P);color:#fff;padding:1px 8px;border-radius:10px;font-size:.75rem;font-style:normal;flex-shrink:0}
 .nav-s-btn:hover,.nav-s-btn.open{background:var(--P);color:#fff}
 .nav-s-btn.open em{background:rgba(255,255,255,.25)}
 .nav-cat-list{list-style:none;padding:4px 0 4px 6px}
 
-/* L2 */
+/* Nav L2 */
 .nav-l2-item{margin-bottom:2px}
-.nav-l2-btn{width:100%;display:flex;justify-content:space-between;align-items:center;padding:5px 8px;border:none;border-radius:5px;background:#f5f5f5;color:var(--txt);font-size:.83rem;cursor:pointer;text-align:left}
+.nav-l2-btn{width:100%;display:flex;justify-content:space-between;align-items:center;padding:5px 8px;border:none;border-radius:5px;background:#f5f5f5;color:var(--txt);font-size:.83rem;cursor:pointer;text-align:left;font-family:var(--font)}
 .nav-l2-btn em{color:var(--muted);font-size:.75rem;font-style:normal}
 .nav-l2-btn:hover{background:var(--PL);color:var(--PD)}
 .nav-l2{display:flex;justify-content:space-between;padding:5px 8px;border-radius:5px;color:var(--muted);text-decoration:none;font-size:.83rem}
-.nav-l2:hover,.nav-l2.nav-active,.nav-all.nav-active{background:var(--PL);color:var(--PD)}
+.nav-l2:hover,.nav-l2.nav-active{background:var(--PL);color:var(--PD)}
 .nav-l2 em{font-size:.75rem;font-style:normal}
-.nav-l2-item{margin-bottom:1px}
 
-/* L3 */
+/* Nav L3 */
 .nav-l3-list{list-style:none;padding:2px 0 2px 10px}
 .nav-l3{display:flex;justify-content:space-between;padding:4px 8px;border-radius:5px;color:var(--muted);text-decoration:none;font-size:.8rem}
 .nav-l3:hover,.nav-l3.nav-active{background:#f0faf4;color:var(--P)}
 .nav-l3 em{font-size:.73rem;font-style:normal}
-
-/* Filters */
-.filter-group{margin-bottom:8px;border:1px solid var(--bdr);border-radius:7px;overflow:hidden}
-.filter-label{padding:7px 10px;font-size:.85rem;font-weight:600;color:var(--PD);cursor:pointer;background:#fafafa;user-select:none}
-.filter-label:hover{background:var(--PL)}
-.filter-body{padding:8px 10px;display:flex;flex-direction:column;gap:5px}
-.filter-body label{display:flex;align-items:center;gap:6px;font-size:.84rem;cursor:pointer}
-.filter-body input[type=checkbox]{accent-color:var(--P);width:15px;height:15px}
-.clear-filter{font-size:.78rem;color:var(--muted);text-decoration:none;margin-top:2px}
-.clear-filter:hover{color:#c00}
-.sel-year{width:100%;padding:5px 8px;border-radius:5px;border:1px solid var(--bdr);font-size:.85rem}
-.hl-check{display:flex;align-items:center;gap:8px;font-size:.88rem;cursor:pointer}
-.hl-check input{accent-color:var(--P)}
-.btn-reset{width:100%;margin-top:10px;padding:8px;border:none;border-radius:7px;background:#f3f4f6;color:var(--muted);cursor:pointer;font-size:.85rem}
-.btn-reset:hover{background:#fee2e2;color:#c00}
-#fTax-badge,#fType-badge{color:var(--P);font-size:.78rem;font-weight:700}
 
 /* Result info */
 .result-info{font-size:.88rem;color:var(--muted);margin-bottom:10px}
@@ -87,24 +98,35 @@ main{flex:1;min-width:0}
 
 /* Pagination */
 .pagination{display:flex;justify-content:center;gap:5px;margin-top:20px;flex-wrap:wrap}
-.pgb{padding:7px 13px;border:1px solid var(--bdr);border-radius:6px;background:#fff;cursor:pointer;font-size:.88rem}
+.pgb{padding:7px 13px;border:1px solid var(--bdr);border-radius:6px;background:#fff;cursor:pointer;font-size:.88rem;font-family:var(--font)}
 .pgb:hover{background:var(--PL);border-color:var(--P)}
 .pgb.on{background:var(--P);color:#fff;border-color:var(--P)}
 .pgdot{padding:7px 4px;color:var(--muted)}
 
-/* Nav bar & doc content pages */
+/* ── Doc content pages ─────────────────────────────────────────────────── */
 .nav-bar{background:var(--P);padding:10px 24px}
 .nav-bar a{color:#fff;text-decoration:none;font-size:.95rem}
 .nav-bar a:hover{text-decoration:underline}
-.doc-content{max-width:900px;margin:28px auto;padding:0 28px 48px;font-size:16px}
-.doc-title{color:var(--PD);font-size:1.4rem;border-bottom:2px solid var(--P);padding-bottom:12px;margin-bottom:22px}
-.doc-content p{margin-bottom:12px;text-align:justify}
-.doc-content table{width:100%;border-collapse:collapse;margin:16px 0;font-size:.93rem;display:block;overflow-x:auto}
-.doc-content th{background:var(--P);color:#fff;padding:8px 12px;text-align:left}
-.doc-content td{padding:7px 12px;border:1px solid var(--bdr)}
+
+/* CRITICAL: override all Word/Office fonts inside doc-content */
+.doc-content,
+.doc-content *{
+  font-family:'Segoe UI',Arial,sans-serif !important;
+}
+.doc-content{
+  max-width:900px;margin:28px auto;padding:0 28px 48px;
+  font-size:18px;line-height:1.85;
+}
+.doc-title{color:var(--PD);font-size:1.45rem;border-bottom:2px solid var(--P);padding-bottom:12px;margin-bottom:22px;font-family:var(--font)!important}
+.doc-content p{margin-bottom:13px;text-align:justify}
+.doc-content table{width:100%;border-collapse:collapse;margin:16px 0;font-size:1rem;display:block;overflow-x:auto}
+.doc-content th{background:var(--P);color:#fff;padding:9px 13px;text-align:left}
+.doc-content td{padding:8px 13px;border:1px solid var(--bdr)}
 .doc-content tr:nth-child(even) td{background:var(--PL)}
 .doc-content h1,.doc-content h2,.doc-content h3{color:var(--PD);margin:20px 0 10px}
-.doc-content ul,.doc-content ol{padding-left:24px;margin-bottom:12px}
+.doc-content ul,.doc-content ol{padding-left:26px;margin-bottom:13px}
+/* Strip Word bold abuse — handled by JS but also defensively in CSS */
+.doc-content span[style*="font-weight:bold"]{font-weight:normal!important}
 .empty-doc{background:#fff8e1;border:1px solid #ffe082;border-radius:8px;padding:20px;color:#7b5e00;font-size:.95rem;line-height:1.6;margin:20px 0}
 
 footer{text-align:center;padding:22px;color:var(--muted);font-size:.85rem;border-top:1px solid var(--bdr);margin-top:24px}
@@ -115,4 +137,6 @@ footer p{margin-bottom:4px}
   .sidebar{width:100%;position:static;max-height:none}
   header h1{font-size:1.3rem}
   .stats{display:none}
+  .filter-bar{gap:5px}
+  .fd-panel{left:auto;right:0}
 }
