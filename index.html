@@ -140,7 +140,17 @@
     <span>📋 Văn bản Thuế</span><em>1014</em>
   </button>
   <ul class="nav-cat-list" style="display:none"><li><a class="nav-l2 nav-all" href="#" data-p1="I.THUE" data-p2="" data-p3="">Tất cả 1014 văn bản</a></li>
-<li class="nav-l2-item"><button class="nav-l2-btn" onclick="toggleL2(this)">VBPQ THUE <em>330</em></button><ul class="nav-l3-list" style="display:none"><li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="001. VBPQ THUE" data-p3="001.LUAT QLT">LUAT QLT <em>20</em></a></li>
+<li><a class="nav-l2 nav-priority" href="#" data-tx="QLT" data-p1="I.THUE" data-p2="" data-p3="">LUAT QLT <em>26</em></a></li>
+<li><a class="nav-l2 nav-priority" href="#" data-tx="TNDN" data-p1="I.THUE" data-p2="" data-p3="">THUE TNDN <em>8</em></a></li>
+<li><a class="nav-l2 nav-priority" href="#" data-tx="GTGT" data-p1="I.THUE" data-p2="" data-p3="">THUE GTGT <em>16</em></a></li>
+<li><a class="nav-l2 nav-priority" href="#" data-tx="HoaDon" data-p1="I.THUE" data-p2="" data-p3="">HOA DON <em>5</em></a></li>
+<li><a class="nav-l2 nav-priority" href="#" data-tx="TNCN" data-p1="I.THUE" data-p2="" data-p3="">THUE TNCN <em>57</em></a></li>
+<li><a class="nav-l2 nav-priority" href="#" data-tx="TTDB" data-p1="I.THUE" data-p2="" data-p3="">THUE TTDB <em>34</em></a></li>
+<li><a class="nav-l2 nav-priority" href="#" data-tx="NhaThau" data-p1="I.THUE" data-p2="" data-p3="">THUE NHA THAU <em>5</em></a></li>
+<li><a class="nav-l2 nav-priority" href="#" data-tx="GDLK" data-p1="I.THUE" data-p2="" data-p3="">GIAO DICH LK <em>10</em></a></li>
+<li><a class="nav-l2 nav-priority" href="#" data-tx="HKD" data-p1="I.THUE" data-p2="" data-p3="">HO KINH DOANH <em>3</em></a></li>
+
+<li class="nav-l2-item"><button class="nav-l2-btn" onclick="toggleL2(this)">VBPQ THUE KHAC <em>330</em></button><ul class="nav-l3-list" style="display:none"><li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="001. VBPQ THUE" data-p3="001.LUAT QLT">LUAT QLT <em>20</em></a></li>
 <li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="001. VBPQ THUE" data-p3="002. MON BAI">MON BAI <em>4</em></a></li>
 <li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="001. VBPQ THUE" data-p3="003.THUE GTGT">THUE GTGT <em>11</em></a></li>
 <li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="001. VBPQ THUE" data-p3="004.THUE TNDN">THUE TNDN <em>8</em></a></li>
@@ -341,7 +351,7 @@
 
 <script>
 const PAGE=50;
-let ALL=[],FIL=[],page=1,nav={p1:'',p2:'',p3:''};
+let ALL=[],FIL=[],page=1,nav={p1:'',p2:'',p3:'',tx:''};
 const TICONS={'Luật':'🏛️','NĐ':'📋','NQ':'📜','TT':'📄','QĐ':'📌','CV':'📧','VBHN':'🔗','TB':'📢','CT':'⚡','QTr':'⚙️','HD':'📗','Khác':'📎'};
 const TCLR={'QLT':'#028a39','GTGT':'#2563eb','TNDN':'#7c3aed','TNCN':'#b45309','TTDB':'#dc2626','BVMT':'#059669','TruocBa':'#0891b2','TaiNguyen':'#65a30d','NhaThau':'#9333ea','MonBai':'#f59e0b','GDLK':'#6b7280','PhiBVMT':'#0d9488'};
 
@@ -377,6 +387,7 @@ function doFilter(){
     if(nav.p1){const s=nav.p1.split('.')[0];if(!d.s.startsWith(s))return false;}
     if(nav.p2&&d.p2!==nav.p2)return false;
     if(nav.p3&&d.p3!==nav.p3)return false;
+    if(nav.tx&&d.tx!==nav.tx)return false;
     return true;
   });
   page=1;render();
@@ -428,7 +439,7 @@ function resetAll(){
   document.getElementById('yearHint').textContent='Chọn năm để lọc';
   document.querySelector('input[name=yearMode][value=in]').checked=true;
   document.getElementById('filterValid').checked=false;
-  nav={p1:'',p2:'',p3:''};
+  nav={p1:'',p2:'',p3:'',tx:''};
   document.querySelectorAll('.nav-active').forEach(e=>e.classList.remove('nav-active'));
   document.querySelectorAll('.fd-panel').forEach(e=>e.classList.remove('open'));
   doFilter();
@@ -442,5 +453,19 @@ document.addEventListener('click',function(e){
 });
 document.querySelectorAll('.cb-tax,.cb-type').forEach(e=>e.addEventListener('change',doFilter));
 init();
+</script>
+<script>
+// Priority category nav (data-tx)
+document.querySelectorAll('.nav-priority').forEach(function(a){
+  a.addEventListener('click', function(e){
+    e.preventDefault();
+    document.querySelectorAll('.nav-l2,.nav-l3,.nav-priority').forEach(function(el){el.classList.remove('nav-active');});
+    a.classList.add('nav-active');
+    var tx = a.getAttribute('data-tx');
+    nav = {p1:'I.THUE', p2:'', p3:'', tx: tx};
+    page = 1;
+    doFilter();
+  });
+});
 </script>
 </body></html>
