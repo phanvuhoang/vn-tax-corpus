@@ -2,11 +2,12 @@
 <html lang="vi">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width,initial-scale=1">
 <title>VN Tax Corpus — Văn bản Pháp luật Thuế Việt Nam</title>
 <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
+
 <header>
   <div class="header-inner">
     <div class="header-top">
@@ -15,123 +16,359 @@
         <p>Kho văn bản pháp luật thuế Việt Nam — Ebook Thuế 2026</p>
       </div>
       <div class="stats">
-        <div class="stat-item"><strong id="totalCount">1111</strong><span>Văn bản</span></div>
-        <div class="stat-item"><strong>2025</strong><span>Cập nhật đến</span></div>
+        <div class="stat"><strong id="totalCount">1111</strong><span>Văn bản</span></div>
+        <div class="stat"><strong>2025</strong><span>Cập nhật đến</span></div>
       </div>
     </div>
-    <div class="search-bar">
-      <input type="text" id="searchInput" placeholder="🔍 Tìm theo tên văn bản, số hiệu..." oninput="doSearch()">
-    </div>
-    <div class="filters">
-      <select id="filterTax" onchange="doFilter()">
-        <option value="">Tất cả sắc thuế</option>
-<option value="QLT">Quản lý Thuế</option>
-<option value="GTGT">Thuế GTGT</option>
-<option value="TNDN">Thuế TNDN</option>
-<option value="TNCN">Thuế TNCN</option>
-<option value="TTDB">Thuế TTĐB</option>
-<option value="BVMT">Thuế BVMT</option>
-<option value="TruocBa">Trước bạ</option>
-<option value="TaiNguyen">Tài nguyên</option>
-<option value="NhaThau">Nhà thầu</option>
-<option value="MonBai">Môn Bài</option>
-<option value="GDLK">Giao dịch LK</option>
-      </select>
-      <select id="filterType" onchange="doFilter()">
-        <option value="">Tất cả loại</option>
-<option value="Luật">Luật</option>
-<option value="NĐ">Nghị Định</option>
-<option value="TT">Thông Tư</option>
-<option value="QĐ">Quyết Định</option>
-<option value="NQ">Nghị Quyết</option>
-<option value="CV">Công Văn</option>
-<option value="VBHN">VBHN</option>
-<option value="Khác">Khác</option>
-      </select>
-      <select id="filterYear" onchange="doFilter()">
-        <option value="">Tất cả năm</option>
-        <option value="2025">2025</option><option value="2024">2024</option><option value="2023">2023</option><option value="2022">2022</option><option value="2021">2021</option><option value="2020">2020</option><option value="2019">2019</option><option value="2018">2018</option><option value="2017">2017</option><option value="2016">2016</option><option value="2015">2015</option><option value="2014">2014</option><option value="2013">2013</option><option value="2012">2012</option><option value="2011">2011</option><option value="2010">2010</option><option value="2009">2009</option><option value="2008">2008</option><option value="2007">2007</option><option value="2006">2006</option><option value="2005">2005</option><option value="2004">2004</option><option value="2003">2003</option><option value="2002">2002</option><option value="2001">2001</option><option value="2000">2000</option><option value="1999">1999</option><option value="1998">1998</option><option value="1997">1997</option><option value="1996">1996</option><option value="1995">1995</option><option value="1994">1994</option><option value="1993">1993</option><option value="1992">1992</option><option value="1991">1991</option>
-      </select>
-      <label class="filter-check">
-        <input type="checkbox" id="filterValid" onchange="doFilter()"> Còn hiệu lực
-      </label>
-      <button onclick="resetFilters()">↺ Reset</button>
-    </div>
+    <input type="text" id="searchInput" class="search-input" placeholder="🔍 Tìm theo tên văn bản, số hiệu..." oninput="doSearch()">
   </div>
 </header>
 
 <div class="layout">
-  <nav class="sidebar">
-    <div class="sidebar-title">Danh mục</div>
-    <div class="nav-cat">
-  <button class="nav-cat-btn" onclick="toggleCat(this)">
-    📋 Văn bản Thuế <span class="nav-count">1014</span>
-  </button>
-  <ul class="nav-sub-list" style="display:none">
-    <li><a href="#" class="nav-sub" data-section="I.THUE" data-sub="">Tất cả 1014 văn bản</a></li>
-    <li><a href="#" class="nav-sub" data-section="I.THUE" data-sub="001. VBPQ THUE">📜 VBPQ Thuế <span>330</span></a></li>
-<li><a href="#" class="nav-sub" data-section="I.THUE" data-sub="002. HOA DON - AN CHI">🧾 Hóa đơn & Ấn chỉ <span>51</span></a></li>
-<li><a href="#" class="nav-sub" data-section="I.THUE" data-sub="003. QUI TRINH">⚙️ Quy trình Nghiệp vụ <span>161</span></a></li>
-<li><a href="#" class="nav-sub" data-section="I.THUE" data-sub="004. NGHIEP VU">🗂️ Nghiệp vụ <span>105</span></a></li>
-<li><a href="#" class="nav-sub" data-section="I.THUE" data-sub="005. Luat ban hanh Van ban">📖 Luật ban hành VBQPPL <span>5</span></a></li>
-<li><a href="#" class="nav-sub" data-section="I.THUE" data-sub="006. THU TUC HANH CHINH">📝 Thủ tục Hành chính <span>56</span></a></li>
-<li><a href="#" class="nav-sub" data-section="I.THUE" data-sub="007. DKKD-DKThue">🏭 ĐK Kinh doanh & Thuế <span>29</span></a></li>
-<li><a href="#" class="nav-sub" data-section="I.THUE" data-sub="008. NGANH DAC THU">🎯 Ngành Đặc thù <span>35</span></a></li>
-<li><a href="#" class="nav-sub" data-section="I.THUE" data-sub="009. MIEN GIAM - UU DAI">🎁 Miễn giảm & Ưu đãi <span>99</span></a></li>
-<li><a href="#" class="nav-sub" data-section="I.THUE" data-sub="010. HIEP DINH">🌐 Hiệp định Thuế <span>4</span></a></li>
-<li><a href="#" class="nav-sub" data-section="I.THUE" data-sub="011. DAI LY THUE">🤝 Đại lý Thuế <span>8</span></a></li>
-<li><a href="#" class="nav-sub" data-section="I.THUE" data-sub="012. LINH VUC LIEN QUAN">🔗 Lĩnh vực liên quan <span>80</span></a></li>
-<li><a href="#" class="nav-sub" data-section="I.THUE" data-sub="013. XU PHAT">⚖️ Xử phạt Vi phạm <span>51</span></a></li>
 
-  </ul>
-</div><div class="nav-cat">
-  <button class="nav-cat-btn" onclick="toggleCat(this)">
-    💰 Phí & Lệ phí <span class="nav-count">18</span>
+  <!-- SIDEBAR -->
+  <aside class="sidebar">
+    <div class="sidebar-hd">Danh mục</div>
+    <div class="nav-section">
+  <button class="nav-s-btn" onclick="toggleSection(this)" data-p1="I.THUE">
+    <span>📋 Văn bản Thuế</span><em>1014</em>
   </button>
-  <ul class="nav-sub-list" style="display:none">
-    <li><a href="#" class="nav-sub" data-section="II. PHI VA LE PHI" data-sub="">Tất cả 18 văn bản</a></li>
-    
-  </ul>
-</div><div class="nav-cat">
-  <button class="nav-cat-btn" onclick="toggleCat(this)">
-    🔍 Kiểm toán <span class="nav-count">20</span>
-  </button>
-  <ul class="nav-sub-list" style="display:none">
-    <li><a href="#" class="nav-sub" data-section="III.KIEM TOAN" data-sub="">Tất cả 20 văn bản</a></li>
-    
-  </ul>
-</div><div class="nav-cat">
-  <button class="nav-cat-btn" onclick="toggleCat(this)">
-    📊 Kế toán <span class="nav-count">39</span>
-  </button>
-  <ul class="nav-sub-list" style="display:none">
-    <li><a href="#" class="nav-sub" data-section="IV.KE TOAN" data-sub="">Tất cả 39 văn bản</a></li>
-    
-  </ul>
-</div><div class="nav-cat">
-  <button class="nav-cat-btn" onclick="toggleCat(this)">
-    🏢 Doanh nghiệp & HTX <span class="nav-count">13</span>
-  </button>
-  <ul class="nav-sub-list" style="display:none">
-    <li><a href="#" class="nav-sub" data-section="V.DOANH NGHIEP - HTX" data-sub="">Tất cả 13 văn bản</a></li>
-    
-  </ul>
-</div><div class="nav-cat">
-  <button class="nav-cat-btn" onclick="toggleCat(this)">
-    🛠️ Tiện ích <span class="nav-count">3</span>
-  </button>
-  <ul class="nav-sub-list" style="display:none">
-    <li><a href="#" class="nav-sub" data-section="VI.TIEN ICH" data-sub="">Tất cả 3 văn bản</a></li>
-    
+  <ul class="nav-cat-list" style="display:none">
+    <li><a class="nav-l2 nav-all" href="#" data-p1="I.THUE" data-p2="" data-p3="">Tất cả 1014 văn bản</a></li>
+
+    <li class="nav-l2-item">
+  <button class="nav-l2-btn" onclick="toggleL2(this)">001. VBPQ THUE <em>330</em></button>
+  <ul class="nav-l3-list" style="display:none"><li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="001. VBPQ THUE" data-p3="001.LUAT QLT">001.LUAT QLT <em>20</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="001. VBPQ THUE" data-p3="002. MON BAI">002. MON BAI <em>4</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="001. VBPQ THUE" data-p3="003.THUE GTGT">003.THUE GTGT <em>11</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="001. VBPQ THUE" data-p3="004.THUE TNDN">004.THUE TNDN <em>8</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="001. VBPQ THUE" data-p3="005.THUE TTDB">005.THUE TTDB <em>32</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="001. VBPQ THUE" data-p3="006.THUE TNCN">006.THUE TNCN <em>52</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="001. VBPQ THUE" data-p3="007.THUE BVMT">007.THUE BVMT <em>18</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="001. VBPQ THUE" data-p3="008.THUE NHA THAU">008.THUE NHA THAU <em>5</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="001. VBPQ THUE" data-p3="009.TRUOC BA">009.TRUOC BA <em>18</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="001. VBPQ THUE" data-p3="010.THUE T.NGUYEN">010.THUE T.NGUYEN <em>63</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="001. VBPQ THUE" data-p3="011.PHI BVMT">011.PHI BVMT <em>20</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="001. VBPQ THUE" data-p3="012. GIAO DICH LK">012. GIAO DICH LK <em>7</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="001. VBPQ THUE" data-p3="013.LOI NHUAN">013.LOI NHUAN <em>2</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="001. VBPQ THUE" data-p3="014.DAU TU NN">014.DAU TU NN <em>1</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="001. VBPQ THUE" data-p3="015.ODA">015.ODA <em>1</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="001. VBPQ THUE" data-p3="016. KHAU HAO TSCD">016. KHAU HAO TSCD <em>11</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="001. VBPQ THUE" data-p3="017. KT KHOANG SAN - BIEN">017. KT KHOANG SAN - BIEN <em>18</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="001. VBPQ THUE" data-p3="018. HO KINH DOANH">018. HO KINH DOANH <em>5</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="001. VBPQ THUE" data-p3="019. HOAN THUE">019. HOAN THUE <em>8</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="001. VBPQ THUE" data-p3="020. QL DAT">020. QL DAT <em>26</em></a></li>
+</ul>
+</li>
+<li class="nav-l2-item">
+  <button class="nav-l2-btn" onclick="toggleL2(this)">002. HOA DON - AN CHI <em>51</em></button>
+  <ul class="nav-l3-list" style="display:none"><li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="002. HOA DON - AN CHI" data-p3="0001.HET HIEU LUC">0001.HET HIEU LUC <em>8</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="002. HOA DON - AN CHI" data-p3="002. HD DIEN TU">002. HD DIEN TU <em>12</em></a></li>
+</ul>
+</li>
+<li class="nav-l2-item">
+  <button class="nav-l2-btn" onclick="toggleL2(this)">003. QUI TRINH <em>161</em></button>
+  <ul class="nav-l3-list" style="display:none"><li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="003. QUI TRINH" data-p3="001. Quy trinh thue 2025">001. Quy trinh thue 2025 <em>9</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="003. QUI TRINH" data-p3="002. CONG KHAI GQ KHIEU NAI">002. CONG KHAI GQ KHIEU NAI <em>2</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="003. QUI TRINH" data-p3="003. DANG KY THUE">003. DANG KY THUE <em>7</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="003. QUI TRINH" data-p3="004. HIEP DINH">004. HIEP DINH <em>3</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="003. QUI TRINH" data-p3="005. HO KINH DOANH">005. HO KINH DOANH <em>7</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="003. QUI TRINH" data-p3="006. HOAN THUE">006. HOAN THUE <em>17</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="003. QUI TRINH" data-p3="007. K.TRA H.DON">007. K.TRA H.DON <em>5</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="003. QUI TRINH" data-p3="008. KE KHAI-KTT">008. KE KHAI-KTT <em>10</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="003. QUI TRINH" data-p3="009. KIEM TRA NOI BO">009. KIEM TRA NOI BO <em>20</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="003. QUI TRINH" data-p3="010. KIEM TRA THUE">010. KIEM TRA THUE <em>10</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="003. QUI TRINH" data-p3="011. LAP KE HOACH TTKT">011. LAP KE HOACH TTKT <em>6</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="003. QUI TRINH" data-p3="012. LUAN CHUYEN HS DAT CN-HOKD">012. LUAN CHUYEN HS DAT CN-HOKD <em>3</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="003. QUI TRINH" data-p3="013. MIEN GIAM">013. MIEN GIAM <em>4</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="003. QUI TRINH" data-p3="014. MOT CUA">014. MOT CUA <em>2</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="003. QUI TRINH" data-p3="015. QL AN CHI">015. QL AN CHI <em>11</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="003. QUI TRINH" data-p3="016. QL HOA DON">016. QL HOA DON <em>7</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="003. QUI TRINH" data-p3="017. QL NO - CC NO">017. QL NO - CC NO <em>8</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="003. QUI TRINH" data-p3="018. QL THUE TAI SAN">018. QL THUE TAI SAN <em>1</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="003. QUI TRINH" data-p3="019. QUAN LY DAI LY THUE">019. QUAN LY DAI LY THUE <em>1</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="003. QUI TRINH" data-p3="020. THAM DINH">020. THAM DINH <em>3</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="003. QUI TRINH" data-p3="021. THANH TRA THUE">021. THANH TRA THUE <em>14</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="003. QUI TRINH" data-p3="022. THU THAP TT QL RUI RO">022. THU THAP TT QL RUI RO <em>1</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="003. QUI TRINH" data-p3="023. TRA LOI NNT DIEN TU">023. TRA LOI NNT DIEN TU <em>2</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="003. QUI TRINH" data-p3="024. TUYEN TRUYEN">024. TUYEN TRUYEN <em>4</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="003. QUI TRINH" data-p3="025. XAC MINH DIA DIEM">025. XAC MINH DIA DIEM <em>4</em></a></li>
+</ul>
+</li>
+<li class="nav-l2-item">
+  <button class="nav-l2-btn" onclick="toggleL2(this)">004. NGHIEP VU <em>105</em></button>
+  <ul class="nav-l3-list" style="display:none"><li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="004. NGHIEP VU" data-p3="BAO CAO">BAO CAO <em>7</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="004. NGHIEP VU" data-p3="CHUC NANG NHIEM VU CQ THUE">CHUC NANG NHIEM VU CQ THUE <em>18</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="004. NGHIEP VU" data-p3="DANH MUC MAT BO TC">DANH MUC MAT BO TC <em>3</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="004. NGHIEP VU" data-p3="DINH MUC">DINH MUC <em>4</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="004. NGHIEP VU" data-p3="KE TOAN THUE">KE TOAN THUE <em>5</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="004. NGHIEP VU" data-p3="KHAI THAC TT">KHAI THAC TT <em>2</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="004. NGHIEP VU" data-p3="KY NANG">KY NANG <em>17</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="004. NGHIEP VU" data-p3="LUU TRU">LUU TRU <em>4</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="004. NGHIEP VU" data-p3="QC PHOI HOP">QC PHOI HOP <em>14</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="004. NGHIEP VU" data-p3="QL CCT KHU VUC">QL CCT KHU VUC <em>1</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="004. NGHIEP VU" data-p3="QUAN LY NS">QUAN LY NS <em>11</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="004. NGHIEP VU" data-p3="QUAN LY VAN BAN THUE">QUAN LY VAN BAN THUE <em>7</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="004. NGHIEP VU" data-p3="QUY CHE KIEM SOAT DU LIEU">QUY CHE KIEM SOAT DU LIEU <em>3</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="004. NGHIEP VU" data-p3="QUY CHE TIEP DAN">QUY CHE TIEP DAN <em>1</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="004. NGHIEP VU" data-p3="TIEU CHI NNT">TIEU CHI NNT <em>2</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="004. NGHIEP VU" data-p3="XAY DUNG DU TOAN NS">XAY DUNG DU TOAN NS <em>1</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="004. NGHIEP VU" data-p3="XU LY NO">XU LY NO <em>5</em></a></li>
+</ul>
+</li>
+<li><a class="nav-l2" href="#" data-p1="I.THUE" data-p2="005. Luat ban hanh Van ban" data-p3="">005. Luat ban hanh Van ban <em>5</em></a></li>
+<li class="nav-l2-item">
+  <button class="nav-l2-btn" onclick="toggleL2(this)">006. THU TUC HANH CHINH <em>56</em></button>
+  <ul class="nav-l3-list" style="display:none"><li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="006. THU TUC HANH CHINH" data-p3="001. Mot cua - Lien thong">001. Mot cua - Lien thong <em>4</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="006. THU TUC HANH CHINH" data-p3="002. TTHC moi truong dien tu">002. TTHC moi truong dien tu <em>7</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="006. THU TUC HANH CHINH" data-p3="003. TTHC thue theo Luat Dat dai">003. TTHC thue theo Luat Dat dai <em>3</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="006. THU TUC HANH CHINH" data-p3="004. Giai quyet TTHC thue">004. Giai quyet TTHC thue <em>1</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="006. THU TUC HANH CHINH" data-p3="005. DIEN TU TRUC TUYEN DAT">005. DIEN TU TRUC TUYEN DAT <em>8</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="006. THU TUC HANH CHINH" data-p3="006. TTHC UBND QNI">006. TTHC UBND QNI <em>18</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="006. THU TUC HANH CHINH" data-p3="007. THU TUC MIEN GIAM THUE DAT">007. THU TUC MIEN GIAM THUE DAT <em>7</em></a></li>
+</ul>
+</li>
+<li class="nav-l2-item">
+  <button class="nav-l2-btn" onclick="toggleL2(this)">007. DKKD-DKThue <em>29</em></button>
+  <ul class="nav-l3-list" style="display:none"><li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="007. DKKD-DKThue" data-p3="001.CONG VAN">001.CONG VAN <em>3</em></a></li>
+</ul>
+</li>
+<li class="nav-l2-item">
+  <button class="nav-l2-btn" onclick="toggleL2(this)">008. NGANH DAC THU <em>35</em></button>
+  <ul class="nav-l3-list" style="display:none"><li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="008. NGANH DAC THU" data-p3="001. KD CO DIEU KIEN">001. KD CO DIEU KIEN <em>5</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="008. NGANH DAC THU" data-p3="002. TRO CHOI CO THUONG">002. TRO CHOI CO THUONG <em>11</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="008. NGANH DAC THU" data-p3="003. GIAO DUC">003. GIAO DUC <em>2</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="008. NGANH DAC THU" data-p3="004. XANG DAU">004. XANG DAU <em>1</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="008. NGANH DAC THU" data-p3="005. KD DA CAP">005. KD DA CAP <em>4</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="008. NGANH DAC THU" data-p3="006. CONG LAP">006. CONG LAP <em>1</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="008. NGANH DAC THU" data-p3="007. NGANH DAC THU">007. NGANH DAC THU <em>10</em></a></li>
+</ul>
+</li>
+<li class="nav-l2-item">
+  <button class="nav-l2-btn" onclick="toggleL2(this)">009. MIEN GIAM - UU DAI <em>99</em></button>
+  <ul class="nav-l3-list" style="display:none"><li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="009. MIEN GIAM - UU DAI" data-p3="001.NONG NGHIEP">001.NONG NGHIEP <em>5</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="009. MIEN GIAM - UU DAI" data-p3="003.NAM 2009">003.NAM 2009 <em>11</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="009. MIEN GIAM - UU DAI" data-p3="004.NAM 2010">004.NAM 2010 <em>1</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="009. MIEN GIAM - UU DAI" data-p3="005.NAM 2011">005.NAM 2011 <em>7</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="009. MIEN GIAM - UU DAI" data-p3="006.NAM 2012">006.NAM 2012 <em>8</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="009. MIEN GIAM - UU DAI" data-p3="007.NAM 2013">007.NAM 2013 <em>5</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="009. MIEN GIAM - UU DAI" data-p3="008.NAM 2014">008.NAM 2014 <em>1</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="009. MIEN GIAM - UU DAI" data-p3="009. NAM 2015">009. NAM 2015 <em>2</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="009. MIEN GIAM - UU DAI" data-p3="010. NAM 2016">010. NAM 2016 <em>7</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="009. MIEN GIAM - UU DAI" data-p3="011. NAM 2017">011. NAM 2017 <em>1</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="009. MIEN GIAM - UU DAI" data-p3="012. NAM 2019">012. NAM 2019 <em>1</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="009. MIEN GIAM - UU DAI" data-p3="013. NAM 2020">013. NAM 2020 <em>8</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="009. MIEN GIAM - UU DAI" data-p3="014. NAM 2021">014. NAM 2021 <em>11</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="009. MIEN GIAM - UU DAI" data-p3="015. NAM 2022">015. NAM 2022 <em>9</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="009. MIEN GIAM - UU DAI" data-p3="016. NAM 2023">016. NAM 2023 <em>6</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="009. MIEN GIAM - UU DAI" data-p3="017. NAM 2024">017. NAM 2024 <em>6</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="009. MIEN GIAM - UU DAI" data-p3="018. NAM 2025">018. NAM 2025 <em>7</em></a></li>
+</ul>
+</li>
+<li class="nav-l2-item">
+  <button class="nav-l2-btn" onclick="toggleL2(this)">010. HIEP DINH <em>4</em></button>
+  <ul class="nav-l3-list" style="display:none"><li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="010. HIEP DINH" data-p3="001. CONG VAN">001. CONG VAN <em>2</em></a></li>
+</ul>
+</li>
+<li class="nav-l2-item">
+  <button class="nav-l2-btn" onclick="toggleL2(this)">011. DAI LY THUE <em>8</em></button>
+  <ul class="nav-l3-list" style="display:none"><li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="011. DAI LY THUE" data-p3="001. HANH NGHE TT THUE">001. HANH NGHE TT THUE <em>4</em></a></li>
+</ul>
+</li>
+<li class="nav-l2-item">
+  <button class="nav-l2-btn" onclick="toggleL2(this)">012. LINH VUC LIEN QUAN <em>80</em></button>
+  <ul class="nav-l3-list" style="display:none"><li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="012. LINH VUC LIEN QUAN" data-p3="001.LUONG">001.LUONG <em>23</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="012. LINH VUC LIEN QUAN" data-p3="002.BAO HIEM XA HOI">002.BAO HIEM XA HOI <em>3</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="012. LINH VUC LIEN QUAN" data-p3="003.BAO HIEM Y TE">003.BAO HIEM Y TE <em>4</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="012. LINH VUC LIEN QUAN" data-p3="004.BH THAT NGHIEP">004.BH THAT NGHIEP <em>9</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="012. LINH VUC LIEN QUAN" data-p3="005.KINH PHI CONG DOAN">005.KINH PHI CONG DOAN <em>1</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="012. LINH VUC LIEN QUAN" data-p3="006. LUAT DAU TU">006. LUAT DAU TU <em>6</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="012. LINH VUC LIEN QUAN" data-p3="007. LUAT LAO DONG">007. LUAT LAO DONG <em>8</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="012. LINH VUC LIEN QUAN" data-p3="008. LUAT BOI THUONG NN">008. LUAT BOI THUONG NN <em>1</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="012. LINH VUC LIEN QUAN" data-p3="009. AN TOAN LAO DONG">009. AN TOAN LAO DONG <em>1</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="012. LINH VUC LIEN QUAN" data-p3="010. XAY DUNG">010. XAY DUNG <em>14</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="012. LINH VUC LIEN QUAN" data-p3="011. BAT DONG SAN">011. BAT DONG SAN <em>1</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="012. LINH VUC LIEN QUAN" data-p3="012. THANH TOAN TIEN">012. THANH TOAN TIEN <em>1</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="012. LINH VUC LIEN QUAN" data-p3="013. KHU KINH TE">013. KHU KINH TE <em>2</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="012. LINH VUC LIEN QUAN" data-p3="014. TAP DOAN THAN">014. TAP DOAN THAN <em>1</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="012. LINH VUC LIEN QUAN" data-p3="015. LUAT TO TUNG">015. LUAT TO TUNG <em>1</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="012. LINH VUC LIEN QUAN" data-p3="016. Dat Dai">016. Dat Dai <em>3</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="012. LINH VUC LIEN QUAN" data-p3="017. QL von nha nuoc">017. QL von nha nuoc <em>1</em></a></li>
+</ul>
+</li>
+<li class="nav-l2-item">
+  <button class="nav-l2-btn" onclick="toggleL2(this)">013. XU PHAT <em>51</em></button>
+  <ul class="nav-l3-list" style="display:none"><li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="013. XU PHAT" data-p3="0001.HET HIEU LUC">0001.HET HIEU LUC <em>6</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="013. XU PHAT" data-p3="0002.CONG VAN">0002.CONG VAN <em>7</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="013. XU PHAT" data-p3="0003. LUAT XU PHAT VPHC">0003. LUAT XU PHAT VPHC <em>6</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="I.THUE" data-p2="013. XU PHAT" data-p3="0004. KY NANG XU PHAT">0004. KY NANG XU PHAT <em>3</em></a></li>
+</ul>
+</li>
+
   </ul>
 </div>
-  </nav>
+<div class="nav-section">
+  <button class="nav-s-btn" onclick="toggleSection(this)" data-p1="II. PHI VA LE PHI">
+    <span>💰 Phí & Lệ phí</span><em>18</em>
+  </button>
+  <ul class="nav-cat-list" style="display:none">
+    <li><a class="nav-l2 nav-all" href="#" data-p1="II. PHI VA LE PHI" data-p2="" data-p3="">Tất cả 18 văn bản</a></li>
 
+    <li><a class="nav-l2" href="#" data-p1="II. PHI VA LE PHI" data-p2="" data-p3="">(Gốc) <em>7</em></a></li>
+<li><a class="nav-l2" href="#" data-p1="II. PHI VA LE PHI" data-p2="001. HET HIEU LUC" data-p3="">001. HET HIEU LUC <em>11</em></a></li>
+
+  </ul>
+</div>
+<div class="nav-section">
+  <button class="nav-s-btn" onclick="toggleSection(this)" data-p1="III.KIEM TOAN">
+    <span>🔍 Kiểm toán</span><em>20</em>
+  </button>
+  <ul class="nav-cat-list" style="display:none">
+    <li><a class="nav-l2 nav-all" href="#" data-p1="III.KIEM TOAN" data-p2="" data-p3="">Tất cả 20 văn bản</a></li>
+
+    <li><a class="nav-l2" href="#" data-p1="III.KIEM TOAN" data-p2="" data-p3="">(Gốc) <em>3</em></a></li>
+<li><a class="nav-l2" href="#" data-p1="III.KIEM TOAN" data-p2="DOC LAP" data-p3="">DOC LAP <em>8</em></a></li>
+<li><a class="nav-l2" href="#" data-p1="III.KIEM TOAN" data-p2="NHA NUOC" data-p3="">NHA NUOC <em>9</em></a></li>
+
+  </ul>
+</div>
+<div class="nav-section">
+  <button class="nav-s-btn" onclick="toggleSection(this)" data-p1="IV.KE TOAN">
+    <span>📊 Kế toán</span><em>39</em>
+  </button>
+  <ul class="nav-cat-list" style="display:none">
+    <li><a class="nav-l2 nav-all" href="#" data-p1="IV.KE TOAN" data-p2="" data-p3="">Tất cả 39 văn bản</a></li>
+
+    <li><a class="nav-l2" href="#" data-p1="IV.KE TOAN" data-p2="" data-p3="">(Gốc) <em>4</em></a></li>
+<li class="nav-l2-item">
+  <button class="nav-l2-btn" onclick="toggleL2(this)">001.VBPQ KE TOAN <em>24</em></button>
+  <ul class="nav-l3-list" style="display:none"><li><a class="nav-l3" href="#" data-p1="IV.KE TOAN" data-p2="001.VBPQ KE TOAN" data-p3="0001.HET HIEU LUC">0001.HET HIEU LUC <em>8</em></a></li>
+<li><a class="nav-l3" href="#" data-p1="IV.KE TOAN" data-p2="001.VBPQ KE TOAN" data-p3="0002. CONG VAN">0002. CONG VAN <em>1</em></a></li>
+</ul>
+</li>
+<li><a class="nav-l2" href="#" data-p1="IV.KE TOAN" data-p2="002.CHUAN MUC" data-p3="">002.CHUAN MUC <em>7</em></a></li>
+<li><a class="nav-l2" href="#" data-p1="IV.KE TOAN" data-p2="003.XU PHAT KT" data-p3="">003.XU PHAT KT <em>4</em></a></li>
+
+  </ul>
+</div>
+<div class="nav-section">
+  <button class="nav-s-btn" onclick="toggleSection(this)" data-p1="V.DOANH NGHIEP - HTX">
+    <span>🏢 Doanh nghiệp & HTX</span><em>13</em>
+  </button>
+  <ul class="nav-cat-list" style="display:none">
+    <li><a class="nav-l2 nav-all" href="#" data-p1="V.DOANH NGHIEP - HTX" data-p2="" data-p3="">Tất cả 13 văn bản</a></li>
+
+    <li><a class="nav-l2" href="#" data-p1="V.DOANH NGHIEP - HTX" data-p2="" data-p3="">(Gốc) <em>1</em></a></li>
+<li><a class="nav-l2" href="#" data-p1="V.DOANH NGHIEP - HTX" data-p2="001. DOANH NGHIEP" data-p3="">001. DOANH NGHIEP <em>6</em></a></li>
+<li><a class="nav-l2" href="#" data-p1="V.DOANH NGHIEP - HTX" data-p2="002. HOP TAC XA" data-p3="">002. HOP TAC XA <em>6</em></a></li>
+
+  </ul>
+</div>
+<div class="nav-section">
+  <button class="nav-s-btn" onclick="toggleSection(this)" data-p1="VI.TIEN ICH">
+    <span>🛠️ Tiện ích</span><em>3</em>
+  </button>
+  <ul class="nav-cat-list" style="display:none">
+    <li><a class="nav-l2 nav-all" href="#" data-p1="VI.TIEN ICH" data-p2="" data-p3="">Tất cả 3 văn bản</a></li>
+
+    <li><a class="nav-l2" href="#" data-p1="VI.TIEN ICH" data-p2="" data-p3="">(Gốc) <em>3</em></a></li>
+
+  </ul>
+</div>
+
+    <div class="sidebar-hd" style="margin-top:16px">Bộ lọc</div>
+
+    <div class="filter-group">
+      <div class="filter-label" onclick="toggleFilter('fTax')">Sắc thuế <span id="fTax-badge"></span> ▸</div>
+      <div class="filter-body" id="fTax" style="display:none">
+        <label><input type="checkbox" class="cb-tax" value="QLT"> Quản lý Thuế</label>
+<label><input type="checkbox" class="cb-tax" value="GTGT"> Thuế GTGT</label>
+<label><input type="checkbox" class="cb-tax" value="TNDN"> Thuế TNDN</label>
+<label><input type="checkbox" class="cb-tax" value="TNCN"> Thuế TNCN</label>
+<label><input type="checkbox" class="cb-tax" value="TTDB"> Thuế TTĐB</label>
+<label><input type="checkbox" class="cb-tax" value="BVMT"> Thuế BVMT</label>
+<label><input type="checkbox" class="cb-tax" value="TruocBa"> Trước bạ</label>
+<label><input type="checkbox" class="cb-tax" value="TaiNguyen"> Tài nguyên</label>
+<label><input type="checkbox" class="cb-tax" value="NhaThau"> Nhà thầu</label>
+<label><input type="checkbox" class="cb-tax" value="MonBai"> Môn Bài</label>
+<label><input type="checkbox" class="cb-tax" value="GDLK"> Giao dịch LK</label>
+<label><input type="checkbox" class="cb-tax" value="PhiBVMT"> Phí BVMT</label>
+        <a href="#" class="clear-filter" onclick="clearFilter('cb-tax');return false">✕ Bỏ chọn</a>
+      </div>
+    </div>
+
+    <div class="filter-group">
+      <div class="filter-label" onclick="toggleFilter('fType')">Loại văn bản <span id="fType-badge"></span> ▸</div>
+      <div class="filter-body" id="fType" style="display:none">
+        <label><input type="checkbox" class="cb-type" value="Luật"> Luật</label>
+<label><input type="checkbox" class="cb-type" value="NĐ"> Nghị Định</label>
+<label><input type="checkbox" class="cb-type" value="TT"> Thông Tư</label>
+<label><input type="checkbox" class="cb-type" value="QĐ"> Quyết Định</label>
+<label><input type="checkbox" class="cb-type" value="NQ"> Nghị Quyết</label>
+<label><input type="checkbox" class="cb-type" value="CV"> Công Văn</label>
+<label><input type="checkbox" class="cb-type" value="VBHN"> VBHN</label>
+<label><input type="checkbox" class="cb-type" value="Khác"> Khác</label>
+        <a href="#" class="clear-filter" onclick="clearFilter('cb-type');return false">✕ Bỏ chọn</a>
+      </div>
+    </div>
+
+    <div class="filter-group">
+      <div class="filter-label">Năm ban hành</div>
+      <div class="filter-body" style="display:block">
+        <select id="filterYear" onchange="doFilter()" class="sel-year">
+          <option value="">Tất cả năm</option>
+          <option value="2025">2025</option>
+<option value="2024">2024</option>
+<option value="2023">2023</option>
+<option value="2022">2022</option>
+<option value="2021">2021</option>
+<option value="2020">2020</option>
+<option value="2019">2019</option>
+<option value="2018">2018</option>
+<option value="2017">2017</option>
+<option value="2016">2016</option>
+<option value="2015">2015</option>
+<option value="2014">2014</option>
+<option value="2013">2013</option>
+<option value="2012">2012</option>
+<option value="2011">2011</option>
+<option value="2010">2010</option>
+<option value="2009">2009</option>
+<option value="2008">2008</option>
+<option value="2007">2007</option>
+<option value="2006">2006</option>
+<option value="2005">2005</option>
+<option value="2004">2004</option>
+<option value="2003">2003</option>
+<option value="2002">2002</option>
+<option value="2001">2001</option>
+<option value="2000">2000</option>
+<option value="1999">1999</option>
+<option value="1998">1998</option>
+<option value="1997">1997</option>
+<option value="1996">1996</option>
+<option value="1995">1995</option>
+<option value="1994">1994</option>
+<option value="1993">1993</option>
+<option value="1992">1992</option>
+<option value="1991">1991</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="filter-group">
+      <div class="filter-body" style="display:block">
+        <label class="hl-check"><input type="checkbox" id="filterValid" onchange="doFilter()"> Chỉ văn bản còn hiệu lực</label>
+      </div>
+    </div>
+
+    <button class="btn-reset" onclick="resetAll()">↺ Reset tất cả bộ lọc</button>
+  </aside>
+
+  <!-- MAIN -->
   <main>
     <div id="resultInfo" class="result-info"></div>
-    <div id="docList" class="doc-list">
-      <div class="loading">⏳ Đang tải dữ liệu...</div>
-    </div>
+    <div id="docList" class="doc-list"><div class="loading">⏳ Đang tải...</div></div>
     <div id="pagination" class="pagination"></div>
   </main>
 </div>
@@ -142,133 +379,119 @@
 </footer>
 
 <script>
-const PAGE_SIZE = 50;
-let allDocs = [];
-let filtered = [];
-let currentPage = 1;
-let activeSub = null;
+const PAGE = 50;
+let ALL=[], FIL=[], page=1;
+let nav={p1:'',p2:'',p3:''};
 
-const DOC_TYPE_LABELS = {
-  'Luật':'🏛️ Luật','NĐ':'📋 NĐ','TT':'📄 TT','QĐ':'📌 QĐ',
-  'NQ':'📜 NQ','CV':'📧 CV','VBHN':'🔗 VBHN','TB':'📢 TB',
-  'CT':'⚡ CT','Quy trình':'⚙️ QT','HD':'📗 HD','Khác':'📎 Khác'
-};
-const TAX_COLORS = {
-  'QLT':'#028a39','GTGT':'#2563eb','TNDN':'#7c3aed','TNCN':'#b45309',
-  'TTDB':'#dc2626','BVMT':'#059669','TruocBa':'#0891b2','TaiNguyen':'#65a30d',
-  'NhaThau':'#9333ea','MonBai':'#f59e0b','GDLK':'#6b7280'
-};
+const TYPE_ICONS={'Luật':'🏛️','NĐ':'📋','TT':'📄','QĐ':'📌','NQ':'📜','CV':'📧','VBHN':'🔗','TB':'📢','CT':'⚡','QTr':'⚙️','HD':'📗','Khác':'📎'};
+const TAX_CLR={'QLT':'#028a39','GTGT':'#2563eb','TNDN':'#7c3aed','TNCN':'#b45309','TTDB':'#dc2626','BVMT':'#059669','TruocBa':'#0891b2','TaiNguyen':'#65a30d','NhaThau':'#9333ea','MonBai':'#f59e0b','GDLK':'#6b7280','PhiBVMT':'#0d9488'};
 
-async function init() {
-  const r = await fetch('index.json');
-  allDocs = await r.json();
-  document.getElementById('totalCount').textContent = allDocs.length;
+async function init(){
+  const r=await fetch('index.json'); ALL=await r.json();
+  document.getElementById('totalCount').textContent=ALL.length;
   doFilter();
 }
 
-function getFilters() {
-  return {
-    q: document.getElementById('searchInput').value.trim().toLowerCase(),
-    tax: document.getElementById('filterTax').value,
-    type: document.getElementById('filterType').value,
-    year: document.getElementById('filterYear').value,
-    valid: document.getElementById('filterValid').checked,
-  };
-}
+function getChecked(cls){return [...document.querySelectorAll('.'+cls+':checked')].map(e=>e.value);}
 
-function doSearch() { currentPage = 1; doFilter(); }
+function doSearch(){page=1;doFilter();}
+function doFilter(){
+  const q=document.getElementById('searchInput').value.trim().toLowerCase();
+  const taxes=getChecked('cb-tax'), types=getChecked('cb-type');
+  const year=document.getElementById('filterYear').value;
+  const valid=document.getElementById('filterValid').checked;
+  // Update badges
+  document.getElementById('fTax-badge').textContent=taxes.length?'('+taxes.length+')':'';
+  document.getElementById('fType-badge').textContent=types.length?'('+types.length+')':'';
 
-function doFilter() {
-  const f = getFilters();
-  filtered = allDocs.filter(d => {
-    if (f.q && !d.n.toLowerCase().includes(f.q)) return false;
-    if (f.tax && d.tx !== f.tax) return false;
-    if (f.type && d.t !== f.type) return false;
-    if (f.year && d.y !== f.year) return false;
-    if (f.valid && !d.hl) return false;
-    if (activeSub) {
-      if (activeSub.section && !d.s.includes(activeSub.section.split('.')[0])) return false;
-    }
+  FIL=ALL.filter(d=>{
+    if(q&&!d.n.toLowerCase().includes(q)) return false;
+    if(taxes.length&&!taxes.includes(d.tx)) return false;
+    if(types.length&&!types.includes(d.t)) return false;
+    if(year&&d.y!==year) return false;
+    if(valid&&!d.hl) return false;
+    if(nav.p1&&!d.s.includes(nav.p1.replace(/\..*/,''))) return false;
+    if(nav.p2&&d.p2!==nav.p2) return false;
+    if(nav.p3&&d.p3!==nav.p3) return false;
     return true;
   });
-  currentPage = 1;
-  renderList();
+  page=1; render();
 }
 
-function renderList() {
-  const list = document.getElementById('docList');
-  const info = document.getElementById('resultInfo');
-  const total = filtered.length;
-  const start = (currentPage - 1) * PAGE_SIZE;
-  const page = filtered.slice(start, start + PAGE_SIZE);
-
-  info.textContent = total + ' văn bản' + (filtered.length < allDocs.length ? ' (đã lọc)' : '');
-
-  if (total === 0) {
-    list.innerHTML = '<div class="empty">Không tìm thấy văn bản nào</div>';
-    document.getElementById('pagination').innerHTML = '';
-    return;
-  }
-
-  list.innerHTML = page.map(d => {
-    const typeLabel = DOC_TYPE_LABELS[d.t] || ('📎 ' + d.t);
-    const taxColor = TAX_COLORS[d.tx] || '#6b7280';
-    const hlBadge = d.hl ? '<span class="badge-hl">✅ Hiệu lực</span>' : '<span class="badge-het">❌ Hết HL</span>';
-    const taxBadge = d.tl ? '<span class="badge-tax" style="border-color:' + taxColor + ';color:' + taxColor + '">' + d.tl + '</span>' : '';
-    const yearBadge = d.y ? '<span class="badge-year">' + d.y + '</span>' : '';
-    return '<div class="doc-item"><a href="docs/' + d.p + '" class="doc-name">' + d.n.replace('.mht','') + '</a><div class="doc-badges">' + '<span class="badge-type">' + typeLabel + '</span>' + yearBadge + taxBadge + hlBadge + '</div></div>';
+function render(){
+  const info=document.getElementById('resultInfo');
+  const list=document.getElementById('docList');
+  const total=FIL.length;
+  info.textContent=total+' văn bản'+(FIL.length<ALL.length?' (đã lọc)':'');
+  if(!total){list.innerHTML='<div class="empty">Không tìm thấy văn bản nào</div>';document.getElementById('pagination').innerHTML='';return;}
+  const start=(page-1)*PAGE;
+  const rows=FIL.slice(start,start+PAGE).map(d=>{
+    const ico=TYPE_ICONS[d.t]||'📎';
+    const clr=TAX_CLR[d.tx]||'#6b7280';
+    const hl=d.hl?'<span class="b-hl">✅ Hiệu lực</span>':'<span class="b-het">❌ Hết HL</span>';
+    const tx=d.tl?`<span class="b-tax" style="border-color:${clr};color:${clr}">${d.tl}</span>`:'';
+    const yr=d.y?`<span class="b-yr">${d.y}</span>`:'';
+    const nm=d.n.replace(/\.mht$/i,'');
+    return `<div class="di"><a class="di-name" href="docs/${d.p}" target="_blank">${nm}</a><div class="di-tags"><span class="b-type">${ico} ${d.t}</span>${yr}${tx}${hl}</div></div>`;
   }).join('');
-
-  // Pagination
-  const pages = Math.ceil(total / PAGE_SIZE);
-  if (pages <= 1) { document.getElementById('pagination').innerHTML = ''; return; }
-  let pg = '';
-  const maxShow = 7;
-  let pgNums = [];
-  if (pages <= maxShow) {
-    pgNums = Array.from({length: pages}, (_, i) => i+1);
-  } else {
-    pgNums = [1, 2];
-    if (currentPage > 3) pgNums.push('...');
-    for (let i = Math.max(3, currentPage-1); i <= Math.min(pages-2, currentPage+1); i++) pgNums.push(i);
-    if (currentPage < pages - 2) pgNums.push('...');
-    pgNums.push(pages-1, pages);
-  }
-  pg = pgNums.map(n => n === '...' ? '<span class="pg-dots">…</span>' :
-    '<button class="pg-btn' + (n === currentPage ? ' active' : '') + '" onclick="goPage(' + n + ')">' + n + '</button>').join('');
-  document.getElementById('pagination').innerHTML = pg;
+  list.innerHTML=rows;
+  renderPager(total);
 }
 
-function goPage(n) { currentPage = n; renderList(); window.scrollTo(0,0); }
+function renderPager(total){
+  const pages=Math.ceil(total/PAGE);
+  const pg=document.getElementById('pagination');
+  if(pages<=1){pg.innerHTML='';return;}
+  let h='';
+  for(let i=1;i<=pages;i++){
+    if(i===1||i===pages||Math.abs(i-page)<=2){
+      h+=`<button class="pgb${i===page?' on':''}" onclick="goPage(${i})">${i}</button>`;
+    } else if(Math.abs(i-page)===3){
+      h+='<span class="pgdot">…</span>';
+    }
+  }
+  pg.innerHTML=h;
+}
 
-function toggleCat(btn) {
-  const ul = btn.nextElementSibling;
-  ul.style.display = ul.style.display === 'none' ? 'block' : 'none';
+function goPage(n){page=n;render();window.scrollTo(0,0);}
+function toggleSection(btn){
+  const ul=btn.nextElementSibling;
+  ul.style.display=ul.style.display==='none'?'block':'none';
   btn.classList.toggle('open');
 }
-
-document.addEventListener('click', function(e) {
-  if (e.target.classList.contains('nav-sub')) {
-    e.preventDefault();
-    activeSub = { section: e.target.dataset.section, sub: e.target.dataset.sub };
-    document.querySelectorAll('.nav-sub').forEach(a => a.classList.remove('active'));
-    e.target.classList.add('active');
-    doFilter();
-  }
-});
-
-function resetFilters() {
-  document.getElementById('searchInput').value = '';
-  document.getElementById('filterTax').value = '';
-  document.getElementById('filterType').value = '';
-  document.getElementById('filterYear').value = '';
-  document.getElementById('filterValid').checked = false;
-  activeSub = null;
-  document.querySelectorAll('.nav-sub').forEach(a => a.classList.remove('active'));
+function toggleL2(btn){
+  const ul=btn.nextElementSibling;
+  ul.style.display=ul.style.display==='none'?'block':'none';
+}
+function toggleFilter(id){
+  const el=document.getElementById(id);
+  el.style.display=el.style.display==='none'?'block':'none';
+}
+function clearFilter(cls){
+  document.querySelectorAll('.'+cls).forEach(e=>e.checked=false);
+  doFilter();
+}
+function resetAll(){
+  document.getElementById('searchInput').value='';
+  document.querySelectorAll('.cb-tax,.cb-type').forEach(e=>e.checked=false);
+  document.getElementById('filterYear').value='';
+  document.getElementById('filterValid').checked=false;
+  nav={p1:'',p2:'',p3:''};
+  document.querySelectorAll('.nav-active').forEach(e=>e.classList.remove('nav-active'));
   doFilter();
 }
 
+document.addEventListener('click',function(e){
+  const a=e.target.closest('[data-p1]');
+  if(!a)return;
+  e.preventDefault();
+  nav={p1:a.dataset.p1||'',p2:a.dataset.p2||'',p3:a.dataset.p3||''};
+  document.querySelectorAll('.nav-active').forEach(x=>x.classList.remove('nav-active'));
+  a.classList.add('nav-active');
+  doFilter();
+});
+
+document.querySelectorAll('.cb-tax,.cb-type').forEach(e=>e.addEventListener('change',doFilter));
 init();
 </script>
-</body>
-</html>
+</body></html>
