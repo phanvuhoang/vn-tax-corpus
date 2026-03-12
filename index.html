@@ -143,7 +143,7 @@
 <li><a class="nav-l2 nav-priority" href="#" data-tx="QLT" data-p1="I.THUE" data-p2="" data-p3="">LUAT QLT <em>26</em></a></li>
 <li><a class="nav-l2 nav-priority" href="#" data-tx="TNDN" data-p1="I.THUE" data-p2="" data-p3="">THUE TNDN <em>8</em></a></li>
 <li><a class="nav-l2 nav-priority" href="#" data-tx="GTGT" data-p1="I.THUE" data-p2="" data-p3="">THUE GTGT <em>16</em></a></li>
-<li><a class="nav-l2 nav-priority" href="#" data-tx="HoaDon" data-p1="I.THUE" data-p2="" data-p3="">HOA DON <em>5</em></a></li>
+<li><a class="nav-l2 nav-priority" href="#" data-tx="HoaDon" data-p1="I.THUE" data-p2="" data-p3="">HOA DON <em>6</em></a></li>
 <li><a class="nav-l2 nav-priority" href="#" data-tx="TNCN" data-p1="I.THUE" data-p2="" data-p3="">THUE TNCN <em>57</em></a></li>
 <li><a class="nav-l2 nav-priority" href="#" data-tx="TTDB" data-p1="I.THUE" data-p2="" data-p3="">THUE TTDB <em>34</em></a></li>
 <li><a class="nav-l2 nav-priority" href="#" data-tx="NhaThau" data-p1="I.THUE" data-p2="" data-p3="">THUE NHA THAU <em>5</em></a></li>
@@ -355,8 +355,34 @@ let ALL=[],FIL=[],page=1,nav={p1:'',p2:'',p3:'',tx:''};
 const TICONS={'Luật':'🏛️','NĐ':'📋','NQ':'📜','TT':'📄','QĐ':'📌','CV':'📧','VBHN':'🔗','TB':'📢','CT':'⚡','QTr':'⚙️','HD':'📗','Khác':'📎'};
 const TCLR={'QLT':'#028a39','GTGT':'#2563eb','TNDN':'#7c3aed','TNCN':'#b45309','TTDB':'#dc2626','BVMT':'#059669','TruocBa':'#0891b2','TaiNguyen':'#65a30d','NhaThau':'#9333ea','MonBai':'#f59e0b','GDLK':'#6b7280','PhiBVMT':'#0d9488'};
 
+const P3_TX={
+  '001.LUAT QLT':'QLT','002. MON BAI':'MonBai','003.THUE GTGT':'GTGT',
+  '004.THUE TNDN':'TNDN','005.THUE TTDB':'TTDB','006.THUE TNCN':'TNCN',
+  '007.THUE BVMT':'BVMT','008.THUE NHA THAU':'NhaThau','009.TRUOC BA':'TruocBa',
+  '010.THUE T.NGUYEN':'TaiNguyen','011.PHI BVMT':'PhiBVMT',
+  '012. GIAO DICH LK':'GDLK','013.LOI NHUAN':'LoiNhuan',
+  '014.DAU TU NN':'DauTuNN','015.ODA':'ODA',
+  '016._HO_KINH_DOANH':'HKD','021._HOA_DON':'HoaDon'
+};
+const TX_LABELS={
+  'QLT':'Quản lý Thuế','MonBai':'Môn Bài','GTGT':'Thuế GTGT','TNDN':'Thuế TNDN',
+  'TTDB':'Thuế TTĐB','TNCN':'Thuế TNCN','BVMT':'Thuế BVMT','NhaThau':'Nhà thầu',
+  'TruocBa':'Trước bạ','TaiNguyen':'Tài nguyên','PhiBVMT':'Phí BVMT',
+  'GDLK':'Giao dịch liên kết','HKD':'Hộ kinh doanh','HoaDon':'Hóa đơn'
+};
 async function init(){
   ALL=await(await fetch('index.json')).json();
+  // Enrich tx field from p3 for any docs missing it
+  ALL.forEach(function(d){
+    if(!d.tx && d.p3 && P3_TX[d.p3]){ d.tx=P3_TX[d.p3]; d.tl=TX_LABELS[d.tx]||d.tx; }
+    // Also try path-based match if p3 not found
+    if(!d.tx && d.p){
+      for(var k in P3_TX){
+        var kn=k.replace(/[\s.]/g,'_').toUpperCase();
+        if(d.p.toUpperCase().includes(kn)){d.tx=P3_TX[k];d.tl=TX_LABELS[d.tx]||d.tx;break;}
+      }
+    }
+  });
   document.getElementById('totalCount').textContent=ALL.length;
   doFilter();
 }
