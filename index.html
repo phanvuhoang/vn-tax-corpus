@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
-<header>
+<header id="site-header">
   <div class="header-inner">
     <div class="header-top">
       <div>
@@ -15,12 +15,18 @@
         <p>Cơ sở dữ liệu văn bản pháp luật thuế Việt Nam — cập nhật đến 2025</p>
       </div>
       <div class="stats">
-        <div class="stat"><strong id="totalCount">1111</strong><span>Văn bản</span></div>
+        <div class="stat"><strong id="totalCount">…</strong><span>Văn bản</span></div>
         <div class="stat"><strong>2025</strong><span>Cập nhật đến</span></div>
       </div>
     </div>
 
-    <input type="text" id="searchInput" class="search-input" placeholder="🔍 Tìm theo tên văn bản, số hiệu..." oninput="doSearch()">
+    <input type="text" id="searchInput" class="search-input"
+      placeholder="🔍 Tìm tên văn bản — hoặc tìm nội dung: \"chi phí được trừ\" +TNDN +2024"
+      oninput="onSearchInput()">
+    <div class="search-hint" id="searchHint">
+      Gợi ý: <code>+TNDN</code> = bắt buộc có | <code>"chi phí"</code> = cụm từ chính xác | <code>-hết hiệu lực</code> = loại trừ
+      &nbsp;·&nbsp; <span id="searchStatus"></span>
+    </div>
 
     <div class="filter-bar">
       <!-- Sắc thuế dropdown -->
@@ -133,6 +139,7 @@
 </header>
 
 <div class="layout">
+  <!-- SIDEBAR -->
   <aside class="sidebar">
     <div class="sidebar-hd">Danh mục</div>
     <div class="nav-section">
@@ -334,14 +341,29 @@
 <li><a class="nav-l2" href="#" data-p1="VI.TIEN ICH" data-p2="" data-p3="">(Gốc) <em>3</em></a></li>
 </ul>
 </div>
-
   </aside>
 
-  <main>
-    <div id="resultInfo" class="result-info"></div>
+  <!-- DOC LIST PANEL -->
+  <div class="doc-panel">
+    <div class="doc-panel-top">
+      <div id="resultInfo" class="result-info">Đang tải...</div>
+    </div>
     <div id="docList" class="doc-list"><div class="loading">⏳ Đang tải...</div></div>
     <div id="pagination" class="pagination"></div>
-  </main>
+  </div>
+
+  <!-- PREVIEW PANEL -->
+  <div class="preview-panel" id="previewPanel">
+    <div class="preview-empty" id="previewEmpty">
+      <div class="big-icon">📄</div>
+      <div>Chọn một văn bản để xem nội dung</div>
+    </div>
+    <div class="preview-toolbar" id="previewToolbar" style="display:none">
+      <span class="doc-title-bar" id="previewTitle"></span>
+      <a id="previewOpenLink" href="#" target="_blank">↗ Mở tab mới</a>
+    </div>
+    <iframe class="preview-frame" id="previewFrame" style="display:none" src="about:blank"></iframe>
+  </div>
 </div>
 
 <footer>
@@ -350,108 +372,321 @@
 </footer>
 
 <script>
-const PAGE=50;
-let ALL=[],FIL=[],page=1,nav={p1:'',p2:'',p3:''};
-const TICONS={'Luật':'🏛️','NĐ':'📋','NQ':'📜','TT':'📄','QĐ':'📌','CV':'📧','VBHN':'🔗','TB':'📢','CT':'⚡','QTr':'⚙️','HD':'📗','Khác':'📎'};
-const TCLR={'QLT':'#028a39','GTGT':'#2563eb','TNDN':'#7c3aed','TNCN':'#b45309','TTDB':'#dc2626','BVMT':'#059669','TruocBa':'#0891b2','TaiNguyen':'#65a30d','NhaThau':'#9333ea','MonBai':'#f59e0b','GDLK':'#6b7280','PhiBVMT':'#0d9488'};
+// ──────────────────────────────────────────────
+// Constants
+// ──────────────────────────────────────────────
+const PAGE = 30;
+const TICONS = {'Luật':'🏛️','NĐ':'📋','NQ':'📜','TT':'📄','QĐ':'📌','CV':'📧','VBHN':'🔗','TB':'📢','CT':'⚡','QTr':'⚙️','HD':'📗','Khác':'📎'};
+const TCLR = {'QLT':'#028a39','GTGT':'#2563eb','TNDN':'#7c3aed','TNCN':'#b45309','TTDB':'#dc2626','BVMT':'#059669','TruocBa':'#0891b2','TaiNguyen':'#65a30d','NhaThau':'#9333ea','MonBai':'#f59e0b','GDLK':'#6b7280','PhiBVMT':'#0d9488'};
 
-async function init(){
-  ALL=await(await fetch('index.json')).json();
-  document.getElementById('totalCount').textContent=ALL.length;
+let ALL = [], FIL = [], page = 1, nav = {p1:'',p2:'',p3:''};
+let SEARCH_IDX = null;   // full-text index [{id,n,tx}]
+let searchLoading = false;
+let activeDocIdx = -1;
+
+// ──────────────────────────────────────────────
+// Init
+// ──────────────────────────────────────────────
+async function init() {
+  ALL = await (await fetch('index.json')).json();
+  document.getElementById('totalCount').textContent = ALL.length;
   doFilter();
+  adjustLayout();
+  window.addEventListener('resize', adjustLayout);
+  // Preload search index in background
+  loadSearchIndex();
 }
-function checked(cls){return[...document.querySelectorAll('.'+cls+':checked')].map(e=>e.value);}
-function doSearch(){page=1;doFilter();}
-function doFilter(){
-  const q=document.getElementById('searchInput').value.trim().toLowerCase();
-  const taxes=checked('cb-tax'),types=checked('cb-type');
-  const year=document.getElementById('filterYear').value;
-  const valid=document.getElementById('filterValid').checked;
-  const bt=document.getElementById('badge-tax'),btp=document.getElementById('badge-type');
-  bt.textContent=taxes.length?taxes.length:'';
-  btp.textContent=types.length?types.length:'';
-  document.getElementById('fd-tax').querySelector('.fd-btn').classList.toggle('active',taxes.length>0);
-  document.getElementById('fd-type').querySelector('.fd-btn').classList.toggle('active',types.length>0);
-  FIL=ALL.filter(d=>{
-    if(q&&!d.n.toLowerCase().includes(q))return false;
-    if(taxes.length&&!taxes.includes(d.tx))return false;
-    if(types.length&&!types.includes(d.t))return false;
-    if(year){
-      const mode=document.querySelector('input[name=yearMode]:checked')?.value||'in';
-      const dy=parseInt(d.y)||0, fy=parseInt(year)||0;
-      if(mode==='in'    && dy!==fy)  return false;
-      if(mode==='before'&& dy>=fy)   return false;
-      if(mode==='after' && dy<=fy)   return false;
+
+async function loadSearchIndex() {
+  const status = document.getElementById('searchStatus');
+  try {
+    status.textContent = '⏳ Đang tải index tìm kiếm nội dung...';
+    const resp = await fetch('assets/search-index.json');
+    if (!resp.ok) throw new Error('Not found');
+    SEARCH_IDX = await resp.json();
+    status.textContent = '✅ Sẵn sàng tìm kiếm nội dung (' + SEARCH_IDX.length + ' văn bản)';
+    setTimeout(() => { status.textContent = ''; }, 3000);
+  } catch(e) {
+    SEARCH_IDX = null;
+    status.textContent = '';
+  }
+}
+
+// ──────────────────────────────────────────────
+// Layout height
+// ──────────────────────────────────────────────
+function adjustLayout() {
+  const hh = document.getElementById('site-header').offsetHeight;
+  document.querySelector('.layout').style.height = (window.innerHeight - hh) + 'px';
+}
+
+// ──────────────────────────────────────────────
+// Search query parser — Google-style
+// Supports: +term  "exact phrase"  -exclude  plain word
+// ──────────────────────────────────────────────
+function parseQuery(raw) {
+  const q = raw.trim().toLowerCase();
+  if (!q) return null;
+
+  const required = [];   // +term or "phrase" — ALL must match
+  const excluded = [];   // -term — NONE must match
+  const optional = [];   // plain terms — at least one must match (if no required)
+
+  const re = /([+\-]?"[^"]+"|[+\-]?\S+)/g;
+  let m;
+  while ((m = re.exec(q)) !== null) {
+    let token = m[0];
+    let sign = '';
+    if (token[0] === '+' || token[0] === '-') {
+      sign = token[0];
+      token = token.slice(1);
     }
-    if(valid&&!d.hl)return false;
-    if(nav.p1){const s=nav.p1.split('.')[0];if(!d.s.startsWith(s))return false;}
-    if(nav.p2&&d.p2!==nav.p2)return false;
-    if(nav.p3&&d.p3!==nav.p3)return false;
+    token = token.replace(/^"|"$/g, '');  // strip quotes
+    if (!token) continue;
+    if (sign === '-') excluded.push(token);
+    else if (sign === '+') required.push(token);
+    else optional.push(token);
+  }
+  return { required, excluded, optional };
+}
+
+function matchesQuery(text, parsed) {
+  if (!parsed) return true;
+  const { required, excluded, optional } = parsed;
+  // Must NOT contain excluded terms
+  for (const e of excluded) {
+    if (text.includes(e)) return false;
+  }
+  // Must contain ALL required terms
+  for (const r of required) {
+    if (!text.includes(r)) return false;
+  }
+  // If no optional terms, pass
+  if (optional.length === 0) return true;
+  // Must contain at least one optional term
+  return optional.some(o => text.includes(o));
+}
+
+// Score: count of required+optional hits (for ranking)
+function scoreDoc(text, parsed) {
+  if (!parsed) return 0;
+  const terms = [...parsed.required, ...parsed.optional];
+  return terms.reduce((s, t) => {
+    let idx = 0, count = 0;
+    while ((idx = text.indexOf(t, idx)) !== -1) { count++; idx += t.length; }
+    return s + count;
+  }, 0);
+}
+
+// ──────────────────────────────────────────────
+// Search & Filter
+// ──────────────────────────────────────────────
+let searchTimer = null;
+
+function onSearchInput() {
+  clearTimeout(searchTimer);
+  searchTimer = setTimeout(() => { page = 1; doFilter(); }, 200);
+}
+
+function checked(cls) {
+  return [...document.querySelectorAll('.' + cls + ':checked')].map(e => e.value);
+}
+
+function isFullTextQuery(raw) {
+  // Full-text if has +term, "phrase", or -term
+  return /[+\-"]/.test(raw) || raw.trim().split(/\s+/).length > 1;
+}
+
+function doFilter() {
+  const rawQ = document.getElementById('searchInput').value;
+  const qLow = rawQ.trim().toLowerCase();
+  const taxes = checked('cb-tax'), types = checked('cb-type');
+  const year = document.getElementById('filterYear').value;
+  const valid = document.getElementById('filterValid').checked;
+
+  // Badge update
+  document.getElementById('badge-tax').textContent = taxes.length ? taxes.length : '';
+  document.getElementById('badge-type').textContent = types.length ? types.length : '';
+  document.getElementById('fd-tax').querySelector('.fd-btn').classList.toggle('active', taxes.length > 0);
+  document.getElementById('fd-type').querySelector('.fd-btn').classList.toggle('active', types.length > 0);
+
+  // Decide search mode
+  const useFullText = qLow && isFullTextQuery(rawQ) && SEARCH_IDX;
+  const parsed = qLow ? parseQuery(rawQ) : null;
+
+  // Build candidate set
+  let candidates = ALL.map((d, i) => ({ d, i, score: 0 }));
+
+  // Apply filters
+  candidates = candidates.filter(({ d }) => {
+    if (taxes.length && !taxes.includes(d.tx)) return false;
+    if (types.length && !types.includes(d.t)) return false;
+    if (year) {
+      const mode = document.querySelector('input[name=yearMode]:checked')?.value || 'in';
+      const dy = parseInt(d.y) || 0, fy = parseInt(year) || 0;
+      if (mode === 'in'     && dy !== fy) return false;
+      if (mode === 'before' && dy >= fy)  return false;
+      if (mode === 'after'  && dy <= fy)  return false;
+    }
+    if (valid && !d.hl) return false;
+    if (nav.p1) { const s = nav.p1.split('.')[0]; if (!d.s.startsWith(s)) return false; }
+    if (nav.p2 && d.p2 !== nav.p2) return false;
+    if (nav.p3 && d.p3 !== nav.p3) return false;
     return true;
   });
-  page=1;render();
+
+  if (qLow) {
+    if (useFullText) {
+      // Full-text search via search index
+      const idxMap = new Map(SEARCH_IDX.map(e => [e.id, e.tx]));
+      candidates = candidates.filter(({ i, d }) => {
+        const txt = (idxMap.get(i) || d.n).toLowerCase();
+        return matchesQuery(txt, parsed);
+      });
+      // Score and sort
+      candidates.forEach(c => {
+        const txt = (idxMap.get(c.i) || c.d.n).toLowerCase();
+        c.score = scoreDoc(txt, parsed);
+      });
+      candidates.sort((a, b) => b.score - a.score);
+      c => c.matched = true;
+    } else {
+      // Simple name search
+      candidates = candidates.filter(({ d }) => d.n.toLowerCase().includes(qLow));
+    }
+  }
+
+  FIL = candidates.map(c => ({ ...c.d, _idx: c.i, _ft: useFullText && c.score > 0 }));
+  page = 1;
+  render();
 }
-function render(){
-  const list=document.getElementById('docList');
-  const total=FIL.length;
-  document.getElementById('resultInfo').textContent=total+' văn bản'+(total<ALL.length?' (đã lọc)':'');
-  if(!total){list.innerHTML='<div class="empty">Không tìm thấy văn bản nào</div>';document.getElementById('pagination').innerHTML='';return;}
-  const rows=FIL.slice((page-1)*PAGE,page*PAGE).map(d=>{
-    const ico=TICONS[d.t]||'📎',clr=TCLR[d.tx]||'#6b7280';
-    const hl=d.hl?'<span class="b-hl">✅ Hiệu lực</span>':'<span class="b-het">❌ Hết HL</span>';
-    const tx=d.tl?`<span class="b-tax" style="border-color:${clr};color:${clr}">${d.tl}</span>`:'';
-    const yr=d.y?`<span class="b-yr">${d.y}</span>`:'';
-    return`<div class="di"><a class="di-name" href="docs/${d.p}" target="_blank">${d.n}</a><div class="di-tags"><span class="b-type">${ico} ${d.t}</span>${yr}${tx}${hl}</div></div>`;
+
+// ──────────────────────────────────────────────
+// Render
+// ──────────────────────────────────────────────
+function render() {
+  const list = document.getElementById('docList');
+  const total = FIL.length;
+  const ftMode = FIL.length > 0 && FIL[0]._ft;
+  document.getElementById('resultInfo').textContent =
+    total + ' văn bản' + (total < ALL.length ? ' (đã lọc)' : '') +
+    (ftMode ? ' — kết quả full-text' : '');
+
+  if (!total) {
+    list.innerHTML = '<div class="empty">Không tìm thấy văn bản nào</div>';
+    document.getElementById('pagination').innerHTML = '';
+    return;
+  }
+
+  const rows = FIL.slice((page - 1) * PAGE, page * PAGE).map((d, ri) => {
+    const ico = TICONS[d.t] || '📎', clr = TCLR[d.tx] || '#6b7280';
+    const hl = d.hl ? '<span class="b-hl">✅ Hiệu lực</span>' : '<span class="b-het">❌ Hết HL</span>';
+    const tx = d.tl ? `<span class="b-tax" style="border-color:${clr};color:${clr}">${d.tl}</span>` : '';
+    const yr = d.y ? `<span class="b-yr">${d.y}</span>` : '';
+    const ft = d._ft ? '<span class="b-match">🔍 nội dung</span>' : '';
+    const globalIdx = (page - 1) * PAGE + ri;
+    return `<div class="di" data-idx="${globalIdx}" onclick="previewDoc(${globalIdx})">
+      <span class="di-name">${d.n}</span>
+      <div class="di-tags"><span class="b-type">${ico} ${d.t}</span>${yr}${tx}${hl}${ft}</div>
+    </div>`;
   }).join('');
-  list.innerHTML=rows;
+
+  list.innerHTML = rows;
   renderPager(total);
 }
-function renderPager(total){
-  const pages=Math.ceil(total/PAGE),pg=document.getElementById('pagination');
-  if(pages<=1){pg.innerHTML='';return;}
-  let h='';
-  for(let i=1;i<=pages;i++){
-    if(i===1||i===pages||Math.abs(i-page)<=2)h+=`<button class="pgb${i===page?' on':''}" onclick="goPage(${i})">${i}</button>`;
-    else if(Math.abs(i-page)===3)h+='<span class="pgdot">…</span>';
+
+function renderPager(total) {
+  const pages = Math.ceil(total / PAGE);
+  const pg = document.getElementById('pagination');
+  if (pages <= 1) { pg.innerHTML = ''; return; }
+  let h = '';
+  for (let i = 1; i <= pages; i++) {
+    if (i === 1 || i === pages || Math.abs(i - page) <= 2)
+      h += `<button class="pgb${i === page ? ' on' : ''}" onclick="goPage(${i})">${i}</button>`;
+    else if (Math.abs(i - page) === 3) h += '<span class="pgdot">…</span>';
   }
-  pg.innerHTML=h;
+  pg.innerHTML = h;
 }
-function goPage(n){page=n;render();window.scrollTo(0,0);}
-function toggleSection(btn){
-  btn.nextElementSibling.style.display=btn.nextElementSibling.style.display==='none'?'block':'none';
+
+function goPage(n) { page = n; render(); document.getElementById('docList').scrollTop = 0; }
+
+// ──────────────────────────────────────────────
+// Preview
+// ──────────────────────────────────────────────
+function previewDoc(idx) {
+  const d = FIL[idx];
+  if (!d) return;
+
+  // Highlight active
+  document.querySelectorAll('.di.active').forEach(el => el.classList.remove('active'));
+  const el = document.querySelector(`.di[data-idx="${idx}"]`);
+  if (el) el.classList.add('active');
+  activeDocIdx = idx;
+
+  const url = 'docs/' + d.p;
+  document.getElementById('previewEmpty').style.display = 'none';
+  document.getElementById('previewToolbar').style.display = 'flex';
+  document.getElementById('previewTitle').textContent = d.n;
+  document.getElementById('previewOpenLink').href = url;
+  const frame = document.getElementById('previewFrame');
+  frame.style.display = 'block';
+  frame.src = url;
+}
+
+// ──────────────────────────────────────────────
+// Nav & UI helpers
+// ──────────────────────────────────────────────
+function toggleSection(btn) {
+  const ul = btn.nextElementSibling;
+  ul.style.display = ul.style.display === 'none' ? 'block' : 'none';
   btn.classList.toggle('open');
 }
-function toggleL2(btn){
-  btn.nextElementSibling.style.display=btn.nextElementSibling.style.display==='none'?'block':'none';
+function toggleL2(btn) {
+  const ul = btn.nextElementSibling;
+  ul.style.display = ul.style.display === 'none' ? 'block' : 'none';
 }
-function togglePanel(id){
-  document.querySelectorAll('.fd-panel').forEach(p=>{if(p.id!=='panel-'+id.replace('fd-',''))p.classList.remove('open');});
-  const p=document.getElementById('panel-'+id.replace('fd-',''));
-  if(p)p.classList.toggle('open');
+function togglePanel(id) {
+  document.querySelectorAll('.fd-panel').forEach(p => {
+    if (p.id !== 'panel-' + id.replace('fd-', '')) p.classList.remove('open');
+  });
+  const p = document.getElementById('panel-' + id.replace('fd-', ''));
+  if (p) p.classList.toggle('open');
 }
-function clearGroup(cls){document.querySelectorAll('.'+cls).forEach(e=>e.checked=false);doFilter();}
-function resetAll(){
-  document.getElementById('searchInput').value='';
-  document.querySelectorAll('.cb-tax,.cb-type').forEach(e=>e.checked=false);
-  document.getElementById('filterYear').value='';
-  document.getElementById('badge-year').textContent='';
-  document.getElementById('yearHint').textContent='Chọn năm để lọc';
-  document.querySelector('input[name=yearMode][value=in]').checked=true;
-  document.getElementById('filterValid').checked=false;
-  nav={p1:'',p2:'',p3:''};
-  document.querySelectorAll('.nav-active').forEach(e=>e.classList.remove('nav-active'));
-  document.querySelectorAll('.fd-panel').forEach(e=>e.classList.remove('open'));
+function clearGroup(cls) {
+  document.querySelectorAll('.' + cls).forEach(e => e.checked = false);
   doFilter();
 }
-document.addEventListener('click',function(e){
+function resetAll() {
+  document.getElementById('searchInput').value = '';
+  document.querySelectorAll('.cb-tax,.cb-type').forEach(e => e.checked = false);
+  document.getElementById('filterYear').value = '';
+  document.getElementById('badge-year').textContent = '';
+  document.getElementById('yearHint').textContent = 'Chọn năm để lọc';
+  document.querySelector('input[name=yearMode][value=in]').checked = true;
+  document.getElementById('filterValid').checked = false;
+  nav = {p1:'',p2:'',p3:''};
+  document.querySelectorAll('.nav-active').forEach(e => e.classList.remove('nav-active'));
+  document.querySelectorAll('.fd-panel').forEach(e => e.classList.remove('open'));
+  doFilter();
+}
+
+document.addEventListener('click', function(e) {
   // Nav clicks
-  const a=e.target.closest('[data-p1]');
-  if(a){e.preventDefault();nav={p1:a.dataset.p1||'',p2:a.dataset.p2||'',p3:a.dataset.p3||''};document.querySelectorAll('.nav-active').forEach(x=>x.classList.remove('nav-active'));a.classList.add('nav-active');doFilter();return;}
+  const a = e.target.closest('[data-p1]');
+  if (a) {
+    e.preventDefault();
+    nav = { p1: a.dataset.p1||'', p2: a.dataset.p2||'', p3: a.dataset.p3||'' };
+    document.querySelectorAll('.nav-active').forEach(x => x.classList.remove('nav-active'));
+    a.classList.add('nav-active');
+    doFilter();
+    return;
+  }
   // Close dropdowns on outside click
-  if(!e.target.closest('.fd'))document.querySelectorAll('.fd-panel').forEach(p=>p.classList.remove('open'));
+  if (!e.target.closest('.fd'))
+    document.querySelectorAll('.fd-panel').forEach(p => p.classList.remove('open'));
 });
-document.querySelectorAll('.cb-tax,.cb-type').forEach(e=>e.addEventListener('change',doFilter));
+
+document.querySelectorAll('.cb-tax,.cb-type').forEach(e => e.addEventListener('change', doFilter));
 init();
 </script>
-
 </body></html>
