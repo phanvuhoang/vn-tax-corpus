@@ -377,11 +377,55 @@ let SEARCH_IDX = null;   // full-text index [{id,n,tx}]
 let searchLoading = false;
 let activeDocIdx = -1;
 
+
+// ── Normalize index.json entries to canonical p2/p3 values ──────────────────
+// Safety net: any entry with underscored p2/p3 keys gets fixed at load time,
+// so new docs added by scripts never break sidebar filtering.
+function normalizeDocs(docs) {
+  // Build canonical set from sidebar data-p2 / data-p3 attributes
+  const canonical = {
+    p2: new Set(),
+    p3: new Set()
+  };
+  document.querySelectorAll('[data-p2]').forEach(el => {
+    if (el.dataset.p2) canonical.p2.add(el.dataset.p2);
+  });
+  document.querySelectorAll('[data-p3]').forEach(el => {
+    if (el.dataset.p3) canonical.p3.add(el.dataset.p3);
+  });
+
+  // Build lookup: normalize(str) → canonical value
+  function normalize(s) {
+    // Replace underscores with spaces, collapse multiple spaces
+    return s.replace(/_/g, ' ').replace(/\s+/g, ' ').trim();
+  }
+  const p2map = {}, p3map = {};
+  canonical.p2.forEach(v => { p2map[normalize(v)] = v; });
+  canonical.p3.forEach(v => { p3map[normalize(v)] = v; });
+
+  return docs.map(d => {
+    const d2 = Object.assign({}, d);
+    if (d2.p2) {
+      const k = normalize(d2.p2);
+      if (p2map[k]) d2.p2 = p2map[k];
+    }
+    if (d2.p3) {
+      const k = normalize(d2.p3);
+      if (p3map[k]) d2.p3 = p3map[k];
+    }
+    // Support new-style schema (title/path → n/p/s)
+    if (!d2.n && d2.title) d2.n = d2.title;
+    if (!d2.p && d2.path)  d2.p = d2.path.replace(/^docs\//, '');
+    if (!d2.s && d2.p1)    d2.s = d2.p1;
+    return d2;
+  });
+}
+
 // ──────────────────────────────────────────────
 // Init
 // ──────────────────────────────────────────────
 async function init() {
-  ALL = await (await fetch('index.json')).json();
+  ALL = normalizeDocs(await (await fetch('index.json')).json());
   document.getElementById('totalCount').textContent = ALL.length;
   doFilter();
   adjustLayout();
