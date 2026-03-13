@@ -13,23 +13,16 @@
 <header id="site-header">
   <div class="header-inner">
     <div class="header-top">
-      <div>
+      <div class="header-title">
         <h1>📚 CSDL VB Thuế VN</h1>
-        <p>Cơ sở dữ liệu văn bản pháp luật thuế Việt Nam — cập nhật đến 2025</p>
-      </div>
-      <div class="stats">
-        <div class="stat"><strong id="totalCount">…</strong><span>Văn bản</span></div>
-        <div class="stat"><strong>2025</strong><span>Cập nhật đến</span></div>
+        <span class="stat-inline"><strong id="totalCount">…</strong> văn bản · 2026</span>
       </div>
     </div>
 
     <input type="text" id="searchInput" class="search-input"
-      placeholder="🔍 Tìm tên văn bản — hoặc tìm nội dung: \"chi phí được trừ\" +TNDN +2024"
+      placeholder="🔍 Tìm văn bản... | +TNDN bắt buộc | &quot;chi phí&quot; cụm từ chính xác | -hết loại trừ"
       oninput="onSearchInput()">
-    <div class="search-hint" id="searchHint">
-      Gợi ý: <code>+TNDN</code> = bắt buộc có | <code>"chi phí"</code> = cụm từ chính xác | <code>-hết hiệu lực</code> = loại trừ
-      &nbsp;·&nbsp; <span id="searchStatus"></span>
-    </div>
+    <span id="searchStatus" style="font-size:.75rem;color:#666;margin-left:4px"></span>
 
     <div class="filter-bar">
       <!-- Sắc thuế dropdown -->
@@ -365,8 +358,7 @@
 </div>
 
 <footer>
-  <p>Cơ sở dữ liệu văn bản pháp luật thuế Việt Nam • Chuyển đổi tự động bởi ThanhAI</p>
-  <p>⚠️ Chỉ có giá trị tham khảo. Kiểm tra hiệu lực pháp lý trước khi sử dụng.</p>
+  <p>CSDL VBPQ Thuế VN, do AI chuyển đổi tự động — chỉ để tham khảo. Yêu cầu tự kiểm tra hiệu lực pháp lý và nội dung với tư vấn thuế chuyên nghiệp.</p>
 </footer>
 
 <script>
