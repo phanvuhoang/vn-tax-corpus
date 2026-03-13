@@ -634,7 +634,9 @@ function doFilter() {
     const TP = {'Luật':1,'Nghị định':2,'NĐ':2,'Thông tư':3,'TT':3,'VBHN':4};
     const tp = d => { const n=(d.n||'').toLowerCase(); if(n.includes('luật'))return 1; if(n.includes('nghị định')||n.includes('nđ-cp')||d.t==='Nghị định')return 2; if(n.includes('thông tư')||d.t==='Thông tư')return 3; if(n.includes('vbhn')||n.includes('hợp nhất'))return 4; return TP[d.t]||5; };
     FIL.sort((a, b) => {
-      const da = a.id || a.y || '0', db = b.id || b.y || '0';
+      const da = a.id || a.y || '', db = b.id || b.y || '';
+      if (!da && db) return 1;  // no date → cuoi
+      if (da && !db) return -1;
       if (da !== db) return db.localeCompare(da); // desc date
       return tp(a) - tp(b); // asc type priority
     });
