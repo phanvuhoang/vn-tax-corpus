@@ -335,7 +335,7 @@
     "hl": 1,
     "s": "I.THUE",
     "p2": "001. VBPQ THUE",
-    "p3": "001.LUAT_QLT"
+    "p3": "001.LUAT QLT"
   },
   {
     "n": "TT 94/2025/TT-BTC — Sửa đổi TT 80/2021/TT-BTC hướng dẫn Luật Quản lý thuế",
@@ -348,7 +348,7 @@
     "hl": 1,
     "s": "I.THUE",
     "p2": "001. VBPQ THUE",
-    "p3": "001.LUAT_QLT"
+    "p3": "001.LUAT QLT"
   },
   {
     "n": "NĐ 122/2025/NĐ-CP — Phân quyền, phân cấp trong lĩnh vực quản lý thuế",
@@ -361,7 +361,7 @@
     "hl": 1,
     "s": "I.THUE",
     "p2": "001. VBPQ THUE",
-    "p3": "001.LUAT_QLT"
+    "p3": "001.LUAT QLT"
   },
   {
     "n": "NĐ 310/2025/NĐ-CP — Sửa đổi NĐ 125/2020/NĐ-CP về xử phạt hành chính lĩnh vực thuế",
@@ -374,7 +374,7 @@
     "hl": 1,
     "s": "I.THUE",
     "p2": "001. VBPQ THUE",
-    "p3": "001.LUAT_QLT"
+    "p3": "001.LUAT QLT"
   },
   {
     "n": "NĐ 125/2020/NĐ-CP — Xử phạt vi phạm hành chính về thuế, hóa đơn",
@@ -387,7 +387,7 @@
     "hl": 1,
     "s": "I.THUE",
     "p2": "001. VBPQ THUE",
-    "p3": "001.LUAT_QLT"
+    "p3": "001.LUAT QLT"
   },
   {
     "n": "ND 22.2020 SUA ND 139.2016",
@@ -712,7 +712,7 @@
     "hl": 1,
     "s": "I.THUE",
     "p2": "001. VBPQ THUE",
-    "p3": "003.THUE_GTGT"
+    "p3": "003.THUE GTGT"
   },
   {
     "n": "TT 69/2025/TT-BTC — Hướng dẫn Luật Thuế GTGT",
@@ -725,7 +725,7 @@
     "hl": 1,
     "s": "I.THUE",
     "p2": "001. VBPQ THUE",
-    "p3": "003.THUE_GTGT"
+    "p3": "003.THUE GTGT"
   },
   {
     "n": "Danh mục cơ quan thuế",
@@ -1297,7 +1297,7 @@
     "hl": 1,
     "s": "I.THUE",
     "p2": "001. VBPQ THUE",
-    "p3": "005.THUE_TTDB"
+    "p3": "005.THUE TTDB"
   },
   {
     "n": "VBHN 08/VBHN-VPQH (2022) — Luật Thuế TTĐB (hợp nhất)",
@@ -1310,7 +1310,7 @@
     "hl": 1,
     "s": "I.THUE",
     "p2": "001. VBPQ THUE",
-    "p3": "005.THUE_TTDB"
+    "p3": "005.THUE TTDB"
   },
   {
     "n": "VBHN 26/VBHN-BTC (2019) — NĐ hướng dẫn Luật Thuế TTĐB (hợp nhất)",
@@ -1323,7 +1323,7 @@
     "hl": 1,
     "s": "I.THUE",
     "p2": "001. VBPQ THUE",
-    "p3": "005.THUE_TTDB"
+    "p3": "005.THUE TTDB"
   },
   {
     "n": "Hướng dẫn đăng ký người phụ thuộc",
@@ -2064,7 +2064,7 @@
     "hl": 1,
     "s": "I.THUE",
     "p2": "001. VBPQ THUE",
-    "p3": "006.THUE_TNCN"
+    "p3": "006.THUE TNCN"
   },
   {
     "n": "CV 1296/CT-NVT (2026) — Hướng dẫn quyết toán thuế TNCN từ tiền lương, tiền công năm 2025",
@@ -2077,7 +2077,7 @@
     "hl": 1,
     "s": "I.THUE",
     "p2": "001. VBPQ THUE",
-    "p3": "006.THUE_TNCN"
+    "p3": "006.THUE TNCN"
   },
   {
     "n": "NQ 18.2022 GIAM THUE BVMT XANG DAU",
@@ -3845,7 +3845,7 @@
     "hl": 1,
     "s": "I.THUE",
     "p2": "001. VBPQ THUE",
-    "p3": "012._GIAO_DICH_LK"
+    "p3": "012. GIAO DICH LK"
   },
   {
     "n": "NĐ 122/2025/NĐ-CP — Phân quyền, phân cấp trong lĩnh vực quản lý thuế (APA)",
@@ -3858,7 +3858,7 @@
     "hl": 1,
     "s": "I.THUE",
     "p2": "001. VBPQ THUE",
-    "p3": "012._GIAO_DICH_LK"
+    "p3": "012. GIAO DICH LK"
   },
   {
     "n": "Tổng hợp căn cứ xử phạt vi phạm hành chính thuế",
@@ -4079,7 +4079,7 @@
     "hl": 1,
     "s": "I.THUE",
     "p2": "001. VBPQ THUE",
-    "p3": "016._HO_KINH_DOANH"
+    "p3": "016. HO KINH DOANH"
   },
   {
     "n": "TT 18/2026/TT-BTC — Hồ sơ, thủ tục quản lý thuế hộ kinh doanh, cá nhân kinh doanh",
@@ -4092,7 +4092,7 @@
     "hl": 1,
     "s": "I.THUE",
     "p2": "001. VBPQ THUE",
-    "p3": "016._HO_KINH_DOANH"
+    "p3": "016. HO KINH DOANH"
   },
   {
     "n": "CV 1410/CT-CS (2026) — Giới thiệu NĐ 68/2026/NĐ-CP và TT 18/2026/TT-BTC về hộ kinh doanh",
@@ -4105,7 +4105,7 @@
     "hl": 1,
     "s": "I.THUE",
     "p2": "001. VBPQ THUE",
-    "p3": "016._HO_KINH_DOANH"
+    "p3": "016. HO KINH DOANH"
   },
   {
     "n": "QD 2106.2025 lien thong TTHC cap bien mat nuoc",
@@ -15028,23 +15028,29 @@
     "p3": ""
   },
   {
-    "title": "NĐ 373/2025/NĐ-CP sửa đổi, bổ sung NĐ 126/2020 - Luật Quản lý thuế (bản Công báo)",
-    "path": "docs/I.THUE/001._VBPQ_THUE/001.LUAT_QLT/010.1_ND_373.2025_sd_ND126_QLT_congbao.html",
-    "date": "31/12/2025",
-    "p1": "I.THUE",
-    "p2": "VBPQ THUE",
-    "p3": "LUAT QLT",
-    "agency": "Chính phủ",
-    "source": "congbao.chinhphu.vn"
+    "n": "NĐ 373/2025/NĐ-CP sửa đổi, bổ sung NĐ 126/2020 - Luật Quản lý thuế (bản Công báo)",
+    "fn": "010.1_ND_373.2025_sd_ND126_QLT_congbao.html",
+    "p": "I.THUE/001._VBPQ_THUE/001.LUAT_QLT/010.1_ND_373.2025_sd_ND126_QLT_congbao.html",
+    "y": "",
+    "t": "Nghị định",
+    "tx": "QLT",
+    "tl": "LUAT QLT",
+    "hl": 1,
+    "s": "I.THUE",
+    "p2": "001. VBPQ THUE",
+    "p3": "001.LUAT QLT"
   },
   {
-    "title": "TT 152/2025/TT-BTC hướng dẫn kế toán cho hộ kinh doanh, cá nhân kinh doanh",
-    "path": "docs/I.THUE/001._VBPQ_THUE/018._HO_KINH_DOANH/005._TT_152.2025_ke_toan_HKD_ca_nhan.html",
-    "date": "31/12/2025",
-    "p1": "I.THUE",
-    "p2": "VBPQ THUE",
-    "p3": "HO KINH DOANH",
-    "agency": "Bộ Tài chính",
-    "source": "congbao.chinhphu.vn"
+    "n": "TT 152/2025/TT-BTC hướng dẫn kế toán cho hộ kinh doanh, cá nhân kinh doanh",
+    "fn": "005._TT_152.2025_ke_toan_HKD_ca_nhan.html",
+    "p": "I.THUE/001._VBPQ_THUE/018._HO_KINH_DOANH/005._TT_152.2025_ke_toan_HKD_ca_nhan.html",
+    "y": "",
+    "t": "Thông tư",
+    "tx": "HKD",
+    "tl": "HO KINH DOANH",
+    "hl": 1,
+    "s": "I.THUE",
+    "p2": "001. VBPQ THUE",
+    "p3": "018. HO KINH DOANH"
   }
 ]
