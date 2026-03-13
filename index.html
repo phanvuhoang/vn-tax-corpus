@@ -335,7 +335,7 @@
   <!-- DOC LIST PANEL -->
   <div class="doc-panel">
     <div class="doc-panel-top">
-      <div id="resultInfo" class="result-info">Đang tải...</div>
+      <div id="resultInfo" class="result-info">Đang tải dữ liệu...</div>
     </div>
     <div id="docList" class="doc-list"><div class="loading">⏳ Đang tải...</div></div>
     <div id="pagination" class="pagination"></div>
@@ -432,10 +432,13 @@ function initResizers() {
       rsz.classList.add('dragging');
       document.body.style.cursor = 'col-resize';
       document.body.style.userSelect = 'none';
+      e.preventDefault();
     });
     document.addEventListener('mousemove', e => {
       if (!rsz.classList.contains('dragging')) return;
-      const newW = Math.max(minLeft, Math.min(startW + e.clientX - startX, window.innerWidth - minRight));
+      const container = document.querySelector('.layout');
+      const containerW = container ? container.getBoundingClientRect().width : window.innerWidth;
+      const newW = Math.max(minLeft, Math.min(startW + e.clientX - startX, containerW - minRight));
       left.style.width = newW + 'px';
       left.style.flex = 'none';
     });
@@ -447,8 +450,8 @@ function initResizers() {
       }
     });
   }
-  makeResizer('rsz-sb', '.sidebar',   120, 400);
-  makeResizer('rsz-dp', '.doc-panel', 180, 200);
+  makeResizer('rsz-sb', '.sidebar',   120, 520);
+  makeResizer('rsz-dp', '.doc-panel', 180, 320);
 }
 
 // ──────────────────────────────────────────────
@@ -456,7 +459,8 @@ function initResizers() {
 // ──────────────────────────────────────────────
 async function init() {
   ALL = normalizeDocs(await (await fetch('index.json')).json());
-  document.getElementById('totalCount').textContent = ALL.length;
+  const totalEl = document.getElementById('totalCount');
+  if (totalEl) totalEl.textContent = ALL.length;
   doFilter();
   adjustLayout();
   initResizers();
