@@ -601,7 +601,7 @@ function doFilter() {
       if (mode === 'after'  && dy <= fy)  return false;
     }
     if (valid && !d.hl) return false;
-    if (nav.p1) { const s = nav.p1.split('.')[0]; if (!d.s.startsWith(s)) return false; }
+    if (nav.p1) { const s = nav.p1.split('.')[0]; if (!d.s || !d.s.startsWith(s)) return false; }
     if (nav.p2 && d.p2 !== nav.p2) return false;
     if (nav.p3 && d.p3 !== nav.p3) return false;
     return true;
