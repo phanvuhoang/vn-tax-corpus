@@ -914,7 +914,7 @@
     "id": "20240126"
   },
   {
-    "n": "Quyết định 36/2025/QĐ-TTg Hệ thống ngành kinh tế Việt Nam",
+    "n": "NĐ 360/2025/NĐ-CP — Hướng dẫn Luật Thuế tiêu thụ đặc biệt",
     "fn": "019. ND 360.2025 TTDB.mht",
     "p": "I.THUE/001._VBPQ_THUE/005.THUE_TTDB/019._ND_360.2025_TTDB.html",
     "y": "2025",
@@ -925,7 +925,7 @@
     "s": "I.THUE",
     "p2": "001. VBPQ THUE",
     "p3": "005.THUE TTDB",
-    "id": "20251115"
+    "id": "20251231"
   },
   {
     "n": "TT 158/2025/TT-BTC — Hướng dẫn NĐ 360/2025/NĐ-CP về thuế TTĐB",
@@ -1054,18 +1054,18 @@
     "id": "20160701"
   },
   {
-    "n": "Thông tư 130/2025/TT-BTC quy định Hệ thống Mục lục ngân sách nhà nước mới nhất",
+    "n": "TT 130/2016/TT-BTC — Hướng dẫn NĐ 100/2016/NĐ-CP về Thuế GTGT và Quản lý thuế",
     "fn": "010. TT 130.2016 QLT-GTGT-TTDB.mht",
     "p": "I.THUE/001._VBPQ_THUE/005.THUE_TTDB/010._TT_130.2016_QLT-GTGT-TTDB.html",
     "y": "2016",
     "t": "TT",
-    "tx": "TTDB",
+    "tx": "GTGT",
     "tl": "Thuế TTĐB",
     "hl": 1,
     "s": "I.THUE",
     "p2": "001. VBPQ THUE",
     "p3": "005.THUE TTDB",
-    "id": "20260204"
+    "id": "20160812"
   },
   {
     "n": "VBHN 02/VBHN-VPQH (2016) — Luật Thuế TTĐB (hợp nhất)",
@@ -7574,20 +7574,6 @@
     "p3": "020. THAM DINH"
   },
   {
-    "n": "Nghị định 366/2025/NĐ-CP quản lý và đầu tư vốn nhà nước tại doanh nghiệp áp dụng 2026 mới nhất",
-    "fn": "002.CV 3663.2009 tham dinh.mht",
-    "p": "I.THUE/003._QUI_TRINH/020._THAM_DINH/002.CV_3663.2009_tham_dinh.html",
-    "y": "2009",
-    "t": "CV",
-    "tx": "",
-    "tl": "",
-    "hl": 1,
-    "s": "I.THUE",
-    "p2": "003. QUI TRINH",
-    "p3": "020. THAM DINH",
-    "id": "20260213"
-  },
-  {
     "n": "QD1416.2008 tham dinh",
     "fn": "001.QD1416.2008 tham dinh.mht",
     "p": "I.THUE/003._QUI_TRINH/020._THAM_DINH/001.QD1416.2008_tham_dinh.html",
@@ -13726,20 +13712,6 @@
     "p2": "012. LINH VUC LIEN QUAN",
     "p3": "016. Dat Dai",
     "id": "20250509"
-  },
-  {
-    "n": "NĐ 366/2025/NĐ-CP — Quản lý và đầu tư vốn nhà nước tại doanh nghiệp",
-    "fn": "001. ND 366.2025 ql von Nha nuoc NN.mht",
-    "p": "I.THUE/012._LINH_VUC_LIEN_QUAN/017._QL_von_nha_nuoc/001._ND_366.2025_ql_von_Nha_nuoc_NN.html",
-    "y": "2025",
-    "t": "NĐ",
-    "tx": "",
-    "tl": "",
-    "hl": 1,
-    "s": "I.THUE",
-    "p2": "012. LINH VUC LIEN QUAN",
-    "p3": "017. QL von nha nuoc",
-    "id": "20251231"
   },
   {
     "n": "ND 310.2025 sua ND 125",
