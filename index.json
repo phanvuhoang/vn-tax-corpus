@@ -1040,7 +1040,7 @@
     "id": "20090316"
   },
   {
-    "n": "TT64.2009TTDB",
+    "n": "TT 64/2009/TT-BTC — Hướng dẫn thi hành NĐ về thuế TTĐB (hết HL)",
     "fn": "010.TT64.2009TTDB.mht",
     "p": "I.THUE/001._VBPQ_THUE/005.THUE_TTDB/0001.HET_HIEU_LUC/010.TT64.2009TTDB.html",
     "y": "2009",
@@ -1179,21 +1179,7 @@
     "p3": "005.THUE TTDB"
   },
   {
-    "n": "Mẫu 01/TTĐB — Tờ khai thuế TTĐB (trừ hoạt động sản xuất, pha chế xăng sinh học)",
-    "fn": "005.Bang tinh thue TTDB mua vao  01-1 TTDB.mht",
-    "p": "I.THUE/001._VBPQ_THUE/005.THUE_TTDB/005.Bang_tinh_thue_TTDB_mua_vao_01-1_TTDB.html",
-    "y": "",
-    "t": "Khác",
-    "tx": "TTDB",
-    "tl": "Thuế TTĐB",
-    "hl": 1,
-    "s": "I.THUE",
-    "p2": "001. VBPQ THUE",
-    "p3": "005.THUE TTDB",
-    "id": "20190423"
-  },
-  {
-    "n": "TT64.2009TTDB",
+    "n": "TT 64/2009/TT-BTC — Hướng dẫn thi hành NĐ về thuế TTĐB",
     "fn": "010.TT64.2009TTDB.html",
     "p": "I.THUE/001._VBPQ_THUE/005.THUE_TTDB/010.TT64.2009TTDB.html",
     "y": "",
@@ -1233,20 +1219,6 @@
     "p2": "001. VBPQ THUE",
     "p3": "005.THUE TTDB",
     "id": "20220125"
-  },
-  {
-    "n": "1 VBHN 26.2019 Nghi Dinh Thue TTDB",
-    "fn": "016.1_VBHN_26.2019_Nghi_Dinh_Thue_TTDB.html",
-    "p": "I.THUE/001._VBPQ_THUE/005.THUE_TTDB/016.1_VBHN_26.2019_Nghi_Dinh_Thue_TTDB.html",
-    "y": "2019",
-    "t": "VBHN",
-    "tx": "TTDB",
-    "tl": "Thuế TTĐB",
-    "hl": 1,
-    "s": "I.THUE",
-    "p2": "001. VBPQ THUE",
-    "p3": "005.THUE TTDB",
-    "id": "20190423"
   },
   {
     "n": "Hướng dẫn đăng ký người phụ thuộc",
@@ -2364,7 +2336,7 @@
     "id": "20110712"
   },
   {
-    "n": "TT 11.2010 nVu nha DT ra NN",
+    "n": "TT 11/2010/TT-BTC — Nghĩa vụ thuế nhà đầu tư Việt Nam đầu tư ra nước ngoài",
     "fn": "002.TT 11.2010 nVu nha DT ra NN.mht",
     "p": "I.THUE/001._VBPQ_THUE/008.THUE_NHA_THAU/002.TT_11.2010_nVu_nha_DT_ra_NN.html",
     "y": "2010",
@@ -2375,7 +2347,7 @@
     "s": "I.THUE",
     "p2": "001. VBPQ THUE",
     "p3": "008.THUE NHA THAU",
-    "id": "20100310"
+    "id": "20100119"
   },
   {
     "n": "QD87.2004 quy che NTNN",
@@ -3816,20 +3788,6 @@
     "id": "20100422"
   },
   {
-    "n": "Nghị định 20/2017/NĐ-CP — Quản lý thuế giao dịch liên kết",
-    "fn": "002._ND_20.2017_GIAO_DICH_LK.html",
-    "p": "I.THUE/001._VBPQ_THUE/012._GIAO_DICH_LK/002._ND_20.2017_GIAO_DICH_LK.html",
-    "y": "",
-    "t": "NĐ",
-    "tx": "GDLK",
-    "tl": "Giao dịch liên kết",
-    "hl": 1,
-    "s": "I.THUE",
-    "p2": "001. VBPQ THUE",
-    "p3": "012. GIAO DICH LK",
-    "id": "20161208"
-  },
-  {
     "n": "NĐ 20/2025/NĐ-CP — Sửa đổi NĐ 132/2020/NĐ-CP về quản lý thuế DN có giao dịch liên kết",
     "fn": "003._ND_20.2025_sua_doi_132.2020_GDLK.html",
     "p": "I.THUE/001._VBPQ_THUE/012._GIAO_DICH_LK/003._ND_20.2025_sua_doi_132.2020_GDLK.html",
@@ -4089,7 +4047,7 @@
     "hl": 1,
     "s": "I.THUE",
     "p2": "001. VBPQ THUE",
-    "p3": "016.HO KINH DOANH",
+    "p3": "018. HO KINH DOANH",
     "id": "20260305"
   },
   {
@@ -4103,7 +4061,7 @@
     "hl": 1,
     "s": "I.THUE",
     "p2": "001. VBPQ THUE",
-    "p3": "016.HO KINH DOANH",
+    "p3": "018. HO KINH DOANH",
     "id": "20260305"
   },
   {
@@ -4117,7 +4075,7 @@
     "hl": 1,
     "s": "I.THUE",
     "p2": "001. VBPQ THUE",
-    "p3": "016.HO KINH DOANH",
+    "p3": "018. HO KINH DOANH",
     "id": "20260310"
   },
   {
@@ -4352,7 +4310,7 @@
     "id": "20250504"
   },
   {
-    "n": "2025 ql HKD thuong mai dt",
+    "n": "NĐ 117/2025/NĐ-CP — Quản lý thuế hoạt động kinh doanh trên nền tảng TMĐT",
     "fn": "117.2025 ql HKD thuong mai dt.mht",
     "p": "I.THUE/001._VBPQ_THUE/018._HO_KINH_DOANH/117.2025_ql_HKD_thuong_mai_dt.html",
     "y": "2025",
