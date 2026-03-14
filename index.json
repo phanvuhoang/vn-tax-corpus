@@ -8937,20 +8937,6 @@
     "p3": "QL CCT KHU VUC"
   },
   {
-    "n": "TT 130.2025 muc luc ngan sach MLNS",
-    "fn": "003. TT 130.2025 muc luc ngan sach MLNS.mht",
-    "p": "I.THUE/004._NGHIEP_VU/QUAN_LY_NS/003._TT_130.2025_muc_luc_ngan_sach_MLNS.html",
-    "y": "2025",
-    "t": "TT",
-    "tx": "",
-    "tl": "",
-    "hl": 1,
-    "s": "I.THUE",
-    "p2": "004. NGHIEP VU",
-    "p3": "QUAN LY NS",
-    "id": "20251224"
-  },
-  {
     "n": "TT 77.2020 SUA TT 77.2017",
     "fn": "002. TT 77.2020 SUA TT 77.2017.mht",
     "p": "I.THUE/004._NGHIEP_VU/QUAN_LY_NS/001.TABMIS/002._TT_77.2020_SUA_TT_77.2017.html",
@@ -13700,20 +13686,6 @@
     "id": "20250509"
   },
   {
-    "n": "ND 310.2025 sua ND 125",
-    "fn": "023.2 ND 310.2025 sua ND 125.mht",
-    "p": "I.THUE/013._XU_PHAT/023.2_ND_310.2025_sua_ND_125.html",
-    "y": "2025",
-    "t": "Khác",
-    "tx": "",
-    "tl": "",
-    "hl": 1,
-    "s": "I.THUE",
-    "p2": "013. XU PHAT",
-    "p3": "",
-    "id": "20251202"
-  },
-  {
     "n": "TT 18.2023 THU TUC THU NOP TIEN PHAT",
     "fn": "027. TT 18.2023 THU TUC THU NOP TIEN PHAT.mht",
     "p": "I.THUE/013._XU_PHAT/027._TT_18.2023_THU_TUC_THU_NOP_TIEN_PHAT.html",
@@ -14282,20 +14254,6 @@
     "p": "I.THUE/013._XU_PHAT/0003._LUAT_XU_PHAT_VPHC/004.1_ND_190.2025_sua_ND_118.2021_xu_phat.html",
     "y": "2025",
     "t": "Khác",
-    "tx": "",
-    "tl": "",
-    "hl": 1,
-    "s": "I.THUE",
-    "p2": "013. XU PHAT",
-    "p3": "0003. LUAT XU PHAT VPHC",
-    "id": "20250701"
-  },
-  {
-    "n": "ND 189.2025 tham quyen xu phat",
-    "fn": "005. ND 189.2025 tham quyen xu phat.mht",
-    "p": "I.THUE/013._XU_PHAT/0003._LUAT_XU_PHAT_VPHC/005._ND_189.2025_tham_quyen_xu_phat.html",
-    "y": "2025",
-    "t": "NĐ",
     "tx": "",
     "tl": "",
     "hl": 1,
@@ -15507,20 +15465,6 @@
     "id": "20250630"
   },
   {
-    "n": "TT 68.2025 bieu mau DKDN DK HKD",
-    "fn": "006. TT 68.2025 bieu mau DKDN DK HKD.mht",
-    "p": "V.DOANH_NGHIEP_-_HTX/001._DOANH_NGHIEP/006._TT_68.2025_bieu_mau_DKDN_DK_HKD.html",
-    "y": "2025",
-    "t": "TT",
-    "tx": "",
-    "tl": "",
-    "hl": 1,
-    "s": "V.DOANH NGHIEP - HTX",
-    "p2": "001. DOANH NGHIEP",
-    "p3": "",
-    "id": "20250701"
-  },
-  {
     "n": "ND 16.2023 HOAT DONG DN PHUC VU AN NINH QP",
     "fn": "004. ND 16.2023 HOAT DONG DN PHUC VU AN NINH QP.mht",
     "p": "V.DOANH_NGHIEP_-_HTX/001._DOANH_NGHIEP/004._ND_16.2023_HOAT_DONG_DN_PHUC_VU_AN_NINH_QP.html",
@@ -15737,5 +15681,21 @@
     "p": "I.THUE/001._VBPQ_THUE/001.LUAT_QLT/TT_130.2025_MLNS.html",
     "p3": "001.LUAT_QLT",
     "id": "20251224"
+  },
+  {
+    "n": "NĐ 189/2025/NĐ-CP — Hướng dẫn Luật Xử lý vi phạm hành chính về thẩm quyền xử phạt",
+    "t": "NĐ",
+    "tx": "QLT",
+    "p": "I.THUE/001._VBPQ_THUE/001.LUAT_QLT/ND_189.2025_tham_quyen_xu_phat.html",
+    "p3": "001.LUAT_QLT",
+    "id": "20250701"
+  },
+  {
+    "n": "TT 68/2025/TT-BTC — Biểu mẫu sử dụng trong đăng ký doanh nghiệp và hộ kinh doanh",
+    "t": "TT",
+    "tx": "HKD",
+    "p": "I.THUE/001._VBPQ_THUE/016._HO_KINH_DOANH/004._TT_68.2025_bieu_mau_DKDN_HKD.html",
+    "p3": "016.HO_KINH_DOANH",
+    "id": "20250701"
   }
 ]
