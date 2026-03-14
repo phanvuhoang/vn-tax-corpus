@@ -8,7 +8,7 @@
     "tx": "",
     "tl": "",
     "hl": 1,
-    "s": "",
+    "s": "I.THUE",
     "p2": "",
     "p3": ""
   },
@@ -15672,7 +15672,9 @@
     "tx": "QLT",
     "p": "I.THUE/012._LINH_VUC_LIEN_QUAN/017._QL_von_nha_nuoc/001._ND_366.2025_ql_von_Nha_nuoc_NN.html",
     "p3": "017.QL_VON_NHA_NUOC",
-    "id": "20251231"
+    "id": "20251231",
+    "s": "I.THUE",
+    "p2": "012. LINH VUC LIEN QUAN"
   },
   {
     "n": "TT 130/2025/TT-BTC — Quy định Hệ thống Mục lục ngân sách nhà nước",
@@ -15680,7 +15682,9 @@
     "tx": "QLT",
     "p": "I.THUE/001._VBPQ_THUE/001.LUAT_QLT/TT_130.2025_MLNS.html",
     "p3": "001.LUAT_QLT",
-    "id": "20251224"
+    "id": "20251224",
+    "s": "I.THUE",
+    "p2": "001. VBPQ THUE"
   },
   {
     "n": "NĐ 189/2025/NĐ-CP — Hướng dẫn Luật Xử lý vi phạm hành chính về thẩm quyền xử phạt",
@@ -15688,7 +15692,9 @@
     "tx": "QLT",
     "p": "I.THUE/001._VBPQ_THUE/001.LUAT_QLT/ND_189.2025_tham_quyen_xu_phat.html",
     "p3": "001.LUAT_QLT",
-    "id": "20250701"
+    "id": "20250701",
+    "s": "I.THUE",
+    "p2": "001. VBPQ THUE"
   },
   {
     "n": "TT 68/2025/TT-BTC — Biểu mẫu sử dụng trong đăng ký doanh nghiệp và hộ kinh doanh",
@@ -15696,6 +15702,8 @@
     "tx": "HKD",
     "p": "I.THUE/001._VBPQ_THUE/016._HO_KINH_DOANH/004._TT_68.2025_bieu_mau_DKDN_HKD.html",
     "p3": "016.HO_KINH_DOANH",
-    "id": "20250701"
+    "id": "20250701",
+    "s": "I.THUE",
+    "p2": "001. VBPQ THUE"
   }
 ]
