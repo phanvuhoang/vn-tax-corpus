@@ -2557,62 +2557,6 @@
     "id": "20250301"
   },
   {
-    "n": "ND 175.2025 sua ND 10.2022 truoc ba",
-    "fn": "002.4 ND 175.2025 sua ND 10.2022 truoc ba.mht",
-    "p": "I.THUE/001._VBPQ_THUE/009.TRUOC_BA/002.4_ND_175.2025_sua_ND_10.2022_truoc_ba.html",
-    "y": "2025",
-    "t": "Khác",
-    "tx": "TruocBa",
-    "tl": "Trước bạ",
-    "hl": 1,
-    "s": "I.THUE",
-    "p2": "001. VBPQ THUE",
-    "p3": "009.TRUOC BA",
-    "id": "20250630"
-  },
-  {
-    "n": "TT 67.2025 sua TT 13.2022 truoc ba",
-    "fn": "003.1 TT 67.2025 sua TT 13.2022 truoc ba.mht",
-    "p": "I.THUE/001._VBPQ_THUE/009.TRUOC_BA/003.1_TT_67.2025_sua_TT_13.2022_truoc_ba.html",
-    "y": "2025",
-    "t": "Khác",
-    "tx": "TruocBa",
-    "tl": "Trước bạ",
-    "hl": 1,
-    "s": "I.THUE",
-    "p2": "001. VBPQ THUE",
-    "p3": "009.TRUOC BA",
-    "id": "20250701"
-  },
-  {
-    "n": "QD 70.2025 GIA LPTB QNI",
-    "fn": "004. QD 70.2025 GIA LPTB QNI.mht",
-    "p": "I.THUE/001._VBPQ_THUE/009.TRUOC_BA/002._Gia_le_phi_truoc_ba_QNI/004._QD_70.2025_GIA_LPTB_QNI.html",
-    "y": "2025",
-    "t": "QĐ",
-    "tx": "TruocBa",
-    "tl": "Trước bạ",
-    "hl": 1,
-    "s": "I.THUE",
-    "p2": "001. VBPQ THUE",
-    "p3": "009.TRUOC BA",
-    "id": "20250904"
-  },
-  {
-    "n": "TT 2173.2025 Bang gia LPTrB O to Xe may",
-    "fn": "004. TT 2173.2025 Bang gia LPTrB O to Xe may.mht",
-    "p": "I.THUE/001._VBPQ_THUE/009.TRUOC_BA/001._Gia_le_phi_truoc_ba/004._TT_2173.2025_Bang_gia_LPTrB_O_to_Xe_may.html",
-    "y": "2025",
-    "t": "TT",
-    "tx": "TruocBa",
-    "tl": "Trước bạ",
-    "hl": 1,
-    "s": "I.THUE",
-    "p2": "001. VBPQ THUE",
-    "p3": "009.TRUOC BA",
-    "id": "20250626"
-  },
-  {
     "n": "QD 2226.2025 Bang gia LPTrB O to Xe may",
     "fn": "005. QD 2226.2025 Bang gia LPTrB O to Xe may.mht",
     "p": "I.THUE/001._VBPQ_THUE/009.TRUOC_BA/001._Gia_le_phi_truoc_ba/005._QD_2226.2025_Bang_gia_LPTrB_O_to_Xe_may.html",
@@ -2625,20 +2569,6 @@
     "p2": "001. VBPQ THUE",
     "p3": "009.TRUOC BA",
     "id": "20151125"
-  },
-  {
-    "n": "QD 76.2025 GIA LPTB QNI",
-    "fn": "005. QD 76.2025 GIA LPTB QNI.mht",
-    "p": "I.THUE/001._VBPQ_THUE/009.TRUOC_BA/002._Gia_le_phi_truoc_ba_QNI/005._QD_76.2025_GIA_LPTB_QNI.html",
-    "y": "2025",
-    "t": "QĐ",
-    "tx": "TruocBa",
-    "tl": "Trước bạ",
-    "hl": 1,
-    "s": "I.THUE",
-    "p2": "001. VBPQ THUE",
-    "p3": "009.TRUOC BA",
-    "id": "20250930"
   },
   {
     "n": "QD 19.2024 GIA LE PHI TRUOC BA QNI",
@@ -2721,20 +2651,6 @@
     "s": "I.THUE",
     "p2": "001. VBPQ THUE",
     "p3": "009.TRUOC BA"
-  },
-  {
-    "n": "TT 13.2022 TRUOC BA",
-    "fn": "003. TT 13.2022 TRUOC BA.mht",
-    "p": "I.THUE/001._VBPQ_THUE/009.TRUOC_BA/003._TT_13.2022_TRUOC_BA.html",
-    "y": "2022",
-    "t": "TT",
-    "tx": "TruocBa",
-    "tl": "Trước bạ",
-    "hl": 1,
-    "s": "I.THUE",
-    "p2": "001. VBPQ THUE",
-    "p3": "009.TRUOC BA",
-    "id": "20250805"
   },
   {
     "n": "QD 182.1998 Mien tba ODA",
@@ -4356,34 +4272,6 @@
     "p3": "017. KT KHOANG SAN - BIEN"
   },
   {
-    "n": "2. TT 36.2025 thu hoi Khoang san",
-    "fn": "006.2. TT 36.2025 thu hoi Khoang san.mht",
-    "p": "I.THUE/001._VBPQ_THUE/017._KT_KHOANG_SAN_-_BIEN/006.2._TT_36.2025_thu_hoi_Khoang_san.html",
-    "y": "2025",
-    "t": "Khác",
-    "tx": "",
-    "tl": "",
-    "hl": 1,
-    "s": "I.THUE",
-    "p2": "001. VBPQ THUE",
-    "p3": "017. KT KHOANG SAN - BIEN",
-    "id": "20250702"
-  },
-  {
-    "n": "TT 38.2025 mau Dia chat Khoang san",
-    "fn": "006.3 TT 38.2025 mau Dia chat Khoang san.mht",
-    "p": "I.THUE/001._VBPQ_THUE/017._KT_KHOANG_SAN_-_BIEN/006.3_TT_38.2025_mau_Dia_chat_Khoang_san.html",
-    "y": "2025",
-    "t": "Khác",
-    "tx": "",
-    "tl": "",
-    "hl": 1,
-    "s": "I.THUE",
-    "p2": "001. VBPQ THUE",
-    "p3": "017. KT KHOANG SAN - BIEN",
-    "id": "20250702"
-  },
-  {
     "n": "ND 193.2025 Dia chat Khoang san",
     "fn": "~$6.1 ND 193.2025 Dia chat Khoang san.mht",
     "p": "I.THUE/001._VBPQ_THUE/017._KT_KHOANG_SAN_-_BIEN/~$6.1_ND_193.2025_Dia_chat_Khoang_san.html",
@@ -5143,20 +5031,6 @@
     "n": "VBHN 18/VBHN-BTC (2025) — NĐ hợp nhất NĐ 70/2025 và NĐ 123/2020 về hóa đơn, chứng từ",
     "fn": "001._VBHN_18.2025_ND_hop_nhat_70_va_123_Hoa_don.html",
     "p": "I.THUE/001._VBPQ_THUE/021._HOA_DON/001._VBHN_18.2025_ND_hop_nhat_70_va_123_Hoa_don.html",
-    "y": "2025",
-    "t": "VBHN",
-    "tx": "HoaDon",
-    "tl": "Hóa đơn",
-    "hl": 1,
-    "s": "I.THUE",
-    "p2": "002. HOA DON - AN CHI",
-    "p3": "",
-    "id": "20250730"
-  },
-  {
-    "n": "VBHN ND18 hop nhat 70.2025 va 123.2020 Hoa don",
-    "fn": "001._VBHN_18.2025_ND_hop_nhat_Hoa_don.html",
-    "p": "I.THUE/002._HOA_DON_-_AN_CHI/001._VBHN_18.2025_ND_hop_nhat_Hoa_don.html",
     "y": "2025",
     "t": "VBHN",
     "tx": "HoaDon",
@@ -8028,20 +7902,6 @@
     "id": "20250224"
   },
   {
-    "n": "ND 166.2025 CNNV bo Tai chinh",
-    "fn": "002. ND 166.2025 CNNV bo Tai chinh.mht",
-    "p": "I.THUE/004._NGHIEP_VU/CHUC_NANG_NHIEM_VU_CQ_THUE/002._ND_166.2025_CNNV_bo_Tai_chinh.html",
-    "y": "2025",
-    "t": "NĐ",
-    "tx": "",
-    "tl": "",
-    "hl": 1,
-    "s": "I.THUE",
-    "p2": "004. NGHIEP VU",
-    "p3": "CHUC NANG NHIEM VU CQ THUE",
-    "id": "20250630"
-  },
-  {
     "n": "QD 381.2025 CNNV Cuc Thue",
     "fn": "003. QD 381.2025 CNNV Cuc Thue.mht",
     "p": "I.THUE/004._NGHIEP_VU/CHUC_NANG_NHIEM_VU_CQ_THUE/003._QD_381.2025_CNNV_Cuc_Thue.html",
@@ -8068,62 +7928,6 @@
     "p2": "004. NGHIEP VU",
     "p3": "CHUC NANG NHIEM VU CQ THUE",
     "id": "20250530"
-  },
-  {
-    "n": "2. QD 2229.2025 sua QD 381.2025",
-    "fn": "003.2. QD 2229.2025 sua QD 381.2025.mht",
-    "p": "I.THUE/004._NGHIEP_VU/CHUC_NANG_NHIEM_VU_CQ_THUE/003.2._QD_2229.2025_sua_QD_381.2025.html",
-    "y": "2025",
-    "t": "Khác",
-    "tx": "",
-    "tl": "",
-    "hl": 1,
-    "s": "I.THUE",
-    "p2": "004. NGHIEP VU",
-    "p3": "CHUC NANG NHIEM VU CQ THUE",
-    "id": "20250630"
-  },
-  {
-    "n": "QD 1376.2025 CNNV thue TINH",
-    "fn": "004. QD 1376.2025 CNNV thue TINH.mht",
-    "p": "I.THUE/004._NGHIEP_VU/CHUC_NANG_NHIEM_VU_CQ_THUE/004._QD_1376.2025_CNNV_thue_TINH.html",
-    "y": "2025",
-    "t": "QĐ",
-    "tx": "",
-    "tl": "",
-    "hl": 1,
-    "s": "I.THUE",
-    "p2": "004. NGHIEP VU",
-    "p3": "CHUC NANG NHIEM VU CQ THUE",
-    "id": "20250630"
-  },
-  {
-    "n": "QD 1377.2025 CNNV thue Co so",
-    "fn": "004.1 QD 1377.2025 CNNV thue Co so.mht",
-    "p": "I.THUE/004._NGHIEP_VU/CHUC_NANG_NHIEM_VU_CQ_THUE/004.1_QD_1377.2025_CNNV_thue_Co_so.html",
-    "y": "2025",
-    "t": "Khác",
-    "tx": "",
-    "tl": "",
-    "hl": 1,
-    "s": "I.THUE",
-    "p2": "004. NGHIEP VU",
-    "p3": "CHUC NANG NHIEM VU CQ THUE",
-    "id": "20250630"
-  },
-  {
-    "n": "QD 1378.2025 ten Thue Co so",
-    "fn": "005. QD 1378.2025 ten Thue Co so.mht",
-    "p": "I.THUE/004._NGHIEP_VU/CHUC_NANG_NHIEM_VU_CQ_THUE/005._QD_1378.2025_ten_Thue_Co_so.html",
-    "y": "2025",
-    "t": "QĐ",
-    "tx": "",
-    "tl": "",
-    "hl": 1,
-    "s": "I.THUE",
-    "p2": "004. NGHIEP VU",
-    "p3": "CHUC NANG NHIEM VU CQ THUE",
-    "id": "20250630"
   },
   {
     "n": "QD 1383.2025 CNNV cac Phong Doi thue Tinh",
@@ -9047,20 +8851,6 @@
     "p3": "QUAN LY NS"
   },
   {
-    "n": "danh muc co quan thue kho bac",
-    "fn": "4334 danh muc co quan thue kho bac.mht",
-    "p": "I.THUE/004._NGHIEP_VU/QUAN_LY_NS/4334_danh_muc_co_quan_thue_kho_bac.html",
-    "y": "",
-    "t": "Khác",
-    "tx": "",
-    "tl": "",
-    "hl": 1,
-    "s": "I.THUE",
-    "p2": "004. NGHIEP VU",
-    "p3": "QUAN LY NS",
-    "id": "20251010"
-  },
-  {
     "n": "TONG HOP VAN BAN MLNS",
     "fn": "TONG HOP VAN BAN MLNS.mht",
     "p": "I.THUE/004._NGHIEP_VU/QUAN_LY_NS/003_muc_luc_ns/TONG_HOP_VAN_BAN_MLNS.html",
@@ -9403,20 +9193,6 @@
     "p3": ""
   },
   {
-    "n": "QD 19.2025 ma dia ban hanh chinh",
-    "fn": "004 QD 19.2025 ma dia ban hanh chinh.mht",
-    "p": "I.THUE/006._THU_TUC_HANH_CHINH/004_QD_19.2025_ma_dia_ban_hanh_chinh.html",
-    "y": "2025",
-    "t": "QĐ",
-    "tx": "",
-    "tl": "",
-    "hl": 1,
-    "s": "I.THUE",
-    "p2": "006. THU TUC HANH CHINH",
-    "p3": "",
-    "id": "20250630"
-  },
-  {
     "n": "TT 46.2024 GD dien tu thue",
     "fn": "002.1 TT 46.2024 GD dien tu thue.mht",
     "p": "I.THUE/006._THU_TUC_HANH_CHINH/002.1_TT_46.2024_GD_dien_tu_thue.html",
@@ -9524,20 +9300,6 @@
     "p2": "006. THU TUC HANH CHINH",
     "p3": "001. Mot cua - Lien thong",
     "id": "20250609"
-  },
-  {
-    "n": "ND 367_2025 sua ND 118.2025",
-    "fn": "003.1 ND 367_2025 sua ND 118.2025.mht",
-    "p": "I.THUE/006._THU_TUC_HANH_CHINH/001._Mot_cua_-_Lien_thong/003.1_ND_367_2025_sua_ND_118.2025.html",
-    "y": "2025",
-    "t": "Khác",
-    "tx": "",
-    "tl": "",
-    "hl": 1,
-    "s": "I.THUE",
-    "p2": "006. THU TUC HANH CHINH",
-    "p3": "001. Mot cua - Lien thong",
-    "id": "20251231"
   },
   {
     "n": "ND 61.2018 Mot cua - Lien thong",
@@ -11051,20 +10813,6 @@
     "id": "20100810"
   },
   {
-    "n": "QD 36.2025 ma nganh kinh te",
-    "fn": "QD 36.2025 ma nganh kinh te.mht",
-    "p": "I.THUE/009._MIEN_GIAM_-_UU_DAI/QD_36.2025_ma_nganh_kinh_te.html",
-    "y": "2025",
-    "t": "QĐ",
-    "tx": "",
-    "tl": "",
-    "hl": 1,
-    "s": "I.THUE",
-    "p2": "009. MIEN GIAM - UU DAI",
-    "p3": "",
-    "id": "20250929"
-  },
-  {
     "n": "QD 43.2018 HE THONG NGANH SAN PHAM",
     "fn": "QD 43.2018 HE THONG NGANH SAN PHAM.mht",
     "p": "I.THUE/009._MIEN_GIAM_-_UU_DAI/QD_43.2018_HE_THONG_NGANH_SAN_PHAM.html",
@@ -12403,20 +12151,6 @@
     "p2": "009. MIEN GIAM - UU DAI",
     "p3": "018. NAM 2025",
     "id": "20250402"
-  },
-  {
-    "n": "TT 64.2025 mien Phi Le phi",
-    "fn": "007. TT 64.2025 mien Phi Le phi.mht",
-    "p": "I.THUE/009._MIEN_GIAM_-_UU_DAI/018._NAM_2025/007._TT_64.2025_mien_Phi_Le_phi.html",
-    "y": "2025",
-    "t": "TT",
-    "tx": "",
-    "tl": "",
-    "hl": 1,
-    "s": "I.THUE",
-    "p2": "009. MIEN GIAM - UU DAI",
-    "p3": "018. NAM 2025",
-    "id": "20250630"
   },
   {
     "n": "ND 180.2024 GIAM GTGT",
@@ -14056,20 +13790,6 @@
     "p3": ""
   },
   {
-    "n": "CT-PC",
-    "fn": "2532 CT-PC.mht",
-    "p": "I.THUE/013._XU_PHAT/2532_CT-PC.html",
-    "y": "",
-    "t": "CT",
-    "tx": "",
-    "tl": "",
-    "hl": 1,
-    "s": "I.THUE",
-    "p2": "013. XU PHAT",
-    "p3": "",
-    "id": "20250718"
-  },
-  {
     "n": "ND 13.2009 suadoi VPPL Thue",
     "fn": "004. ND 13.2009 suadoi VPPL Thue.mht",
     "p": "I.THUE/013._XU_PHAT/0001.HET_HIEU_LUC/004._ND_13.2009_suadoi_VPPL_Thue.html",
@@ -14247,20 +13967,6 @@
     "p2": "013. XU PHAT",
     "p3": "0002.CONG VAN",
     "id": "20131127"
-  },
-  {
-    "n": "ND 190.2025 sua ND 118.2021 xu phat",
-    "fn": "004.1 ND 190.2025 sua ND 118.2021 xu phat.mht",
-    "p": "I.THUE/013._XU_PHAT/0003._LUAT_XU_PHAT_VPHC/004.1_ND_190.2025_sua_ND_118.2021_xu_phat.html",
-    "y": "2025",
-    "t": "Khác",
-    "tx": "",
-    "tl": "",
-    "hl": 1,
-    "s": "I.THUE",
-    "p2": "013. XU PHAT",
-    "p3": "0003. LUAT XU PHAT VPHC",
-    "id": "20250701"
   },
   {
     "n": "ND 118.2021 HD LUAT VPHC",
@@ -15705,5 +15411,172 @@
     "id": "20250701",
     "s": "I.THUE",
     "p2": "001. VBPQ THUE"
+  },
+  {
+    "n": "367/2025/NĐ-CP — (xem nội dung)",
+    "t": "ND",
+    "p": "I.THUE/001._VBPQ_THUE/001.LUAT_QLT/ND_367.2025_sua_ND118.2025_TTHC_mot_cua.html",
+    "id": "20251231",
+    "s": "I.THUE",
+    "p2": "001. VBPQ THUE",
+    "p3": "001.LUAT QLT",
+    "tx": "QLT"
+  },
+  {
+    "n": "4334/CT-CDS — (xem nội dung)",
+    "t": "CV",
+    "p": "I.THUE/001._VBPQ_THUE/001.LUAT_QLT/CV_4334_CT-CDS_2025_danh_muc_CQ_thue_2_cap.html",
+    "id": "",
+    "s": "I.THUE",
+    "p2": "001. VBPQ THUE",
+    "p3": "001.LUAT QLT",
+    "tx": "QLT"
+  },
+  {
+    "n": "36/2025/QĐ-TTg — (xem nội dung)",
+    "t": "QD",
+    "p": "I.THUE/012._LINH_VUC_LIEN_QUAN/QD_36.2025_QD-TTg_he_thong_nganh_kinh_te.html",
+    "id": "20250929",
+    "s": "I.THUE",
+    "p2": "012. LINH VUC LIEN QUAN",
+    "tx": "QLT"
+  },
+  {
+    "n": "2386/CT-CS — (xem nội dung)",
+    "t": "CV",
+    "p": "I.THUE/001._VBPQ_THUE/001.LUAT_QLT/CV_2386_CT-CS_2025_xu_ly_sap_xep_bo_may.html",
+    "id": "20250710",
+    "s": "I.THUE",
+    "p2": "001. VBPQ THUE",
+    "p3": "001.LUAT QLT",
+    "tx": "QLT"
+  },
+  {
+    "n": "38/2025/TT-BNNMT — (xem nội dung)",
+    "t": "TT",
+    "p": "I.THUE/001._VBPQ_THUE/010.THUE_T.NGUYEN/TT_38.2025_xd_chi_phi_danh_gia_khoang_san.html",
+    "id": "20250702",
+    "s": "I.THUE",
+    "p2": "001. VBPQ THUE",
+    "p3": "010.THUE T.NGUYEN",
+    "tx": "TaiNguyen"
+  },
+  {
+    "n": "67/2025/TT-BTC — (xem nội dung)",
+    "t": "TT",
+    "p": "I.THUE/001._VBPQ_THUE/009.TRUOC_BA/TT_67.2025_sua_TT13.2022_truoc_ba.html",
+    "id": "20250701",
+    "s": "I.THUE",
+    "p2": "001. VBPQ THUE",
+    "p3": "009.TRUOC BA",
+    "tx": "TruocBa"
+  },
+  {
+    "n": "190/2025/NĐ-CP — (xem nội dung)",
+    "t": "ND",
+    "p": "I.THUE/013._XU_PHAT/0003._LUAT_XU_PHAT_VPHC/ND_190.2025_sua_ND118.2021_xu_phat.html",
+    "id": "20250701",
+    "s": "I.THUE",
+    "p2": "013. XU PHAT",
+    "p3": "0003. LUAT XU PHAT VPHC",
+    "tx": "QLT"
+  },
+  {
+    "n": "166/2025/NĐ-CP — (xem nội dung)",
+    "t": "ND",
+    "p": "I.THUE/004._NGHIEP_VU/CHUC_NANG_NHIEM_VU_CQ_THUE/ND_166.2025_CNNV_Bo_Tai_chinh.html",
+    "id": "20250630",
+    "s": "I.THUE",
+    "p2": "004. NGHIEP VU",
+    "p3": "CHUC NANG NHIEM VU CQ THUE",
+    "tx": "QLT"
+  },
+  {
+    "n": "64/2025/TT-BTC — (xem nội dung)",
+    "t": "TT",
+    "p": "II._PHI_VA_LE_PHI/TT_64.2025_mien_phi_le_phi.html",
+    "id": "20250630",
+    "s": "II. PHI VA LE PHI",
+    "tx": "QLT"
+  },
+  {
+    "n": "175/2025/NĐ-CP — (xem nội dung)",
+    "t": "ND",
+    "p": "I.THUE/001._VBPQ_THUE/009.TRUOC_BA/ND_175.2025_sua_ND10.2022_truoc_ba.html",
+    "id": "20250630",
+    "s": "I.THUE",
+    "p2": "001. VBPQ THUE",
+    "p3": "009.TRUOC BA",
+    "tx": "TruocBa"
+  },
+  {
+    "n": "2229/QĐ-BTC — (xem nội dung)",
+    "t": "QD",
+    "p": "I.THUE/004._NGHIEP_VU/CHUC_NANG_NHIEM_VU_CQ_THUE/QD_2229.2025_sua_QD381_CNNV_Cuc_Thue.html",
+    "id": "20250630",
+    "s": "I.THUE",
+    "p2": "004. NGHIEP VU",
+    "p3": "CHUC NANG NHIEM VU CQ THUE",
+    "tx": "QLT"
+  },
+  {
+    "n": "1376/QĐ-BTC — (xem nội dung)",
+    "t": "QD",
+    "p": "I.THUE/004._NGHIEP_VU/CHUC_NANG_NHIEM_VU_CQ_THUE/QD_1376.2025_CNNV_thue_tinh.html",
+    "id": "20250630",
+    "s": "I.THUE",
+    "p2": "004. NGHIEP VU",
+    "p3": "CHUC NANG NHIEM VU CQ THUE",
+    "tx": "QLT"
+  },
+  {
+    "n": "1377/QĐ-CT — (xem nội dung)",
+    "t": "QD",
+    "p": "I.THUE/004._NGHIEP_VU/CHUC_NANG_NHIEM_VU_CQ_THUE/QD_1377.2025_CNNV_thue_co_so.html",
+    "id": "20250630",
+    "s": "I.THUE",
+    "p2": "004. NGHIEP VU",
+    "p3": "CHUC NANG NHIEM VU CQ THUE",
+    "tx": "QLT"
+  },
+  {
+    "n": "1378/QĐ-CT — (xem nội dung)",
+    "t": "QD",
+    "p": "I.THUE/004._NGHIEP_VU/CHUC_NANG_NHIEM_VU_CQ_THUE/QD_1378.2025_ten_thue_co_so.html",
+    "id": "20250630",
+    "s": "I.THUE",
+    "p2": "004. NGHIEP VU",
+    "p3": "CHUC NANG NHIEM VU CQ THUE",
+    "tx": "QLT"
+  },
+  {
+    "n": "19/2025/QĐ-TTg — (xem nội dung)",
+    "t": "QD",
+    "p": "I.THUE/001._VBPQ_THUE/001.LUAT_QLT/QD_19.2025_QD-TTg_ma_dia_ban_hanh_chinh.html",
+    "id": "20250630",
+    "s": "I.THUE",
+    "p2": "001. VBPQ THUE",
+    "p3": "001.LUAT QLT",
+    "tx": "QLT"
+  },
+  {
+    "n": "2173/QĐ-BTC — (xem nội dung)",
+    "t": "QD",
+    "p": "I.THUE/001._VBPQ_THUE/009.TRUOC_BA/QD_2173.2025_bang_gia_LPTB_oto_xe_may.html",
+    "id": "20250626",
+    "s": "I.THUE",
+    "p2": "001. VBPQ THUE",
+    "p3": "009.TRUOC BA",
+    "tx": "TruocBa"
+  },
+  {
+    "n": "22/VBHN-BTC — (xem nội dung)",
+    "t": "VBHN",
+    "p": "I.THUE/001._VBPQ_THUE/009.TRUOC_BA/VBHN_22.2025_TT_huong_dan_ND10.2022_truoc_ba.html",
+    "id": "20250805",
+    "s": "I.THUE",
+    "p2": "001. VBPQ THUE",
+    "p3": "009.TRUOC BA",
+    "tx": "TruocBa"
   }
 ]
