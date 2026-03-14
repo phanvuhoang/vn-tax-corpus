@@ -15406,5 +15406,19 @@
     "p3": "009.TRUOC BA",
     "tx": "TruocBa",
     "hl": 1
+  },
+  {
+    "n": "TT 20/2026/TT-BTC — Hướng dẫn Luật Thuế TNDN và NĐ 320/2025/NĐ-CP",
+    "p": "I.THUE/001._VBPQ_THUE/004.THUE_TNDN/003._TT_20.2026_HD_Luat_TNDN_ND320.html",
+    "t": "TT",
+    "tx": "CIT",
+    "tl": "Thuế TNDN",
+    "id": "20260312",
+    "hl": 1,
+    "s": "I.THUE",
+    "p2": "001. VBPQ THUE",
+    "p3": "004.THUE TNDN",
+    "so_hieu": "20/2026/TT-BTC",
+    "y": "2026"
   }
 ]
