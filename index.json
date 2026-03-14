@@ -52,7 +52,7 @@
     "p3": ""
   },
   {
-    "n": "CV 5189/TCT-CS (2020) — Nội dung mới NĐ 126/2020/NĐ-CP",
+    "n": "CV 5189/TCT-CS (2020) — Nội dung mới NĐ 126/2020/NĐ-CP hướng dẫn Luật Quản lý thuế",
     "fn": "000._CV_5189.2020_DIEM_MOI_ND_126.html",
     "p": "I.THUE/001._VBPQ_THUE/001.LUAT_QLT/000._CV_5189.2020_DIEM_MOI_ND_126.html",
     "y": "5189",
@@ -192,20 +192,6 @@
     "id": "20210517"
   },
   {
-    "n": "CV 5189.2020 DIEM MOI ND 126",
-    "fn": "000. CV 5189.2020 DIEM MOI ND 126.mht",
-    "p": "I.THUE/001._VBPQ_THUE/001.LUAT_QLT/0003._MAU_ND_126.2020/000._CV_5189.2020_DIEM_MOI_ND_126.html",
-    "y": "2020",
-    "t": "CV",
-    "tx": "QLT",
-    "tl": "Quản lý Thuế",
-    "hl": 1,
-    "s": "I.THUE",
-    "p2": "001. VBPQ THUE",
-    "p3": "001.LUAT QLT",
-    "id": "20241114"
-  },
-  {
     "n": "Nghị định 126/2020/NĐ-CP hướng dẫn Luật Quản lý Thuế",
     "fn": "002. ND 126.2020 HD LUAT QLT 38.mht",
     "p": "I.THUE/001._VBPQ_THUE/001.LUAT_QLT/002._ND_126.2020_HD_LUAT_QLT_38.html",
@@ -276,7 +262,7 @@
     "id": "20140124"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "NQ 198 2025.QH15 chinh sach ptrien kinh te",
     "fn": "009. NQ 198_2025.QH15 chinh sach ptrien kinh te.mht",
     "p": "I.THUE/001._VBPQ_THUE/001.LUAT_QLT/009._NQ_198_2025.QH15_chinh_sach_ptrien_kinh_te.html",
     "y": "",
@@ -315,7 +301,7 @@
     "s": "I.THUE",
     "p2": "001. VBPQ THUE",
     "p3": "001.LUAT QLT",
-    "id": "20210929"
+    "id": "20251014"
   },
   {
     "n": "NĐ 310/2025/NĐ-CP — Sửa đổi NĐ 125/2020/NĐ-CP về xử phạt hành chính lĩnh vực thuế",
@@ -429,7 +415,7 @@
     "p3": "003. QUI TRINH"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "QD1925.2014 4 BO TIEU CHI",
     "fn": "01._QD1925.2014_4_BO_TIEU_CHI.html",
     "p": "I.THUE/001._VBPQ_THUE/003._QUI_TRINH/01._QD1925.2014_4_BO_TIEU_CHI.html",
     "y": "",
@@ -554,7 +540,7 @@
     "id": "20221226"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "VBHN 01/VBHN-BTC (2024) — Thông tư 219/2013 hợp nhất về thuế GTGT",
     "fn": "004.TT 219.2013 GTGT.mht",
     "p": "I.THUE/001._VBPQ_THUE/003.THUE_GTGT/0001.HET_HIEU_LUC/004.TT_219.2013_GTGT.html",
     "y": "2013",
@@ -565,7 +551,7 @@
     "s": "I.THUE",
     "p2": "001. VBPQ THUE",
     "p3": "003.THUE GTGT",
-    "id": "20131218"
+    "id": "20240104"
   },
   {
     "n": "TT 06.2012 GTGT",
@@ -596,20 +582,6 @@
     "id": "20160428"
   },
   {
-    "n": "Tong hop Luat thue GTGT het hieu luc",
-    "fn": "001. Tong hop Luat thue GTGT het hieu luc.mht",
-    "p": "I.THUE/001._VBPQ_THUE/003.THUE_GTGT/001._Tong_hop_Luat_thue_GTGT_het_hieu_luc.html",
-    "y": "",
-    "t": "Khác",
-    "tx": "GTGT",
-    "tl": "Thuế GTGT",
-    "hl": 1,
-    "s": "I.THUE",
-    "p2": "001. VBPQ THUE",
-    "p3": "003.THUE GTGT",
-    "id": "20241126"
-  },
-  {
     "n": "VBHN 03/VBHN-BTC (2026) — NĐ hướng dẫn Luật Thuế GTGT (NĐ 181+359 hợp nhất)",
     "fn": "003.1_ND_181.2024_HOP_NHAT_359.2025.html",
     "p": "I.THUE/001._VBPQ_THUE/003.THUE_GTGT/003.1_ND_181.2024_HOP_NHAT_359.2025.html",
@@ -631,25 +603,11 @@
     "t": "NĐ",
     "tx": "GTGT",
     "tl": "Thuế GTGT",
-    "hl": 1,
+    "hl": 0,
     "s": "I.THUE",
     "p2": "001. VBPQ THUE",
     "p3": "003.THUE GTGT",
     "id": "20221226"
-  },
-  {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
-    "fn": "004._TT_219.2013_GTGT.html",
-    "p": "I.THUE/001._VBPQ_THUE/003.THUE_GTGT/004._TT_219.2013_GTGT.html",
-    "y": "",
-    "t": "TT",
-    "tx": "GTGT",
-    "tl": "Thuế GTGT",
-    "hl": 1,
-    "s": "I.THUE",
-    "p2": "001. VBPQ THUE",
-    "p3": "003.THUE GTGT",
-    "id": "20131218"
   },
   {
     "n": "VBHN 12/VBHN-VPQH (2026) — Luật Thuế GTGT (hợp nhất 2026)",
@@ -732,7 +690,7 @@
     "p3": "004. NGHIEP VU"
   },
   {
-    "n": "TT 67/2025/TT-BTC — Sửa đổi TT 13/2022 hướng dẫn NĐ 10/2022 về lệ phí trước bạ",
+    "n": "Luật 67/2025/QH15 — Thuế thu nhập doanh nghiệp",
     "fn": "002. Luat thue TNDN 67.2025.mht",
     "p": "I.THUE/001._VBPQ_THUE/004.THUE_TNDN/002._Luat_thue_TNDN_67.2025.html",
     "y": "2025",
@@ -830,20 +788,6 @@
     "id": "20131030"
   },
   {
-    "n": "Tong hop Luat thue TNDN het hieu luc",
-    "fn": "001. Tong hop Luat thue TNDN het hieu luc.mht",
-    "p": "I.THUE/001._VBPQ_THUE/004.THUE_TNDN/001._Tong_hop_Luat_thue_TNDN_het_hieu_luc.html",
-    "y": "",
-    "t": "Khác",
-    "tx": "TNDN",
-    "tl": "Thuế TNDN",
-    "hl": 1,
-    "s": "I.THUE",
-    "p2": "001. VBPQ THUE",
-    "p3": "004.THUE TNDN",
-    "id": "20240126"
-  },
-  {
     "n": "NĐ 360/2025/NĐ-CP — Quy định về thuế tiêu thụ đặc biệt",
     "fn": "019. ND 360.2025 TTDB.mht",
     "p": "I.THUE/001._VBPQ_THUE/005.THUE_TTDB/019._ND_360.2025_TTDB.html",
@@ -900,7 +844,7 @@
     "id": "20220111"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "ND 14.2019 sua ND 108.2015",
     "fn": "015. ND 14.2019 sua ND 108.2015.mht",
     "p": "I.THUE/001._VBPQ_THUE/005.THUE_TTDB/015._ND_14.2019_sua_ND_108.2015.html",
     "y": "2019",
@@ -914,7 +858,7 @@
     "id": "20151028"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "VBHN ND 26.2019 TTDB",
     "fn": "016. VBHN ND 26.2019 TTDB.mht",
     "p": "I.THUE/001._VBPQ_THUE/005.THUE_TTDB/016._VBHN_ND_26.2019_TTDB.html",
     "y": "2019",
@@ -928,7 +872,7 @@
     "id": "20190423"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "TT 20.2017 SUA TT 195.2015",
     "fn": "011. TT 20.2017 SUA TT 195.2015.mht",
     "p": "I.THUE/001._VBPQ_THUE/005.THUE_TTDB/011._TT_20.2017_SUA_TT_195.2015.html",
     "y": "2017",
@@ -1026,7 +970,7 @@
     "id": "20151028"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "TT 195.2015 TTDB",
     "fn": "004.TT 195.2015 TTDB.mht",
     "p": "I.THUE/001._VBPQ_THUE/005.THUE_TTDB/004.TT_195.2015_TTDB.html",
     "y": "2015",
@@ -1138,7 +1082,7 @@
     "id": "20051129"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "TT 18.2005 TTDB sd TT 119",
     "fn": "006. TT 18.2005 TTDB sd TT 119.mht",
     "p": "I.THUE/001._VBPQ_THUE/005.THUE_TTDB/0001.HET_HIEU_LUC/006._TT_18.2005_TTDB_sd_TT_119.html",
     "y": "2005",
@@ -1208,7 +1152,7 @@
     "id": "20031204"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "TT 119.2003 TTDB HDND149",
     "fn": "003. TT 119.2003 TTDB HDND149.mht",
     "p": "I.THUE/001._VBPQ_THUE/005.THUE_TTDB/0001.HET_HIEU_LUC/003._TT_119.2003_TTDB_HDND149.html",
     "y": "2003",
@@ -1222,7 +1166,7 @@
     "id": "20030617"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "Luat 05.1998 Thue TTDB",
     "fn": "001. Luat 05.1998 Thue TTDB.mht",
     "p": "I.THUE/001._VBPQ_THUE/005.THUE_TTDB/0001.HET_HIEU_LUC/001._Luat_05.1998_Thue_TTDB.html",
     "y": "1998",
@@ -1291,7 +1235,7 @@
     "id": "20220125"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "1 VBHN 26.2019 Nghi Dinh Thue TTDB",
     "fn": "016.1_VBHN_26.2019_Nghi_Dinh_Thue_TTDB.html",
     "p": "I.THUE/001._VBPQ_THUE/005.THUE_TTDB/016.1_VBHN_26.2019_Nghi_Dinh_Thue_TTDB.html",
     "y": "2019",
@@ -1388,7 +1332,7 @@
     "id": "20221230"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "TT 51.2021 NGHIA VU KD CHUNG KHOAN",
     "fn": "019. TT 51.2021 NGHIA VU KD CHUNG KHOAN.mht",
     "p": "I.THUE/001._VBPQ_THUE/006.THUE_TNCN/019._TT_51.2021_NGHIA_VU_KD_CHUNG_KHOAN.html",
     "y": "2021",
@@ -1443,7 +1387,7 @@
     "id": "20200602"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "CV 1285.2019 MIEN GIAM KHU KINH TE",
     "fn": "006. CV 1285.2019 MIEN GIAM KHU KINH TE.mht",
     "p": "I.THUE/001._VBPQ_THUE/006.THUE_TNCN/002._CONG_VAN/006._CV_1285.2019_MIEN_GIAM_KHU_KINH_TE.html",
     "y": "2019",
@@ -1540,7 +1484,7 @@
     "id": "20160515"
   },
   {
-    "n": "TT 67/2025/TT-BTC — Sửa đổi TT 13/2022 hướng dẫn NĐ 10/2022 về lệ phí trước bạ",
+    "n": "cv 5672.2016 TINH GIAN BIEN CHE",
     "fn": "005. cv 5672.2016 TINH GIAN BIEN CHE.mht",
     "p": "I.THUE/001._VBPQ_THUE/006.THUE_TNCN/002._CONG_VAN/005._cv_5672.2016_TINH_GIAN_BIEN_CHE.html",
     "y": "2016",
@@ -1665,7 +1609,7 @@
     "id": "20141010"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "TT 119.2014 sd 111",
     "fn": "011.TT 119.2014 sd 111.mht",
     "p": "I.THUE/001._VBPQ_THUE/006.THUE_TNCN/011.TT_119.2014_sd_111.html",
     "y": "2014",
@@ -2167,7 +2111,7 @@
     "id": "20200727"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "VBHN TT 32.2019 THUE BVMT",
     "fn": "011. VBHN TT 32.2019 THUE BVMT.mht",
     "p": "I.THUE/001._VBPQ_THUE/007.THUE_BVMT/011._VBHN_TT_32.2019_THUE_BVMT.html",
     "y": "2019",
@@ -2265,7 +2209,7 @@
     "id": "20120928"
   },
   {
-    "n": "TT 67/2025/TT-BTC — Sửa đổi TT 13/2022 hướng dẫn NĐ 10/2022 về lệ phí trước bạ",
+    "n": "ND 67.2011 BVMT",
     "fn": "003.ND 67.2011 BVMT.mht",
     "p": "I.THUE/001._VBPQ_THUE/007.THUE_BVMT/003.ND_67.2011_BVMT.html",
     "y": "2011",
@@ -2501,7 +2445,7 @@
     "id": "20151125"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "QD 19.2024 GIA LE PHI TRUOC BA QNI",
     "fn": "001. QD 19.2024 GIA LE PHI TRUOC BA QNI.mht",
     "p": "I.THUE/001._VBPQ_THUE/009.TRUOC_BA/002._Gia_le_phi_truoc_ba_QNI/001._QD_19.2024_GIA_LE_PHI_TRUOC_BA_QNI.html",
     "y": "2024",
@@ -2583,7 +2527,7 @@
     "p3": "009.TRUOC BA"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "QD 182.1998 Mien tba ODA",
     "fn": "001.QD 182.1998 Mien tba ODA.mht",
     "p": "I.THUE/001._VBPQ_THUE/009.TRUOC_BA/001.QD_182.1998_Mien_tba_ODA.html",
     "y": "1998",
@@ -2624,7 +2568,7 @@
     "id": "20111220"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "TONG HOP HIEP DINH 2019",
     "fn": "TONG_HOP_HIEP_DINH_2019.html",
     "p": "I.THUE/001._VBPQ_THUE/010._HIEP_DINH/TONG_HOP_HIEP_DINH_2019.html",
     "y": "2019",
@@ -2665,7 +2609,7 @@
     "id": "20240520"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "ND 01.2023 LAY Y KIEN TAI NGUYEN NUOC",
     "fn": "019. ND 01.2023 LAY Y KIEN TAI NGUYEN NUOC.mht",
     "p": "I.THUE/001._VBPQ_THUE/010.THUE_T.NGUYEN/019._ND_01.2023_LAY_Y_KIEN_TAI_NGUYEN_NUOC.html",
     "y": "2023",
@@ -2826,7 +2770,7 @@
     "id": "20210415"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "QD 52.2021 sua QD 22.2021 gia Tai QNI",
     "fn": "019. QD 52.2021 sua QD 22.2021 gia Tai QNI.mht",
     "p": "I.THUE/001._VBPQ_THUE/010.THUE_T.NGUYEN/0002.QNI/019._QD_52.2021_sua_QD_22.2021_gia_Tai_QNI.html",
     "y": "2021",
@@ -2935,7 +2879,7 @@
     "id": "20201228"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "QD 15.2019 GIA TAIN QNI",
     "fn": "013. QD 15.2019 GIA TAIN QNI.mht",
     "p": "I.THUE/001._VBPQ_THUE/010.THUE_T.NGUYEN/0002.QNI/013._QD_15.2019_GIA_TAIN_QNI.html",
     "y": "2019",
@@ -3427,7 +3371,7 @@
     "id": "20050922"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "ND 68.1998 TNguyen",
     "fn": "002.ND 68.1998 TNguyen.mht",
     "p": "I.THUE/001._VBPQ_THUE/010.THUE_T.NGUYEN/0001.HET_HIEU_LUC/002.ND_68.1998_TNguyen.html",
     "y": "1998",
@@ -3440,7 +3384,7 @@
     "p3": "010.THUE T.NGUYEN"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "Phap lenh 05-1998 TNG",
     "fn": "001. Phap lenh 05-1998 TNG.mht",
     "p": "I.THUE/001._VBPQ_THUE/010.THUE_T.NGUYEN/0001.HET_HIEU_LUC/001._Phap_lenh_05-1998_TNG.html",
     "y": "",
@@ -3562,7 +3506,7 @@
     "id": "20200505"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "QD 18.2019 TY LE QUY DOI TINH PHI BVMT",
     "fn": "005. QD 18.2019 TY LE QUY DOI TINH PHI BVMT.mht",
     "p": "I.THUE/001._VBPQ_THUE/011.PHI_BVMT/002._QNI/005._QD_18.2019_TY_LE_QUY_DOI_TINH_PHI_BVMT.html",
     "y": "2019",
@@ -4119,7 +4063,7 @@
     "id": "20091116"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "VBHN 19",
     "fn": "04.VBHN 19.mht",
     "p": "I.THUE/001._VBPQ_THUE/016._KHAU_HAO_TSCD/04.VBHN_19.html",
     "y": "",
@@ -4189,7 +4133,7 @@
     "id": "20250612"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "1 ND 193.2025 Dia chat Khoang san",
     "fn": "006.1 ND 193.2025 Dia chat Khoang san.mht",
     "p": "I.THUE/001._VBPQ_THUE/017._KT_KHOANG_SAN_-_BIEN/006.1_ND_193.2025_Dia_chat_Khoang_san.html",
     "y": "2025",
@@ -4202,7 +4146,7 @@
     "p3": "017. KT KHOANG SAN - BIEN"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "$6.1 ND 193.2025 Dia chat Khoang san",
     "fn": "~$6.1 ND 193.2025 Dia chat Khoang san.mht",
     "p": "I.THUE/001._VBPQ_THUE/017._KT_KHOANG_SAN_-_BIEN/~$6.1_ND_193.2025_Dia_chat_Khoang_san.html",
     "y": "2025",
@@ -4309,7 +4253,7 @@
     "id": "20170717"
   },
   {
-    "n": "TT 67/2025/TT-BTC — Sửa đổi TT 13/2022 hướng dẫn NĐ 10/2022 về lệ phí trước bạ",
+    "n": "ND 67.2019 Cap quyen KT Khoang san",
     "fn": "001. ND 67.2019 Cap quyen KT Khoang san.mht",
     "p": "I.THUE/001._VBPQ_THUE/017._KT_KHOANG_SAN_-_BIEN/001._ND_67.2019_Cap_quyen_KT_Khoang_san.html",
     "y": "2019",
@@ -4462,7 +4406,7 @@
     "id": "20121122"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "TT 13.2018 VBHN HOAN THUE GTGT",
     "fn": "006. TT 13.2018 VBHN HOAN THUE GTGT.mht",
     "p": "I.THUE/001._VBPQ_THUE/019._HOAN_THUE/006._TT_13.2018_VBHN_HOAN_THUE_GTGT.html",
     "y": "2018",
@@ -4476,7 +4420,7 @@
     "id": "20160813"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "TT 31.2017 SUA TT 99.2016",
     "fn": "003. TT 31.2017 SUA TT 99.2016.mht",
     "p": "I.THUE/001._VBPQ_THUE/019._HOAN_THUE/003._TT_31.2017_SUA_TT_99.2016.html",
     "y": "2017",
@@ -4490,7 +4434,7 @@
     "id": "20170418"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "TT 99.2016 QL HOAN THUE GTGT",
     "fn": "001. TT 99.2016 QL HOAN THUE GTGT.mht",
     "p": "I.THUE/001._VBPQ_THUE/019._HOAN_THUE/001._TT_99.2016_QL_HOAN_THUE_GTGT.html",
     "y": "2016",
@@ -4503,7 +4447,7 @@
     "p3": "019. HOAN THUE"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "1 Mau CV TT 99.2016",
     "fn": "001.1 Mau CV TT 99.2016.mht",
     "p": "I.THUE/001._VBPQ_THUE/019._HOAN_THUE/001.1_Mau_CV_TT_99.2016.html",
     "y": "2016",
@@ -4516,7 +4460,7 @@
     "p3": "019. HOAN THUE"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "DIEM MOI TT 99.2016",
     "fn": "002. DIEM MOI TT 99.2016.mht",
     "p": "I.THUE/001._VBPQ_THUE/019._HOAN_THUE/002._DIEM_MOI_TT_99.2016.html",
     "y": "2016",
@@ -4529,7 +4473,7 @@
     "p3": "019. HOAN THUE"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "QD 710.2016 TIEP NHAN HS HOAN DT",
     "fn": "004. QD 710.2016 TIEP NHAN HS HOAN DT.mht",
     "p": "I.THUE/001._VBPQ_THUE/019._HOAN_THUE/004._QD_710.2016_TIEP_NHAN_HS_HOAN_DT.html",
     "y": "2016",
@@ -4543,7 +4487,7 @@
     "id": "20170424"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "QD 2790.2016 THI DIEM HOAN DT",
     "fn": "005. QD 2790.2016 THI DIEM HOAN DT.mht",
     "p": "I.THUE/001._VBPQ_THUE/019._HOAN_THUE/005._QD_2790.2016_THI_DIEM_HOAN_DT.html",
     "y": "2016",
@@ -4557,7 +4501,7 @@
     "id": "20161227"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "CV 5580 TCT-KK thu tuc khi hoan dau tu",
     "fn": "001. CV 5580_TCT-KK thu tuc khi hoan dau tu.mht",
     "p": "I.THUE/001._VBPQ_THUE/019._HOAN_THUE/001._CONG_VAN/001._CV_5580_TCT-KK_thu_tuc_khi_hoan_dau_tu.html",
     "y": "",
@@ -5056,7 +5000,7 @@
     "id": "20211005"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "TT 15.2020 TEM RUOU",
     "fn": "019. TT 15.2020 TEM RUOU.mht",
     "p": "I.THUE/002._HOA_DON_-_AN_CHI/019._TT_15.2020_TEM_RUOU.html",
     "y": "2020",
@@ -5098,7 +5042,7 @@
     "id": "20201019"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "TT 88.2020 SUA TT 68.2019 HOA DON",
     "fn": "022. TT 88.2020 SUA TT 68.2019 HOA DON.mht",
     "p": "I.THUE/002._HOA_DON_-_AN_CHI/022._TT_88.2020_SUA_TT_68.2019_HOA_DON.html",
     "y": "2020",
@@ -5112,7 +5056,7 @@
     "id": "20201030"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "TT 68.2019 HD DIEN TU",
     "fn": "018. TT 68.2019 HD DIEN TU.mht",
     "p": "I.THUE/002._HOA_DON_-_AN_CHI/018._TT_68.2019_HD_DIEN_TU.html",
     "y": "2019",
@@ -5126,7 +5070,7 @@
     "id": "20190930"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "ND 119.2018 HD DIEN TU",
     "fn": "017. ND 119.2018 HD DIEN TU.mht",
     "p": "I.THUE/002._HOA_DON_-_AN_CHI/017._ND_119.2018_HD_DIEN_TU.html",
     "y": "2018",
@@ -5266,7 +5210,7 @@
     "id": "20100514"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "TT 191.2010 HD xe khach",
     "fn": "003.TT 191.2010 HD xe khach.mht",
     "p": "I.THUE/002._HOA_DON_-_AN_CHI/003.TT_191.2010_HD_xe_khach.html",
     "y": "2010",
@@ -5546,7 +5490,7 @@
     "id": "20211007"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "NOI DUNG CO BAN ND 119.2018",
     "fn": "001. NOI DUNG CO BAN ND 119.2018.mht",
     "p": "I.THUE/002._HOA_DON_-_AN_CHI/002._HD_DIEN_TU/001._NOI_DUNG_CO_BAN_ND_119.2018.html",
     "y": "2018",
@@ -5881,7 +5825,7 @@
     "id": "20250120"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "QD 1939.2017 QLH UNT",
     "fn": "05. QD 1939.2017 QLH UNT.mht",
     "p": "I.THUE/003._QUI_TRINH/005._HO_KINH_DOANH/05._QD_1939.2017_QLH_UNT.html",
     "y": "2017",
@@ -5949,7 +5893,7 @@
     "id": "20250124"
   },
   {
-    "n": "TT 67/2025/TT-BTC — Sửa đổi TT 13/2022 hướng dẫn NĐ 10/2022 về lệ phí trước bạ",
+    "n": "QD 679.2023 QUY TRINH HOAN THUE",
     "fn": "006. QD 679.2023 QUY TRINH HOAN THUE.mht",
     "p": "I.THUE/003._QUI_TRINH/006._HOAN_THUE/006._QD_679.2023_QUY_TRINH_HOAN_THUE.html",
     "y": "2023",
@@ -5962,7 +5906,7 @@
     "p3": "006. HOAN THUE"
   },
   {
-    "n": "TT 67/2025/TT-BTC — Sửa đổi TT 13/2022 hướng dẫn NĐ 10/2022 về lệ phí trước bạ",
+    "n": "1. QD 2201 sua QTr hoan 679.2023",
     "fn": "006.1. QD 2201 sua QTr hoan 679.2023.mht",
     "p": "I.THUE/003._QUI_TRINH/006._HOAN_THUE/006.1._QD_2201_sua_QTr_hoan_679.2023.html",
     "y": "2023",
@@ -6168,7 +6112,7 @@
     "p3": "006. HOAN THUE"
   },
   {
-    "n": "TT 67/2025/TT-BTC — Sửa đổi TT 13/2022 hướng dẫn NĐ 10/2022 về lệ phí trước bạ",
+    "n": "CV 4679.2016 TCT-KTNB",
     "fn": "005. CV 4679.2016 TCT-KTNB.mht",
     "p": "I.THUE/003._QUI_TRINH/007._K.TRA_H.DON/005._CV_4679.2016_TCT-KTNB.html",
     "y": "2016",
@@ -6375,7 +6319,7 @@
     "p3": "008. KE KHAI-KTT"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "QD 178.2019 GIAI QUYET KHIEU NAI",
     "fn": "007. QD 178.2019 GIAI QUYET KHIEU NAI.mht",
     "p": "I.THUE/003._QUI_TRINH/009._KIEM_TRA_NOI_BO/004.SO_TAY_KTNB/007._QD_178.2019_GIAI_QUYET_KHIEU_NAI.html",
     "y": "2019",
@@ -6596,7 +6540,7 @@
     "id": "20140926"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "QD1925.2014 4 BO TIEU CHI",
     "fn": "01. QD1925.2014 4 BO TIEU CHI.mht",
     "p": "I.THUE/003._QUI_TRINH/009._KIEM_TRA_NOI_BO/005._BO_TIEU_CHI/01._QD1925.2014_4_BO_TIEU_CHI.html",
     "y": "2014",
@@ -6746,7 +6690,7 @@
     "id": "20101115"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "QD 1995.2015 KIEM TRA GTGT",
     "fn": "001. QD 1995.2015 KIEM TRA GTGT.mht",
     "p": "I.THUE/003._QUI_TRINH/010._KIEM_TRA_THUE/001._QD_1995.2015_KIEM_TRA_GTGT.html",
     "y": "2015",
@@ -6988,7 +6932,7 @@
     "p3": "014. MOT CUA"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "QD 1195.2025 quan ly An chi",
     "fn": "QD 1195.2025 quan ly An chi.mht",
     "p": "I.THUE/003._QUI_TRINH/015._QL_AN_CHI/QD_1195.2025_quan_ly_An_chi.html",
     "y": "2025",
@@ -7271,7 +7215,7 @@
     "id": "20191126"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "QD 4322.2019 QC THU HOI NO - QNI",
     "fn": "001. QD 4322.2019 QC THU HOI NO - QNI.mht",
     "p": "I.THUE/003._QUI_TRINH/017._QL_NO_-_CC_NO/001._QD_4322.2019_QC_THU_HOI_NO_-_QNI.html",
     "y": "2019",
@@ -7285,7 +7229,7 @@
     "id": "20190603"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "NQCP 94.2019 KHOANH NO XOA NO",
     "fn": "002. NQCP 94.2019 KHOANH NO XOA NO.mht",
     "p": "I.THUE/003._QUI_TRINH/017._QL_NO_-_CC_NO/001._QL_NO/002._NQCP_94.2019_KHOANH_NO_XOA_NO.html",
     "y": "2019",
@@ -7338,7 +7282,7 @@
     "p3": "018. QL THUE TAI SAN"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "QD 1521.2022 QUAN LY DAI LY THUE",
     "fn": "001. QD 1521.2022 QUAN LY DAI LY THUE.mht",
     "p": "I.THUE/003._QUI_TRINH/019._QUAN_LY_DAI_LY_THUE/001._QD_1521.2022_QUAN_LY_DAI_LY_THUE.html",
     "y": "2022",
@@ -7706,7 +7650,7 @@
     "id": "20170815"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "CV 1937. QUY TRINH AC 2020 - MAU TB HD",
     "fn": "CV 1937. QUY TRINH AC 2020 - MAU TB HD.mht",
     "p": "I.THUE/003._QUI_TRINH/025._XAC_MINH_DIA_DIEM/CV_1937._QUY_TRINH_AC_2020_-_MAU_TB_HD.html",
     "y": "",
@@ -7720,7 +7664,7 @@
     "id": "20210603"
   },
   {
-    "n": "TT 67/2025/TT-BTC — Sửa đổi TT 13/2022 hướng dẫn NĐ 10/2022 về lệ phí trước bạ",
+    "n": "TT 74.2023 bai bo che do BC 167.2002",
     "fn": "006. TT 74.2023 bai bo che do BC 167.2002.mht",
     "p": "I.THUE/004._NGHIEP_VU/BAO_CAO/006._TT_74.2023_bai_bo_che_do_BC_167.2002.html",
     "y": "2023",
@@ -8079,7 +8023,7 @@
     "id": "20151125"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "TT 12.2019 DINH MUC CA MAY THUY",
     "fn": "001. TT 12.2019 DINH MUC CA MAY THUY.mht",
     "p": "I.THUE/004._NGHIEP_VU/DINH_MUC/001._TT_12.2019_DINH_MUC_CA_MAY_THUY.html",
     "y": "2019",
@@ -8603,7 +8547,7 @@
     "id": "20100923"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "TTLT 198.2009BTC-BCT-BKH",
     "fn": "002. TTLT 198.2009BTC-BCT-BKH.mht",
     "p": "I.THUE/004._NGHIEP_VU/QC_PHOI_HOP/002._TTLT_198.2009BTC-BCT-BKH.html",
     "y": "2009",
@@ -8658,7 +8602,7 @@
     "id": "20151110"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "CV 2239.2019 QL THUE KHU VUC",
     "fn": "001. CV 2239.2019 QL THUE KHU VUC.mht",
     "p": "I.THUE/004._NGHIEP_VU/QL_CCT_KHU_VUC/001._CV_2239.2019_QL_THUE_KHU_VUC.html",
     "y": "2019",
@@ -8889,7 +8833,7 @@
     "p3": "QUAN LY VAN BAN THUE"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "QD 2018.2019 KIEM SOAT DU LIEU",
     "fn": "001. QD 2018.2019 KIEM SOAT DU LIEU.mht",
     "p": "I.THUE/004._NGHIEP_VU/QUY_CHE_KIEM_SOAT_DU_LIEU/001._QD_2018.2019_KIEM_SOAT_DU_LIEU.html",
     "y": "2019",
@@ -8903,7 +8847,7 @@
     "id": "20181212"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "CV 2271.2019 TRIEN KHAI KS DU LIEU",
     "fn": "002. CV 2271.2019 TRIEN KHAI KS DU LIEU.mht",
     "p": "I.THUE/004._NGHIEP_VU/QUY_CHE_KIEM_SOAT_DU_LIEU/002._CV_2271.2019_TRIEN_KHAI_KS_DU_LIEU.html",
     "y": "2019",
@@ -8917,7 +8861,7 @@
     "id": "20190604"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "CV 5104.2019 QNI DIEU CHINH SAU THANH KIEM",
     "fn": "003. CV 5104.2019 QNI DIEU CHINH SAU THANH KIEM.mht",
     "p": "I.THUE/004._NGHIEP_VU/QUY_CHE_KIEM_SOAT_DU_LIEU/003._CV_5104.2019_QNI_DIEU_CHINH_SAU_THANH_KIEM.html",
     "y": "2019",
@@ -9056,7 +9000,7 @@
     "id": "20080915"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "CV 2195.2025 the thuc van ban thue",
     "fn": "CV 2195.2025 the thuc van ban thue.mht",
     "p": "I.THUE/005._Luat_ban_hanh_Van_ban/CV_2195.2025_the_thuc_van_ban_thue.html",
     "y": "2025",
@@ -9151,7 +9095,7 @@
     "id": "20240916"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "TT 19.2021 GD DIEN TU THUE",
     "fn": "002. TT 19.2021 GD DIEN TU THUE.mht",
     "p": "I.THUE/006._THU_TUC_HANH_CHINH/002._TT_19.2021_GD_DIEN_TU_THUE.html",
     "y": "2021",
@@ -9636,7 +9580,7 @@
     "id": "20231031"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "1. LUAN CHUYEN HO SO DAT 30.2019 QNI",
     "fn": "002.1. LUAN CHUYEN HO SO DAT 30.2019 QNI.mht",
     "p": "I.THUE/006._THU_TUC_HANH_CHINH/006._TTHC_UBND_QNI/002.1._LUAN_CHUYEN_HO_SO_DAT_30.2019_QNI.html",
     "y": "2019",
@@ -9923,7 +9867,7 @@
     "id": "20201203"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "CV 2151.2019 QUY TRINH DK HTX",
     "fn": "022. CV 2151.2019 QUY TRINH DK HTX.mht",
     "p": "I.THUE/007._DKKD-DKThue/022._CV_2151.2019_QUY_TRINH_DK_HTX.html",
     "y": "2019",
@@ -9936,7 +9880,7 @@
     "p3": ""
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "CV 2100.2019 LIEN THONG DK HTX",
     "fn": "023. CV 2100.2019 LIEN THONG DK HTX.mht",
     "p": "I.THUE/007._DKKD-DKThue/023._CV_2100.2019_LIEN_THONG_DK_HTX.html",
     "y": "2019",
@@ -9964,7 +9908,7 @@
     "id": "20141126"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "QD 3575.2017 PHAN CONG QL",
     "fn": "019. QD 3575.2017 PHAN CONG QL.mht",
     "p": "I.THUE/007._DKKD-DKThue/019._QD_3575.2017_PHAN_CONG_QL.html",
     "y": "2017",
@@ -10238,7 +10182,7 @@
     "id": "20220425"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "CV 3200.2019 QL DIA DIEM KD",
     "fn": "010. CV 3200.2019 QL DIA DIEM KD.mht",
     "p": "I.THUE/007._DKKD-DKThue/001.CONG_VAN/010._CV_3200.2019_QL_DIA_DIEM_KD.html",
     "y": "2019",
@@ -10265,7 +10209,7 @@
     "p3": "001.CONG VAN"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "TT 19.2023 BAI BO TT BAO CHI",
     "fn": "001. TT 19.2023 BAI BO TT BAO CHI.mht",
     "p": "I.THUE/008._NGANH_DAC_THU/001._TT_19.2023_BAI_BO_TT_BAO_CHI.html",
     "y": "2023",
@@ -11106,7 +11050,7 @@
     "id": "20110806"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "QD 04.2012 gia han TNDN",
     "fn": "019.QD 04.2012 gia han TNDN.mht",
     "p": "I.THUE/009._MIEN_GIAM_-_UU_DAI/006.NAM_2012/019.QD_04.2012_gia_han_TNDN.html",
     "y": "2012",
@@ -11190,7 +11134,7 @@
     "id": "20120821"
   },
   {
-    "n": "TT 67/2025/TT-BTC — Sửa đổi TT 13/2022 hướng dẫn NĐ 10/2022 về lệ phí trước bạ",
+    "n": "NQ 67.2012-gia han GTGT",
     "fn": "025.NQ 67.2012-gia han GTGT.mht",
     "p": "I.THUE/009._MIEN_GIAM_-_UU_DAI/006.NAM_2012/025.NQ_67.2012-gia_han_GTGT.html",
     "y": "2012",
@@ -11204,7 +11148,7 @@
     "id": "20121005"
   },
   {
-    "n": "TT 67/2025/TT-BTC — Sửa đổi TT 13/2022 hướng dẫn NĐ 10/2022 về lệ phí trước bạ",
+    "n": "TT 175.2012 hd NQ67.2012",
     "fn": "026.TT 175.2012 hd NQ67.2012.mht",
     "p": "I.THUE/009._MIEN_GIAM_-_UU_DAI/006.NAM_2012/026.TT_175.2012_hd_NQ67.2012.html",
     "y": "2012",
@@ -11440,7 +11384,7 @@
     "id": "20110323"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "TT 42.2019 BAI BO MG TNCN",
     "fn": "001. TT 42.2019 BAI BO MG TNCN.mht",
     "p": "I.THUE/009._MIEN_GIAM_-_UU_DAI/012._NAM_2019/001._TT_42.2019_BAI_BO_MG_TNCN.html",
     "y": "2019",
@@ -12110,7 +12054,7 @@
     "p3": ""
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "TONG HOP HIEP DINH 2019",
     "fn": "TONG HOP HIEP DINH 2019.mht",
     "p": "I.THUE/010._HIEP_DINH/TONG_HOP_HIEP_DINH_2019.html",
     "y": "",
@@ -12123,7 +12067,7 @@
     "p3": ""
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "CV 855.2019 HD THU TUC",
     "fn": "CV_855.2019 HD THU TUC.mht",
     "p": "I.THUE/010._HIEP_DINH/001._CONG_VAN/CV_855.2019_HD_THU_TUC.html",
     "y": "2019",
@@ -12621,7 +12565,7 @@
     "id": "20211231"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "TT 30.2019 LAP DS BHYTE",
     "fn": "04. TT 30.2019 LAP DS BHYTE.mht",
     "p": "I.THUE/012._LINH_VUC_LIEN_QUAN/003.BAO_HIEM_Y_TE/04._TT_30.2019_LAP_DS_BHYTE.html",
     "y": "2019",
@@ -12884,7 +12828,7 @@
     "p3": "006. LUAT DAU TU"
   },
   {
-    "n": "TT 67/2025/TT-BTC — Sửa đổi TT 13/2022 hướng dẫn NĐ 10/2022 về lệ phí trước bạ",
+    "n": "LUAT DAU TU 67.2014",
     "fn": "001. LUAT DAU TU 67.2014.mht",
     "p": "I.THUE/012._LINH_VUC_LIEN_QUAN/006._LUAT_DAU_TU/001._LUAT_DAU_TU_67.2014.html",
     "y": "2014",
@@ -12951,7 +12895,7 @@
     "id": "20201230"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "LUAT LAO DONG 45.2019",
     "fn": "002. LUAT LAO DONG 45.2019.mht",
     "p": "I.THUE/012._LINH_VUC_LIEN_QUAN/007._LUAT_LAO_DONG/002._LUAT_LAO_DONG_45.2019.html",
     "y": "2019",
@@ -13101,7 +13045,7 @@
     "p3": "010. XAY DUNG"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "TT 11.2019 GIA CA MAY XAY DUNG",
     "fn": "006. TT 11.2019 GIA CA MAY XAY DUNG.mht",
     "p": "I.THUE/012._LINH_VUC_LIEN_QUAN/010._XAY_DUNG/006._TT_11.2019_GIA_CA_MAY_XAY_DUNG.html",
     "y": "2019",
@@ -13115,7 +13059,7 @@
     "id": "20191226"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "TT 07.2019 SUA TT 03.2016 PHAN CAP CONG TRINH XD",
     "fn": "007. TT 07.2019 SUA TT 03.2016 PHAN CAP CONG TRINH XD.mht",
     "p": "I.THUE/012._LINH_VUC_LIEN_QUAN/010._XAY_DUNG/007._TT_07.2019_SUA_TT_03.2016_PHAN_CAP_CONG_TRINH_XD.html",
     "y": "2019",
@@ -13129,7 +13073,7 @@
     "id": "20160310"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "TT 15.2019 DON GIA NHAN CONG XAY DUNG",
     "fn": "008. TT 15.2019 DON GIA NHAN CONG XAY DUNG.mht",
     "p": "I.THUE/012._LINH_VUC_LIEN_QUAN/010._XAY_DUNG/008._TT_15.2019_DON_GIA_NHAN_CONG_XAY_DUNG.html",
     "y": "2019",
@@ -13336,7 +13280,7 @@
     "id": "20250219"
   },
   {
-    "n": "TT 67/2025/TT-BTC — Sửa đổi TT 13/2022 hướng dẫn NĐ 10/2022 về lệ phí trước bạ",
+    "n": "Nghi Quyet 1679.2025 ten Xa tai Quang Ninh",
     "fn": "Nghi Quyet 1679.2025 ten Xa tai Quang Ninh.mht",
     "p": "I.THUE/012._LINH_VUC_LIEN_QUAN/016._Dat_Dai/Nghi_Quyet_1679.2025_ten_Xa_tai_Quang_Ninh.html",
     "y": "2025",
@@ -13392,7 +13336,7 @@
     "id": "20131003"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "ND19.2020 XU LY KY LUAT THI HANH XU PHAT VPHC",
     "fn": "021. ND19.2020 XU LY KY LUAT THI HANH XU PHAT VPHC.mht",
     "p": "I.THUE/013._XU_PHAT/021._ND19.2020_XU_LY_KY_LUAT_THI_HANH_XU_PHAT_VPHC.html",
     "y": "2020",
@@ -13433,7 +13377,7 @@
     "p3": ""
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "ND 91.2019 XU PHAT DAT DAI",
     "fn": "022. ND 91.2019 XU PHAT DAT DAI.mht",
     "p": "I.THUE/013._XU_PHAT/022._ND_91.2019_XU_PHAT_DAT_DAI.html",
     "y": "2019",
@@ -13459,7 +13403,7 @@
     "p3": ""
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "ND 141.2018 PHAT KD DA CAP (het HL)",
     "fn": "019. ND 141.2018 PHAT KD DA CAP (het HL).mht",
     "p": "I.THUE/013._XU_PHAT/019._ND_141.2018_PHAT_KD_DA_CAP_(het_HL).html",
     "y": "2018",
@@ -13817,7 +13761,7 @@
     "id": "20210121"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "CV 4659.2019 HOA DON BHP",
     "fn": "012. CV 4659.2019 HOA DON BHP.mht",
     "p": "I.THUE/013._XU_PHAT/0002.CONG_VAN/012._CV_4659.2019_HOA_DON_BHP.html",
     "y": "2019",
@@ -13857,7 +13801,7 @@
     "id": "20140226"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "CV 1982.2009 cham TK chua QT",
     "fn": "006.CV 1982.2009 cham TK chua QT.mht",
     "p": "I.THUE/013._XU_PHAT/0002.CONG_VAN/006.CV_1982.2009_cham_TK_chua_QT.html",
     "y": "2009",
@@ -13898,7 +13842,7 @@
     "p3": "0003. LUAT XU PHAT VPHC"
   },
   {
-    "n": "TT 67/2025/TT-BTC — Sửa đổi TT 13/2022 hướng dẫn NĐ 10/2022 về lệ phí trước bạ",
+    "n": "Luat 67.2020 sua Luat 15.2012 VPHC",
     "fn": "003. Luat 67.2020 sua Luat 15.2012 VPHC.mht",
     "p": "I.THUE/013._XU_PHAT/0003._LUAT_XU_PHAT_VPHC/003._Luat_67.2020_sua_Luat_15.2012_VPHC.html",
     "y": "2020",
@@ -14045,7 +13989,7 @@
     "p3": ""
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "TT 85.2019 PLP",
     "fn": "003. TT 85.2019 PLP.mht",
     "p": "II._PHI_VA_LE_PHI/003._TT_85.2019_PLP.html",
     "y": "2019",
@@ -14322,7 +14266,7 @@
     "id": "20111215"
   },
   {
-    "n": "TT 67/2025/TT-BTC — Sửa đổi TT 13/2022 hướng dẫn NĐ 10/2022 về lệ phí trước bạ",
+    "n": "Luat67.2011",
     "fn": "07. Luat67.2011.mht",
     "p": "III.KIEM_TOAN/DOC_LAP/07._Luat67.2011.html",
     "y": "2011",
@@ -14541,7 +14485,7 @@
     "p3": ""
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "TT 44.2019 SUA TT 292.2016 CAP NHAT KIEN THUC KT",
     "fn": "002. TT 44.2019 SUA TT 292.2016 CAP NHAT KIEN THUC KT.mht",
     "p": "IV.KE_TOAN/002._TT_44.2019_SUA_TT_292.2016_CAP_NHAT_KIEN_THUC_KT.html",
     "y": "2019",
@@ -14814,7 +14758,7 @@
     "id": "20091231"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "QD 19.2006 KTHCSN",
     "fn": "003.QD 19.2006 KTHCSN.mht",
     "p": "IV.KE_TOAN/001.VBPQ_KE_TOAN/0001.HET_HIEU_LUC/003.QD_19.2006_KTHCSN.html",
     "y": "2006",
@@ -15155,7 +15099,7 @@
     "id": "20240718"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "TT 07.2019 DK HTX",
     "fn": "005. TT 07.2019 DK HTX.mht",
     "p": "V.DOANH_NGHIEP_-_HTX/002._HOP_TAC_XA/005._TT_07.2019_DK_HTX.html",
     "y": "2019",
@@ -15183,7 +15127,7 @@
     "id": "20180330"
   },
   {
-    "n": "QĐ 19/2025/QĐ-TTg — Bảng danh mục và mã số các đơn vị hành chính Việt Nam",
+    "n": "ND 107.2017 SUA ND 193.2013 HTX",
     "fn": "003. ND 107.2017 SUA ND 193.2013 HTX.mht",
     "p": "V.DOANH_NGHIEP_-_HTX/002._HOP_TAC_XA/003._ND_107.2017_SUA_ND_193.2013_HTX.html",
     "y": "2017",
@@ -15286,15 +15230,15 @@
     "hl": 1
   },
   {
-    "n": "TT 130/2025/TT-BTC — Quy định Hệ thống Mục lục ngân sách nhà nước",
+    "n": "TT 130/2016/TT-BTC — Hướng dẫn NĐ 100/2016 về thuế GTGT và Quản lý thuế",
     "t": "TT",
     "tx": "QLT",
     "p": "I.THUE/001._VBPQ_THUE/001.LUAT_QLT/TT_130.2025_MLNS.html",
     "p3": "001.LUAT_QLT",
-    "id": "20251224",
+    "id": "20161228",
     "s": "I.THUE",
     "p2": "001. VBPQ THUE",
-    "hl": 1
+    "hl": 0
   },
   {
     "n": "NĐ 189/2025/NĐ-CP — Hướng dẫn Luật Xử lý vi phạm hành chính về thẩm quyền xử phạt",
