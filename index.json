@@ -1054,20 +1054,6 @@
     "id": "20160701"
   },
   {
-    "n": "TT 130/2016/TT-BTC — Hướng dẫn NĐ 100/2016/NĐ-CP về Thuế GTGT và Quản lý thuế",
-    "fn": "010. TT 130.2016 QLT-GTGT-TTDB.mht",
-    "p": "I.THUE/001._VBPQ_THUE/005.THUE_TTDB/010._TT_130.2016_QLT-GTGT-TTDB.html",
-    "y": "2016",
-    "t": "TT",
-    "tx": "GTGT",
-    "tl": "Thuế TTĐB",
-    "hl": 1,
-    "s": "I.THUE",
-    "p2": "001. VBPQ THUE",
-    "p3": "005.THUE TTDB",
-    "id": "20160812"
-  },
-  {
     "n": "VBHN 02/VBHN-VPQH (2016) — Luật Thuế TTĐB (hợp nhất)",
     "fn": "013. LUAT TTDB 02.2016 VBHN.mht",
     "p": "I.THUE/001._VBPQ_THUE/005.THUE_TTDB/013._LUAT_TTDB_02.2016_VBHN.html",
@@ -15742,6 +15728,14 @@
     "tx": "QLT",
     "p": "I.THUE/012._LINH_VUC_LIEN_QUAN/017._QL_von_nha_nuoc/001._ND_366.2025_ql_von_Nha_nuoc_NN.html",
     "p3": "017.QL_VON_NHA_NUOC",
-    "id": "20241211"
+    "id": "20251231"
+  },
+  {
+    "n": "TT 130/2025/TT-BTC — Quy định Hệ thống Mục lục ngân sách nhà nước",
+    "t": "TT",
+    "tx": "QLT",
+    "p": "I.THUE/001._VBPQ_THUE/001.LUAT_QLT/TT_130.2025_MLNS.html",
+    "p3": "001.LUAT_QLT",
+    "id": "20251224"
   }
 ]
